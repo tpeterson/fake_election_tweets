@@ -35,7 +35,7 @@ function reqTweets(handle, path, cb) {
   };
 
   https.request(link, function(res) {
-    if(res.statusCode !== 200) {
+    if (res.statusCode !== 200) {
       return console.log('Error ' + res.statusCode);
     }
 
@@ -49,10 +49,10 @@ function reqTweets(handle, path, cb) {
       let info = JSON.parse(data.toString());
       let tweets = processTweets(info);
       tweets_gotten = tweets_gotten.concat(tweets);
-      let oldest_date = Date.parse(new Date(tweets[tweets.length-1].timestamp));
+      let oldest_date = Date.parse(new Date(tweets[tweets.length - 1].timestamp));
 
       if (date_cutoff < oldest_date) {
-        let max_id = tweets[tweets.length-1].id;
+        let max_id = tweets[tweets.length - 1].id;
         tweets_gotten.pop();
 
         console.log(`Tweets gotten: ${tweets_gotten.length}`);

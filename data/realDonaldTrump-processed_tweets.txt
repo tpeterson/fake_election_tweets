@@ -4,8 +4,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 20 14:05:01 +0000 2016",
     "text": "I have always had a good relationship with Chuck Schumer. He is far smarter than Harry R and has the ability to get things done. Good news!",
-    "retweets": 10197,
-    "favorites": 47021,
+    "retweets": 10204,
+    "favorites": 47095,
     "urls": 0
   },
   {
@@ -13,8 +13,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 20 13:39:05 +0000 2016",
     "text": "General James \"Mad Dog\" Mattis, who is being considered for Secretary of Defense, was very impressive yesterday. A true General's General!",
-    "retweets": 19466,
-    "favorites": 70939,
+    "retweets": 19496,
+    "favorites": 71072,
     "urls": 0
   },
   {
@@ -22,8 +22,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 20 13:26:04 +0000 2016",
     "text": "I watched parts of @nbcsnl Saturday Night Live last night. It is a totally one-sided, biased show - nothing funny at all. Equal time for us?",
-    "retweets": 14775,
-    "favorites": 60641,
+    "retweets": 14791,
+    "favorites": 60733,
     "urls": 0
   },
   {
@@ -31,8 +31,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 20 11:44:23 +0000 2016",
     "text": "Numerous patriots will be coming to Bedminster today as I continue to fill out the various positions necessary to MAKE AMERICA GREAT AGAIN!",
-    "retweets": 13169,
-    "favorites": 61640,
+    "retweets": 13173,
+    "favorites": 61715,
     "urls": 0
   },
   {
@@ -40,8 +40,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 20 11:22:34 +0000 2016",
     "text": "The cast and producers of Hamilton, which I hear is highly overrated, should immediately apologize to Mike Pence for their terrible behavior",
-    "retweets": 24534,
-    "favorites": 95865,
+    "retweets": 24549,
+    "favorites": 95967,
     "urls": 0
   },
   {
@@ -49,8 +49,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 19 13:56:30 +0000 2016",
     "text": "The Theater must always be a safe and special place.The cast of Hamilton was very rude last night to a very good man, Mike Pence. Apologize!",
-    "retweets": 43967,
-    "favorites": 146014,
+    "retweets": 43978,
+    "favorites": 146065,
     "urls": 0
   },
   {
@@ -58,8 +58,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 19 13:48:31 +0000 2016",
     "text": "Our wonderful future V.P. Mike Pence was harassed last night at the theater by the cast of Hamilton, cameras blazing.This should not happen!",
-    "retweets": 34034,
-    "favorites": 119211,
+    "retweets": 34043,
+    "favorites": 119258,
     "urls": 0
   },
   {
@@ -67,8 +67,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 19 13:39:34 +0000 2016",
     "text": "The ONLY bad thing about winning the Presidency is that I did not have the time to go through a long but winning trial on Trump U. Too bad!",
-    "retweets": 12683,
-    "favorites": 59618,
+    "retweets": 12687,
+    "favorites": 59650,
     "urls": 0
   },
   {
@@ -76,8 +76,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 19 13:34:38 +0000 2016",
     "text": "I settled the Trump University lawsuit for a small fraction of the potential award because as President I have to focus on our country.",
-    "retweets": 16032,
-    "favorites": 86768,
+    "retweets": 16035,
+    "favorites": 86804,
     "urls": 0
   },
   {
@@ -85,8 +85,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 18 22:35:27 +0000 2016",
     "text": "Will be working all weekend in choosing the great men and women who will be helping to MAKE AMERICA GREAT AGAIN!",
-    "retweets": 26585,
-    "favorites": 119498,
+    "retweets": 26587,
+    "favorites": 119536,
     "urls": 0
   },
   {
@@ -94,8 +94,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 18 02:15:28 +0000 2016",
     "text": "I worked hard with Bill Ford to keep the Lincoln plant in Kentucky. I owed it to the great State of Kentucky for their confidence in me!",
-    "retweets": 29203,
-    "favorites": 115783,
+    "retweets": 29205,
+    "favorites": 115801,
     "urls": 0
   },
   {
@@ -103,8 +103,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 18 02:01:52 +0000 2016",
     "text": "Just got a call from my friend Bill Ford, Chairman of Ford, who advised me that he will be keeping the Lincoln plant in Kentucky - no Mexico",
-    "retweets": 49470,
-    "favorites": 164350,
+    "retweets": 49471,
+    "favorites": 164381,
     "urls": 0
   },
   {
@@ -112,8 +112,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Thu Nov 17 12:46:23 +0000 2016",
     "text": "My transition team, which is working long hours and doing a fantastic job, will be seeing many great candidates today. #MAGA",
-    "retweets": 21391,
-    "favorites": 96300,
+    "retweets": 21392,
+    "favorites": 96312,
     "urls": 0
   },
   {
@@ -121,8 +121,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 16 12:25:21 +0000 2016",
     "text": "Australia, New Zealand, and more. I am always available to them. @nytimes is just upset that they looked like fools in their coverage of me.",
-    "retweets": 24448,
-    "favorites": 90710,
+    "retweets": 24449,
+    "favorites": 90714,
     "urls": 0
   },
   {
@@ -130,8 +130,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 16 12:17:12 +0000 2016",
     "text": "I have recieved and taken calls from many foreign leaders despite what the failing @nytimes said. Russia, U.K., China, Saudi Arabia, Japan,",
-    "retweets": 26009,
-    "favorites": 88524,
+    "retweets": 26011,
+    "favorites": 88529,
     "urls": 0
   },
   {
@@ -139,8 +139,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 16 12:12:30 +0000 2016",
     "text": "The failing @nytimes story is so totally wrong on transition. It is going so smoothly. Also, I have spoken to many foreign leaders.",
-    "retweets": 21055,
-    "favorites": 77368,
+    "retweets": 21056,
+    "favorites": 77375,
     "urls": 0
   },
   {
@@ -148,8 +148,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 16 11:28:57 +0000 2016",
     "text": "I am not trying to get \"top level security clearance\" for my children. This was a typically false news story.",
-    "retweets": 31584,
-    "favorites": 99938,
+    "retweets": 31585,
+    "favorites": 99950,
     "urls": 0
   },
   {
@@ -157,8 +157,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 16 02:55:34 +0000 2016",
     "text": "Very organized process taking place as I decide on Cabinet and many other positions. I am the only one who knows who the finalists are!",
-    "retweets": 27835,
-    "favorites": 120095,
+    "retweets": 27836,
+    "favorites": 120102,
     "urls": 0
   },
   {
@@ -166,8 +166,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 15 13:40:29 +0000 2016",
     "text": "The Electoral College is actually genius in that it brings all states, including the smaller ones, into play. Campaigning is much different!",
-    "retweets": 39740,
-    "favorites": 128556,
+    "retweets": 39744,
+    "favorites": 128569,
     "urls": 0
   },
   {
@@ -175,8 +175,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 15 13:34:43 +0000 2016",
     "text": "If the election were based on total popular vote I would have campaigned in  N.Y. Florida and California and won even bigger and more easily",
-    "retweets": 50553,
-    "favorites": 179929,
+    "retweets": 50557,
+    "favorites": 179939,
     "urls": 0
   },
   {
@@ -184,8 +184,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 18:46:36 +0000 2016",
     "text": "The debates, especially the second and third, plus speeches and intensity of the large rallies, plus OUR GREAT SUPPORTERS, gave us the win!",
-    "retweets": 23795,
-    "favorites": 114289,
+    "retweets": 23796,
+    "favorites": 114294,
     "urls": 0
   },
   {
@@ -193,8 +193,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 16:33:26 +0000 2016",
     "text": "I will be interviewed on @60Minutes tonight after the NFL game - 7:00 P.M. Enjoy!",
-    "retweets": 16689,
-    "favorites": 78712,
+    "retweets": 16690,
+    "favorites": 78714,
     "urls": 0
   },
   {
@@ -202,8 +202,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 16:03:21 +0000 2016",
     "text": "The @nytimes states today that DJT believes \"more countries should acquire nuclear weapons.\" How dishonest are they. I never said this!",
-    "retweets": 29917,
-    "favorites": 94365,
+    "retweets": 29918,
+    "favorites": 94371,
     "urls": 0
   },
   {
@@ -211,8 +211,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 15:28:52 +0000 2016",
     "text": "Governor John Kasich of the GREAT, GREAT, GREAT State of Ohio called to congratulate me on the win. The people of Ohio were incredible!",
-    "retweets": 22973,
-    "favorites": 125516,
+    "retweets": 22974,
+    "favorites": 125517,
     "urls": 0
   },
   {
@@ -220,8 +220,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 15:23:28 +0000 2016",
     "text": "Jeb Bush, George W and George H.W. all called to express their best wishes on the win. Very nice!",
-    "retweets": 18355,
-    "favorites": 108024,
+    "retweets": 18356,
+    "favorites": 108027,
     "urls": 0
   },
   {
@@ -229,8 +229,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 14:45:28 +0000 2016",
     "text": "Mitt Romney called to congratulate me on the win. Very nice!",
-    "retweets": 15669,
-    "favorites": 111502,
+    "retweets": 15670,
+    "favorites": 111505,
     "urls": 0
   },
   {
@@ -239,7 +239,7 @@
     "timestamp": "Sun Nov 13 14:43:09 +0000 2016",
     "text": "The @nytimes sent a letter to their subscribers apologizing for their BAD coverage of me. I wonder if it will change - doubt it?",
     "retweets": 22578,
-    "favorites": 87763,
+    "favorites": 87764,
     "urls": 0
   },
   {
@@ -247,8 +247,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 13 14:16:46 +0000 2016",
     "text": "Wow, the @nytimes is losing thousands of subscribers because of their very poor and highly inaccurate coverage of the \"Trump phenomena\"",
-    "retweets": 35679,
-    "favorites": 128684,
+    "retweets": 35680,
+    "favorites": 128685,
     "urls": 0
   },
   {
@@ -256,8 +256,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 12 15:05:33 +0000 2016",
     "text": "This will prove to be a great time in the lives of ALL Americans. We will unite and we will win, win, win!",
-    "retweets": 54703,
-    "favorites": 204131,
+    "retweets": 54705,
+    "favorites": 204135,
     "urls": 0
   },
   {
@@ -265,8 +265,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 11 15:26:37 +0000 2016",
     "text": "Today we express our deepest gratitude to all those who have served in our armed forces. #ThankAVet https://t.co/wPk7QWpK8Z",
-    "retweets": 47999,
-    "favorites": 170333,
+    "retweets": 48000,
+    "favorites": 170335,
     "urls": 0
   },
   {
@@ -274,8 +274,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 11 13:33:35 +0000 2016",
     "text": "Busy day planned in New York. Will soon be making some very important decisions on the people who will be running our government!",
-    "retweets": 33964,
-    "favorites": 180671,
+    "retweets": 33965,
+    "favorites": 180672,
     "urls": 0
   },
   {
@@ -284,7 +284,7 @@
     "timestamp": "Fri Nov 11 11:14:20 +0000 2016",
     "text": "Love the fact that the small groups of protesters last night have passion for our great country. We will all come together and be proud!",
     "retweets": 57543,
-    "favorites": 224722,
+    "favorites": 224724,
     "urls": 0
   },
   {
@@ -292,8 +292,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 11 02:19:44 +0000 2016",
     "text": "Just had a very open and successful presidential election. Now professional protesters, incited by the media, are protesting. Very unfair!",
-    "retweets": 71367,
-    "favorites": 235132,
+    "retweets": 71369,
+    "favorites": 235133,
     "urls": 0
   },
   {
@@ -301,8 +301,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 11 02:10:46 +0000 2016",
     "text": "A fantastic day in D.C. Met with President Obama for first time. Really good meeting, great chemistry. Melania liked Mrs. O a lot!",
-    "retweets": 38684,
-    "favorites": 195154,
+    "retweets": 38686,
+    "favorites": 195155,
     "urls": 0
   },
   {
@@ -310,8 +310,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Thu Nov 10 19:31:27 +0000 2016",
     "text": "Happy 241st birthday to the U.S. Marine Corps! Thank you for your service!! https://t.co/Lz2dhrXzo4",
-    "retweets": 46298,
-    "favorites": 171104,
+    "retweets": 46299,
+    "favorites": 171106,
     "urls": 0
   },
   {
@@ -319,8 +319,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 09 11:36:58 +0000 2016",
     "text": "Such a beautiful and important evening! The forgotten man and woman will never be forgotten again. We will all come together as never before",
-    "retweets": 226118,
-    "favorites": 640328,
+    "retweets": 226119,
+    "favorites": 640329,
     "urls": 0
   },
   {
@@ -328,8 +328,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Wed Nov 09 02:48:27 +0000 2016",
     "text": "Watching the returns at 9:45pm. \n#ElectionNight #MAGA🇺🇸 https://t.co/HfuJeRZbod",
-    "retweets": 46215,
-    "favorites": 192493,
+    "retweets": 46216,
+    "favorites": 192492,
     "urls": 0
   },
   {
@@ -337,8 +337,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 23:03:42 +0000 2016",
     "text": "Still time to #VoteTrump! \n#iVoted #ElectionNight https://t.co/UZtYAY1Ba6",
-    "retweets": 25629,
-    "favorites": 66181,
+    "retweets": 25630,
+    "favorites": 66182,
     "urls": 0
   },
   {
@@ -346,7 +346,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 21:31:20 +0000 2016",
     "text": "Don't let up, keep getting out to vote - this election is FAR FROM OVER! We are doing well but there is much time left. GO FLORIDA!",
-    "retweets": 36698,
+    "retweets": 36699,
     "favorites": 118228,
     "urls": 0
   },
@@ -355,7 +355,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 21:28:24 +0000 2016",
     "text": "Just out according to @CNN: \"Utah officials report voting machine problems across entire country\"",
-    "retweets": 21978,
+    "retweets": 21979,
     "favorites": 47743,
     "urls": 0
   },
@@ -364,7 +364,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 21:18:04 +0000 2016",
     "text": "I will be watching the election results from Trump Tower in Manhattan with my family and friends. Very exciting!",
-    "retweets": 25238,
+    "retweets": 25239,
     "favorites": 126901,
     "urls": 0
   },
@@ -373,7 +373,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 18:23:39 +0000 2016",
     "text": "#ElectionDay https://t.co/MXrAxYnTjY https://t.co/FZhOncih21",
-    "retweets": 25614,
+    "retweets": 25615,
     "favorites": 61133,
     "urls": [
       {
@@ -393,7 +393,7 @@
     "timestamp": "Tue Nov 08 18:03:49 +0000 2016",
     "text": "We need your vote. Go to the POLLS! Let's continue this MOVEMENT! Find your poll location: https://t.co/VMUdvi1tx1… https://t.co/zGOx74Ebhw",
     "retweets": 24366,
-    "favorites": 62418,
+    "favorites": 62419,
     "urls": [
       {
         "url": "https://t.co/VMUdvi1tx1",
@@ -420,7 +420,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 16:39:36 +0000 2016",
     "text": "VOTE TODAY! Go to https://t.co/MXrAxYnTjY to find your polling location. We are going to Make America Great Again!… https://t.co/KPQ5EY9VwQ",
-    "retweets": 29832,
+    "retweets": 29833,
     "favorites": 68883,
     "urls": [
       {
@@ -448,8 +448,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 11:43:14 +0000 2016",
     "text": "TODAY WE MAKE AMERICA GREAT AGAIN!",
-    "retweets": 352173,
-    "favorites": 577068,
+    "retweets": 352175,
+    "favorites": 577070,
     "urls": 0
   },
   {
@@ -457,8 +457,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 06:42:36 +0000 2016",
     "text": "Today we are going to win the great state of MICHIGAN and we are going to WIN back the White House! Thank you MI!… https://t.co/onRpEvzHrW",
-    "retweets": 17593,
-    "favorites": 54731,
+    "retweets": 17594,
+    "favorites": 54730,
     "urls": [
       {
         "url": "https://t.co/onRpEvzHrW",
@@ -495,7 +495,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 00:17:57 +0000 2016",
     "text": "Big news to share in New Hampshire tonight! Polls looking great! See you soon.",
-    "retweets": 13482,
+    "retweets": 13483,
     "favorites": 44477,
     "urls": 0
   },
@@ -504,7 +504,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 00:16:15 +0000 2016",
     "text": "Today in Florida, I pledged to stand with the people of Cuba and Venezuela in their fight against oppression- cont: https://t.co/8eELqk2wUw",
-    "retweets": 13924,
+    "retweets": 13925,
     "favorites": 36739,
     "urls": [
       {
@@ -523,7 +523,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Tue Nov 08 00:08:28 +0000 2016",
     "text": "Thank you Pennsylvania! Going to New Hampshire now and on to Michigan. Watch PA rally here: https://t.co/d29DLINGst… https://t.co/zcH9crFIKM",
-    "retweets": 9110,
+    "retweets": 9111,
     "favorites": 29325,
     "urls": [
       {
@@ -551,8 +551,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 23:28:48 +0000 2016",
     "text": "LIVE on #Periscope: Join me for a few minutes in Pennsylvania. Get out &amp; VOTE tomorrow. LETS #MAGA!! https://t.co/Ej0LmMK3YU",
-    "retweets": 10197,
-    "favorites": 31198,
+    "retweets": 10198,
+    "favorites": 31199,
     "urls": [
       {
         "url": "https://t.co/Ej0LmMK3YU",
@@ -579,7 +579,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 21:37:25 +0000 2016",
     "text": "'America must decide between failed policies or fresh perspective, a corrupt system or an outsider'\nhttps://t.co/ll8QIW9SqW",
-    "retweets": 16143,
+    "retweets": 16144,
     "favorites": 37280,
     "urls": [
       {
@@ -598,7 +598,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 21:35:14 +0000 2016",
     "text": "'What I Like About Trump ... and Why You Need to Vote for Him'\nhttps://t.co/6rVuDUehZq",
-    "retweets": 9656,
+    "retweets": 9657,
     "favorites": 23961,
     "urls": [
       {
@@ -617,7 +617,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 21:32:26 +0000 2016",
     "text": "'Why Trump' https://t.co/RpwIYB7aOV",
-    "retweets": 7274,
+    "retweets": 7275,
     "favorites": 17969,
     "urls": [
       {
@@ -636,7 +636,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 21:03:13 +0000 2016",
     "text": "I love you North Carolina- thank you for your amazing support! Get out and https://t.co/HfihPERFgZ tomorrow!\nWatch:… https://t.co/jZzfqUZNYh",
-    "retweets": 10900,
+    "retweets": 10901,
     "favorites": 30987,
     "urls": [
       {
@@ -664,8 +664,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 19:31:54 +0000 2016",
     "text": "On my way! https://t.co/6L2ILD6r8h",
-    "retweets": 8481,
-    "favorites": 26414,
+    "retweets": 8482,
+    "favorites": 26412,
     "urls": [
       {
         "url": "https://t.co/6L2ILD6r8h",
@@ -683,7 +683,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 19:30:12 +0000 2016",
     "text": "Just landed in North Carolina- heading to the J.S. Dorton Arena. See you all soon! Lets #MakeAmericaGreatAgain! https://t.co/EUo0keWX1Y",
-    "retweets": 14757,
+    "retweets": 14758,
     "favorites": 41162,
     "urls": 0
   },
@@ -692,7 +692,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 17:10:20 +0000 2016",
     "text": "Starting tomorrow it's going to be #AmericaFirst! Thank you for a great morning Sarasota, Florida!\nWatch here:… https://t.co/ig62Kjkkvl",
-    "retweets": 14115,
+    "retweets": 14116,
     "favorites": 36268,
     "urls": [
       {
@@ -711,7 +711,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 06:35:39 +0000 2016",
     "text": "Thank you for you support Virginia! In ONE DAY - get out and #VoteTrumpPence16! #ICYMI: https://t.co/Nid8qcFTwY https://t.co/WOsEcjM8sm",
-    "retweets": 12696,
+    "retweets": 12697,
     "favorites": 33847,
     "urls": [
       {
@@ -731,7 +731,7 @@
     "timestamp": "Mon Nov 07 04:14:31 +0000 2016",
     "text": "Thank you Pennsylvania- I am forever grateful for your amazing support. Lets MAKE AMERICA GREAT AGAIN! #MAGA… https://t.co/qbcJZAzw6z",
     "retweets": 18830,
-    "favorites": 48808,
+    "favorites": 48809,
     "urls": [
       {
         "url": "https://t.co/qbcJZAzw6z",
@@ -749,7 +749,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 01:52:18 +0000 2016",
     "text": "Thank you Michigan! This is a MOVEMENT that will never be seen again- it's our last chance to #DrainTheSwamp! Watch… https://t.co/cSdGkCFYRL",
-    "retweets": 15929,
+    "retweets": 15928,
     "favorites": 39476,
     "urls": [
       {
@@ -768,7 +768,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Mon Nov 07 00:09:41 +0000 2016",
     "text": "Our American comeback story begins 11/8/16. Together, we will MAKE AMERICA SAFE &amp; GREAT again for everyone! Watch:… https://t.co/ek8Cn3CgTr",
-    "retweets": 15305,
+    "retweets": 15306,
     "favorites": 37355,
     "urls": [
       {
@@ -834,7 +834,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 06 19:26:58 +0000 2016",
     "text": "Thank you Iowa - Get out &amp; #VoteTrumpPence16! \nhttps://t.co/HfihPERFgZ https://t.co/QsukELQmKb",
-    "retweets": 9308,
+    "retweets": 9309,
     "favorites": 26682,
     "urls": [
       {
@@ -853,7 +853,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 06 17:06:08 +0000 2016",
     "text": "Van Jones: ‘There Is A Crack in the Blue Wall’ — It Has to Do With Trade: https://t.co/BvEF9cC7o7",
-    "retweets": 8637,
+    "retweets": 8638,
     "favorites": 19482,
     "urls": [
       {
@@ -910,7 +910,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 06 00:20:16 +0000 2016",
     "text": "Join me live in Reno, Nevada!\nhttps://t.co/T4bf1hrxaA https://t.co/EPqRXHa1CM",
-    "retweets": 4767,
+    "retweets": 4768,
     "favorites": 17796,
     "urls": [
       {
@@ -929,8 +929,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Nov 06 00:19:18 +0000 2016",
     "text": "JOIN ME TOMORROW!\nMINNESOTA • 2pm\nhttps://t.co/WcgLh4prS7\n\nMICHIGAN • 6pm\nhttps://t.co/9BqGVKNNrt\n\nVIRGINIA • 9:30p… https://t.co/A1oVhCrT6t",
-    "retweets": 6989,
-    "favorites": 18432,
+    "retweets": 6990,
+    "favorites": 18433,
     "urls": [
       {
         "url": "https://t.co/WcgLh4prS7",
@@ -966,7 +966,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 05 21:46:34 +0000 2016",
     "text": "#DrainTheSwamp!\nhttps://t.co/z68vGp9Bvf",
-    "retweets": 11041,
+    "retweets": 11042,
     "favorites": 22233,
     "urls": [
       {
@@ -985,7 +985,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 05 21:39:44 +0000 2016",
     "text": "Top Clinton Aides Bemoan Campaign ‘All Tactics,’ No Vision: https://t.co/mHYvQtIq78",
-    "retweets": 8246,
+    "retweets": 8247,
     "favorites": 16687,
     "urls": [
       {
@@ -1004,7 +1004,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 05 21:38:01 +0000 2016",
     "text": "‘Must Act Immediately’: Clinton Charity Lawyer Told Execs They Were Breaking The Law\nhttps://t.co/hsi4qhqTV1",
-    "retweets": 12820,
+    "retweets": 12821,
     "favorites": 21566,
     "urls": [
       {
@@ -1023,7 +1023,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 05 21:27:32 +0000 2016",
     "text": "Watch Coach Mike Ditka- a great guy and supporter tonight at 8pmE on #WattersWorld with @jessebwatters @FoxNews.",
-    "retweets": 6855,
+    "retweets": 6856,
     "favorites": 21124,
     "urls": 0
   },
@@ -1098,8 +1098,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Nov 05 13:33:10 +0000 2016",
     "text": "MAKE AMERICA GREAT AGAIN!",
-    "retweets": 60725,
-    "favorites": 117126,
+    "retweets": 60722,
+    "favorites": 117125,
     "urls": 0
   },
   {
@@ -1164,7 +1164,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 04 23:31:28 +0000 2016",
     "text": "The only thing that can stop this corrupt machine is YOU. The only force strong enough to save our country is US.… https://t.co/7dcSHOkuzc",
-    "retweets": 34382,
+    "retweets": 34381,
     "favorites": 65814,
     "urls": [
       {
@@ -1183,7 +1183,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 04 23:14:59 +0000 2016",
     "text": "Thank you Ohio! VOTE so we can replace Obamacare and save healthcare for every family in the United States! Watch:… https://t.co/7CH8ZnGdOa",
-    "retweets": 9688,
+    "retweets": 9687,
     "favorites": 25578,
     "urls": [
       {
@@ -1221,8 +1221,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Nov 04 19:07:20 +0000 2016",
     "text": "If Obama worked as hard on straightening out our country as he has trying to protect and elect Hillary, we would all be much better off!",
-    "retweets": 42337,
-    "favorites": 103509,
+    "retweets": 42336,
+    "favorites": 103501,
     "urls": 0
   },
   {
@@ -1401,7 +1401,7 @@
     "timestamp": "Thu Nov 03 19:25:37 +0000 2016",
     "text": "Watching my beautiful wife, Melania, speak about our love of country and family. We will make you all very proud.… https://t.co/DiKmSnTlC2",
     "retweets": 16965,
-    "favorites": 56051,
+    "favorites": 56052,
     "urls": [
       {
         "url": "https://t.co/DiKmSnTlC2",
@@ -1737,7 +1737,7 @@
     "timestamp": "Tue Nov 01 21:20:04 +0000 2016",
     "text": "Hillary Advisers Wanted Her To Avoid Supporting Israel When Talking To Democrats: https://t.co/y7m8iVU173",
     "retweets": 9243,
-    "favorites": 16108,
+    "favorites": 16109,
     "urls": [
       {
         "url": "https://t.co/y7m8iVU173",
@@ -1803,7 +1803,7 @@
     "timestamp": "Tue Nov 01 17:24:18 +0000 2016",
     "text": "#ICYMI: Governor @mike_pence and I were in Valley Forge, Pennsylvania today. You can watch it here:… https://t.co/6GWgmCV23Z",
     "retweets": 7731,
-    "favorites": 20898,
+    "favorites": 20899,
     "urls": [
       {
         "url": "https://t.co/6GWgmCV23Z",
@@ -2242,7 +2242,7 @@
     "timestamp": "Sat Oct 29 16:54:54 +0000 2016",
     "text": "Tomorrow!\n\nLas Vegas, NV- 11a: https://t.co/KluudKImvn\nGreeley, CO- 4p: https://t.co/JYimiIbqKB\nAlbuquerque, NM- 7p: https://t.co/7SCol4vQlM",
     "retweets": 6079,
-    "favorites": 14062,
+    "favorites": 14060,
     "urls": [
       {
         "url": "https://t.co/KluudKImvn",
@@ -2492,7 +2492,7 @@
     "timestamp": "Thu Oct 27 22:27:20 +0000 2016",
     "text": "\"@KeithRowland: People in Arizona just got a taste of Obamacare with a 116% increase in premiums. @realDonaldTrump\" Repeal and replace!",
     "retweets": 14998,
-    "favorites": 29615,
+    "favorites": 29614,
     "urls": 0
   },
   {
@@ -2878,7 +2878,7 @@
     "timestamp": "Tue Oct 25 22:28:43 +0000 2016",
     "text": "Thank you Sanford, Florida. Get out &amp; VOTE #TrumpPence16! #ICYMI- watch this afternoons rally here:… https://t.co/zVXrScClfd",
     "retweets": 10297,
-    "favorites": 25107,
+    "favorites": 25105,
     "urls": [
       {
         "url": "https://t.co/zVXrScClfd",
@@ -2962,7 +2962,7 @@
     "timestamp": "Tue Oct 25 18:27:06 +0000 2016",
     "text": "Truly honored to receive the first ever presidential endorsement from the Bay of Pigs Veterans Association. #MAGA… https://t.co/aRdlFkVjAx",
     "retweets": 20017,
-    "favorites": 49607,
+    "favorites": 49606,
     "urls": [
       {
         "url": "https://t.co/aRdlFkVjAx",
@@ -2981,7 +2981,7 @@
     "timestamp": "Tue Oct 25 16:20:43 +0000 2016",
     "text": "Obamacare is a disaster - as I've been saying from the beginning. Time to repeal &amp; replace! \n#ObamacareFail https://t.co/5CvoMbVceT",
     "retweets": 17318,
-    "favorites": 31832,
+    "favorites": 31831,
     "urls": 0
   },
   {
@@ -3037,7 +3037,7 @@
     "timestamp": "Tue Oct 25 15:20:18 +0000 2016",
     "text": "#ObamacareFail https://t.co/Mb0YW1rg6g",
     "retweets": 12635,
-    "favorites": 23410,
+    "favorites": 23409,
     "urls": 0
   },
   {
@@ -3122,7 +3122,7 @@
     "timestamp": "Tue Oct 25 01:43:26 +0000 2016",
     "text": "Record crowd in Tampa, Florida- thank you! We will WIN FLORIDA, #DrainTheSwamp in Washington D.C. and MAKE AMERICA… https://t.co/IpSUYnXcp6",
     "retweets": 15532,
-    "favorites": 35331,
+    "favorites": 35330,
     "urls": [
       {
         "url": "https://t.co/IpSUYnXcp6",
@@ -3178,7 +3178,7 @@
     "timestamp": "Mon Oct 24 21:50:25 +0000 2016",
     "text": "'Democratic operative caught on camera: Hillary PERSONALLY ordered 'Donald Duck' troll campaign that broke the law'\nhttps://t.co/sTreHAfYUH",
     "retweets": 19907,
-    "favorites": 30449,
+    "favorites": 30448,
     "urls": [
       {
         "url": "https://t.co/sTreHAfYUH",
@@ -3385,7 +3385,7 @@
     "timestamp": "Mon Oct 24 12:44:29 +0000 2016",
     "text": "Major story that the Dems are making up phony polls in order to suppress the the Trump . We are going to WIN!",
     "retweets": 19361,
-    "favorites": 45701,
+    "favorites": 45700,
     "urls": 0
   },
   {
@@ -3572,7 +3572,7 @@
     "timestamp": "Sun Oct 23 03:00:32 +0000 2016",
     "text": "Thank you for the massive turnout tonight- Cleveland, Ohio! Get out &amp; VOTE #TrumpPence16 on 11/8.\nWatch rally here:… https://t.co/XuJZeJwSGk",
     "retweets": 14679,
-    "favorites": 36724,
+    "favorites": 36722,
     "urls": [
       {
         "url": "https://t.co/XuJZeJwSGk",
@@ -3931,7 +3931,7 @@
     "timestamp": "Fri Oct 21 22:50:00 +0000 2016",
     "text": "#CrookedHillary sending U.S. intelligence info. to Podesta’s hacked email is ‘unquestionably an OPSEC violation’ https://t.co/z58aeo4CO7",
     "retweets": 12238,
-    "favorites": 21379,
+    "favorites": 21377,
     "urls": [
       {
         "url": "https://t.co/z58aeo4CO7",
@@ -3950,7 +3950,7 @@
     "timestamp": "Fri Oct 21 22:46:37 +0000 2016",
     "text": "WikiLeaks reveals Clinton camp’s work with ‘VERY friendly and malleable reporters’ \n#DrainTheSwamp #CrookedHillary\nhttps://t.co/bcYLslrxi0",
     "retweets": 9596,
-    "favorites": 17600,
+    "favorites": 17598,
     "urls": [
       {
         "url": "https://t.co/bcYLslrxi0",
@@ -4026,7 +4026,7 @@
     "timestamp": "Fri Oct 21 22:10:57 +0000 2016",
     "text": "VERY IRONIC: \"In 2010 video, Clinton lectured underlings on cybersecurity and guarding ‘sensitive information’\" \nhttps://t.co/dL7VDMqSLy",
     "retweets": 11649,
-    "favorites": 21177,
+    "favorites": 21176,
     "urls": [
       {
         "url": "https://t.co/dL7VDMqSLy",
@@ -4550,7 +4550,7 @@
     "timestamp": "Thu Oct 20 02:28:17 +0000 2016",
     "text": "USA has the greatest business people in the world but we let political hacks negotiate our deals. We need change! #BigLeagueTruth #Debate",
     "retweets": 8472,
-    "favorites": 21418,
+    "favorites": 21416,
     "urls": 0
   },
   {
@@ -5234,7 +5234,7 @@
     "timestamp": "Wed Oct 19 21:22:26 +0000 2016",
     "text": "Obamacare premiums increasing 33% in Pennsylvania - a complete disaster. It must be repealed and replaced!… https://t.co/aDZEfcI7SM",
     "retweets": 10540,
-    "favorites": 20414,
+    "favorites": 20413,
     "urls": [
       {
         "url": "https://t.co/aDZEfcI7SM",
@@ -5310,7 +5310,7 @@
     "timestamp": "Wed Oct 19 18:10:41 +0000 2016",
     "text": "'Dem Operative Who Oversaw Trump Rally Agitators Visited White House 342 Times' #DrainTheSwamp \nhttps://t.co/MO4SJaQMzo",
     "retweets": 12278,
-    "favorites": 19018,
+    "favorites": 19017,
     "urls": [
       {
         "url": "https://t.co/MO4SJaQMzo",
@@ -5604,7 +5604,7 @@
     "timestamp": "Tue Oct 18 15:34:06 +0000 2016",
     "text": "Pay-to-play. Collusion. Cover-ups. And now bribery? So CROOKED. I will #DrainTheSwamp. https://t.co/FNzMit7mD8",
     "retweets": 15877,
-    "favorites": 27446,
+    "favorites": 27445,
     "urls": [
       {
         "url": "https://t.co/FNzMit7mD8",
@@ -5717,7 +5717,7 @@
     "timestamp": "Mon Oct 17 22:46:12 +0000 2016",
     "text": "Yet more evidence of a media-rigged election: https://t.co/rVh4ocgx3r",
     "retweets": 12221,
-    "favorites": 20363,
+    "favorites": 20362,
     "urls": [
       {
         "url": "https://t.co/rVh4ocgx3r",
@@ -5736,7 +5736,7 @@
     "timestamp": "Mon Oct 17 22:02:11 +0000 2016",
     "text": "I will sign the first bill to repeal #Obamacare and give Americans many choices and much lower rates!",
     "retweets": 14921,
-    "favorites": 39614,
+    "favorites": 39612,
     "urls": 0
   },
   {
@@ -5849,7 +5849,7 @@
     "timestamp": "Mon Oct 17 16:12:24 +0000 2016",
     "text": "Wow, new polls just came out from @CNN   Great numbers, especially after total media hit job. Leading Ohio 48 - 44.",
     "retweets": 14387,
-    "favorites": 38024,
+    "favorites": 38022,
     "urls": 0
   },
   {
@@ -5867,7 +5867,7 @@
     "timestamp": "Mon Oct 17 15:20:17 +0000 2016",
     "text": "Unbelievable. https://t.co/D7kpxlQPwU",
     "retweets": 14983,
-    "favorites": 27391,
+    "favorites": 27394,
     "urls": [
       {
         "url": "https://t.co/D7kpxlQPwU",
@@ -5997,7 +5997,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sun Oct 16 22:29:46 +0000 2016",
     "text": "Animals representing Hillary Clinton and Dems in North Carolina just firebombed our office in Orange County because we are winning @NCGOP",
-    "retweets": 23647,
+    "retweets": 23646,
     "favorites": 47087,
     "urls": 0
   },
@@ -6007,7 +6007,7 @@
     "timestamp": "Sun Oct 16 22:15:33 +0000 2016",
     "text": "Wow, interview released by Wikileakes shows \"quid pro quo\" in Crooked Hillary e-mail probe.Such a dishonest person - &amp; Paul Ryan does zilch!",
     "retweets": 14846,
-    "favorites": 33895,
+    "favorites": 33894,
     "urls": 0
   },
   {
@@ -6016,7 +6016,7 @@
     "timestamp": "Sun Oct 16 21:02:34 +0000 2016",
     "text": "Finally, in the new ABC News/Washington Post Poll, Hillary Clinton is down 11 points with WOMEN VOTERS and the election is close at 47-43!",
     "retweets": 14925,
-    "favorites": 39428,
+    "favorites": 39427,
     "urls": 0
   },
   {
@@ -6025,7 +6025,7 @@
     "timestamp": "Sun Oct 16 20:54:37 +0000 2016",
     "text": "Paul Ryan, a man who doesn't know how to win (including failed run four years ago), must start focusing on the budget, military, vets etc.",
     "retweets": 11245,
-    "favorites": 31401,
+    "favorites": 31400,
     "urls": 0
   },
   {
@@ -6034,7 +6034,7 @@
     "timestamp": "Sun Oct 16 20:47:23 +0000 2016",
     "text": "The Democrats have a corrupt political machine pushing crooked Hillary Clinton. We have Paul Ryan, always fighting the Republican nominee!",
     "retweets": 12773,
-    "favorites": 33851,
+    "favorites": 33850,
     "urls": 0
   },
   {
@@ -6258,7 +6258,7 @@
     "timestamp": "Sat Oct 15 22:49:18 +0000 2016",
     "text": "The failing @nytimes reporters don't even call us anymore, they just write whatever they want to write, making up sources along the way!",
     "retweets": 16362,
-    "favorites": 40091,
+    "favorites": 40086,
     "urls": 0
   },
   {
@@ -6667,7 +6667,7 @@
     "timestamp": "Wed Oct 12 13:46:43 +0000 2016",
     "text": "Very little pick-up by the dishonest media of incredible information provided by WikiLeaks. So dishonest! Rigged system!",
     "retweets": 21239,
-    "favorites": 53458,
+    "favorites": 53454,
     "urls": 0
   },
   {
@@ -6676,7 +6676,7 @@
     "timestamp": "Wed Oct 12 12:59:05 +0000 2016",
     "text": "Crooked Hillary Clinton likes to talk about the things she will do but she has been there for 30 years - why didn't she do them?",
     "retweets": 19023,
-    "favorites": 52031,
+    "favorites": 52029,
     "urls": 0
   },
   {
@@ -7266,7 +7266,7 @@
     "timestamp": "Mon Oct 10 01:35:26 +0000 2016",
     "text": "We must repeal Obamacare and replace it with a much more competitive, comprehensive, affordable system. #debate #MAGA",
     "retweets": 7033,
-    "favorites": 20912,
+    "favorites": 20910,
     "urls": 0
   },
   {
@@ -7496,7 +7496,7 @@
     "timestamp": "Sun Oct 09 14:01:33 +0000 2016",
     "text": "\"@Jodygirl1010: @realDonaldTrump I am a woman who continues to support &amp; stand with #Trump! #dtmag https://t.co/nFmY3FJuEf\" Thank you.",
     "retweets": 10486,
-    "favorites": 26322,
+    "favorites": 26321,
     "urls": 0
   },
   {
@@ -7505,7 +7505,7 @@
     "timestamp": "Sun Oct 09 13:17:02 +0000 2016",
     "text": "EXCLUSIVE — Video Interview: Bill Clinton Accuser Juanita Broaddrick Relives Brutal Rapes:\nhttps://t.co/9j7f8VK9Md",
     "retweets": 16918,
-    "favorites": 25978,
+    "favorites": 25977,
     "urls": [
       {
         "url": "https://t.co/9j7f8VK9Md",
@@ -7541,8 +7541,8 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Oct 08 19:40:48 +0000 2016",
     "text": "The media and establishment want me out of the race so badly -  I WILL NEVER DROP OUT OF THE RACE, WILL NEVER LET MY SUPPORTERS DOWN! #MAGA",
-    "retweets": 41581,
-    "favorites": 107462,
+    "retweets": 41582,
+    "favorites": 107463,
     "urls": 0
   },
   {
@@ -8406,7 +8406,7 @@
     "timestamp": "Tue Oct 04 19:48:15 +0000 2016",
     "text": "My childcare plan makes a difference for working families - more money, more freedom. #AmericaFirst means… https://t.co/X3Yn3FZphf",
     "retweets": 9312,
-    "favorites": 23201,
+    "favorites": 23200,
     "urls": [
       {
         "url": "https://t.co/X3Yn3FZphf",
@@ -8815,7 +8815,7 @@
     "timestamp": "Fri Sep 30 07:20:02 +0000 2016",
     "text": "Anytime you see a story about me or my campaign saying \"sources said,\" DO NOT believe it. There are no sources, they are just made up lies!",
     "retweets": 19052,
-    "favorites": 47217,
+    "favorites": 47213,
     "urls": 0
   },
   {
@@ -8871,7 +8871,7 @@
     "timestamp": "Thu Sep 29 19:16:40 +0000 2016",
     "text": "Join me in Manheim, Pennsylvania on Saturday at 7pm! #TrumpRally\nTickets: https://t.co/ADOGW34ctF https://t.co/LNWQZ9yUJy",
     "retweets": 7122,
-    "favorites": 16993,
+    "favorites": 16992,
     "urls": [
       {
         "url": "https://t.co/ADOGW34ctF",
@@ -9097,7 +9097,7 @@
     "timestamp": "Wed Sep 28 01:03:03 +0000 2016",
     "text": "Unbelievable evening in Melbourne, Florida w/ 15,000 supporters- and an additional 12,000 who could not get in. Tha… https://t.co/VU5wh2zXBU",
     "retweets": 16763,
-    "favorites": 45908,
+    "favorites": 45906,
     "urls": [
       {
         "url": "https://t.co/VU5wh2zXBU",
@@ -9713,7 +9713,7 @@
     "timestamp": "Mon Sep 26 22:31:53 +0000 2016",
     "text": "My team of deplorables will be managing my Twitter account for this evenings debate. Tune in!\n#DebateNight #TrumpPence16",
     "retweets": 19689,
-    "favorites": 58432,
+    "favorites": 58433,
     "urls": 0
   },
   {
@@ -9870,7 +9870,7 @@
     "timestamp": "Sat Sep 24 12:43:52 +0000 2016",
     "text": "\"@KellyannePolls: Trump is headed for a win, says professor who has predicted 30 years of presidential outcomes   https://t.co/68WEMcuHSO\"",
     "retweets": 10119,
-    "favorites": 25031,
+    "favorites": 25029,
     "urls": [
       {
         "url": "https://t.co/68WEMcuHSO",
@@ -10215,7 +10215,7 @@
     "timestamp": "Tue Sep 20 13:50:56 +0000 2016",
     "text": "Thank you Nevada! #AmericaFirst\n#MakeAmericaGreatAgain \nhttps://t.co/3KWOl2ibaW https://t.co/RJqHgq2Rn0",
     "retweets": 5967,
-    "favorites": 17640,
+    "favorites": 17639,
     "urls": [
       {
         "url": "https://t.co/3KWOl2ibaW",
@@ -10262,7 +10262,7 @@
     "timestamp": "Tue Sep 20 00:26:50 +0000 2016",
     "text": "Amazing rally in Florida - this is a MOVEMENT! Join us today at https://t.co/3KWOl2ibaW. https://t.co/BF1IqPXNho",
     "retweets": 8249,
-    "favorites": 22777,
+    "favorites": 22776,
     "urls": [
       {
         "url": "https://t.co/3KWOl2ibaW",
@@ -10489,7 +10489,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Sat Sep 17 05:53:09 +0000 2016",
     "text": "Crooked Hillary wants to take your 2nd Amendment rights away. Will guns be taken from her heavily armed Secret Service detail? Maybe not!",
-    "retweets": 14452,
+    "retweets": 14451,
     "favorites": 40105,
     "urls": 0
   },
@@ -10694,7 +10694,7 @@
     "timestamp": "Thu Sep 15 15:39:10 +0000 2016",
     "text": "Thank you @JerryJrFalwell! https://t.co/jzUQxkW4tB",
     "retweets": 3375,
-    "favorites": 10961,
+    "favorites": 10960,
     "urls": [
       {
         "url": "https://t.co/jzUQxkW4tB",
@@ -10806,7 +10806,7 @@
     "timestamp": "Thu Sep 15 00:57:20 +0000 2016",
     "text": "Great evening in Canton, Ohio-thank you! We are going to MAKE AMERICA GREAT AGAIN! Join us: \nhttps://t.co/3KWOl2ibaW https://t.co/4MvwUj9eX9",
     "retweets": 6216,
-    "favorites": 19095,
+    "favorites": 19093,
     "urls": [
       {
         "url": "https://t.co/3KWOl2ibaW",
@@ -10901,7 +10901,7 @@
     "timestamp": "Wed Sep 14 14:02:28 +0000 2016",
     "text": "Great poll Florida - thank you! \n#ImWithYou #AmericaFirst https://t.co/6Odle7j1hd",
     "retweets": 11572,
-    "favorites": 33747,
+    "favorites": 33745,
     "urls": 0
   },
   {
@@ -11370,7 +11370,7 @@
     "account": "realDonaldTrump",
     "timestamp": "Fri Sep 09 00:39:36 +0000 2016",
     "text": "It wasn't Matt Lauer that hurt Hillary last night. It was her very dumb answer about emails &amp; the veteran who said she should be in jail.",
-    "retweets": 15153,
+    "retweets": 15154,
     "favorites": 44016,
     "urls": 0
   },
@@ -12018,7 +12018,7 @@
     "timestamp": "Thu Sep 01 10:40:13 +0000 2016",
     "text": "Thank you to @foxandfriends for the great review of the speech on immigration last night. Thank you also to the great people of Arizona!",
     "retweets": 7039,
-    "favorites": 28922,
+    "favorites": 28920,
     "urls": 0
   },
   {
@@ -12470,7 +12470,7 @@
     "timestamp": "Sat Aug 27 17:48:47 +0000 2016",
     "text": "My condolences to Dwyane Wade and his family, on the loss of Nykea Aldridge. They are in my thoughts and prayers.",
     "retweets": 9080,
-    "favorites": 31283,
+    "favorites": 31281,
     "urls": 0
   },
   {
@@ -12684,7 +12684,7 @@
     "timestamp": "Fri Aug 26 14:20:55 +0000 2016",
     "text": "What do African-Americans and Hispanics have to lose by going with me. Look at the poverty, crime and educational statistics. I will fix it!",
     "retweets": 10632,
-    "favorites": 31178,
+    "favorites": 31177,
     "urls": 0
   },
   {
@@ -13072,7 +13072,7 @@
     "timestamp": "Tue Aug 23 13:53:11 +0000 2016",
     "text": "It is being reported by virtually everyone, and is a fact,  that the media pile on against me is the worst in American political history!",
     "retweets": 12162,
-    "favorites": 40097,
+    "favorites": 40096,
     "urls": 0
   },
   {
@@ -13956,7 +13956,7 @@
     "timestamp": "Fri Aug 12 17:36:31 +0000 2016",
     "text": "Unbelievable support in Florida last night - thank you! #MAGA https://t.co/WNDAagFRRS",
     "retweets": 7681,
-    "favorites": 24205,
+    "favorites": 24202,
     "urls": 0
   },
   {
@@ -14056,7 +14056,7 @@
     "timestamp": "Thu Aug 11 14:15:40 +0000 2016",
     "text": "This is no surprise. Constant phony reporting from failing @CNN turns everyone off. The American people get it! https://t.co/a1A6XMfYx1",
     "retweets": 11030,
-    "favorites": 30563,
+    "favorites": 30562,
     "urls": [
       {
         "url": "https://t.co/a1A6XMfYx1",
@@ -15021,7 +15021,7 @@
     "timestamp": "Tue Aug 02 18:27:51 +0000 2016",
     "text": "#ICYMI: John Podesta’s Brother Pocketed $180,000 from Putin’s Uranium Company: https://t.co/d0LfyiBlvX https://t.co/I5fF3didZs",
     "retweets": 8217,
-    "favorites": 14691,
+    "favorites": 14692,
     "urls": [
       {
         "url": "https://t.co/d0LfyiBlvX",
@@ -15105,7 +15105,7 @@
     "timestamp": "Tue Aug 02 10:24:03 +0000 2016",
     "text": "The Washington Post calls out #CrookedHillary for what she REALLY is. A PATHOLOGICAL LIAR! Watch that nose grow! https://t.co/FsrUGByuuD",
     "retweets": 26867,
-    "favorites": 51297,
+    "favorites": 51295,
     "urls": 0
   },
   {
@@ -15132,7 +15132,7 @@
     "timestamp": "Tue Aug 02 01:33:45 +0000 2016",
     "text": "Vast numbers of manufacturing jobs in Pennsylvania have moved to Mexico and other countries. That will end when I win!",
     "retweets": 8606,
-    "favorites": 27530,
+    "favorites": 27529,
     "urls": 0
   },
   {
@@ -15234,7 +15234,7 @@
     "timestamp": "Mon Aug 01 21:42:57 +0000 2016",
     "text": "Crooked Hillary Clinton is 100% owned by her donors. #ImWithYou #MAGA https://t.co/iYM3CCWS2z",
     "retweets": 16788,
-    "favorites": 36980,
+    "favorites": 36977,
     "urls": 0
   },
   {
@@ -15443,7 +15443,7 @@
     "timestamp": "Sat Jul 30 23:00:07 +0000 2016",
     "text": "Thank you to all of the television viewers that made my speech at the Republican National Convention #1 over Crooked Hillary and DEMS.",
     "retweets": 11054,
-    "favorites": 45087,
+    "favorites": 45085,
     "urls": 0
   },
   {
@@ -15507,7 +15507,7 @@
     "timestamp": "Sat Jul 30 21:55:48 +0000 2016",
     "text": "#CrookedHillary = Obama's third term, which would be terrible news for our economic growth - seen below. https://t.co/y9WJoUaaql",
     "retweets": 10415,
-    "favorites": 25796,
+    "favorites": 25792,
     "urls": 0
   },
   {
@@ -15653,7 +15653,7 @@
     "timestamp": "Sat Jul 30 12:54:44 +0000 2016",
     "text": "Hillary can never win over Bernie supporters. Her foreign wars, \nNAFTA/TPP support &amp; Wall Street ties are driving away millions of votes.",
     "retweets": 8239,
-    "favorites": 25304,
+    "favorites": 25303,
     "urls": 0
   },
   {
@@ -15800,7 +15800,7 @@
     "timestamp": "Fri Jul 29 17:53:47 +0000 2016",
     "text": "What Bernie Sanders really thinks of Crooked Hillary Clinton. https://t.co/VgMaAsZBep",
     "retweets": 21679,
-    "favorites": 42134,
+    "favorites": 42131,
     "urls": 0
   },
   {
@@ -15818,7 +15818,7 @@
     "timestamp": "Fri Jul 29 17:03:56 +0000 2016",
     "text": "Wow, my campaign is hearing from more and more Bernie supporters that they will NEVER support Crooked Hillary. She sold them out, V.P. pick!",
     "retweets": 10348,
-    "favorites": 35925,
+    "favorites": 35923,
     "urls": 0
   },
   {
@@ -15983,7 +15983,7 @@
     "timestamp": "Fri Jul 29 12:40:10 +0000 2016",
     "text": "The media coverage this morning of the very average Clinton speech and Convention is a joke. @CNN and the little watched @Morning_Joe = SAD!",
     "retweets": 5987,
-    "favorites": 20942,
+    "favorites": 20940,
     "urls": 0
   },
   {
@@ -16287,7 +16287,7 @@
     "timestamp": "Wed Jul 27 17:16:56 +0000 2016",
     "text": "Great new poll - thank you!\n#MakeAmericaGreatAgain https://t.co/mXovx0TLPC",
     "retweets": 13996,
-    "favorites": 37933,
+    "favorites": 37931,
     "urls": 0
   },
   {
@@ -16305,7 +16305,7 @@
     "timestamp": "Wed Jul 27 16:03:07 +0000 2016",
     "text": "Join our next Vice President, @Mike_Pence in Wisconsin tonight &amp; Michigan Thursday!\n\nMI: https://t.co/daR2xIhCEs\nWI: https://t.co/LKc7e4VZkB",
     "retweets": 4103,
-    "favorites": 13384,
+    "favorites": 13383,
     "urls": [
       {
         "url": "https://t.co/daR2xIhCEs",
@@ -16496,7 +16496,7 @@
     "timestamp": "Tue Jul 26 18:20:48 +0000 2016",
     "text": "Thank you New Hampshire! \n#MakeAmericaGreatAgain https://t.co/KRCdV77BQp",
     "retweets": 6390,
-    "favorites": 20857,
+    "favorites": 20856,
     "urls": 0
   },
   {
@@ -16543,7 +16543,7 @@
     "timestamp": "Tue Jul 26 12:42:33 +0000 2016",
     "text": "Pocahontas bombed last night! Sad to watch.",
     "retweets": 8404,
-    "favorites": 31866,
+    "favorites": 31862,
     "urls": 0
   },
   {
@@ -16624,7 +16624,7 @@
     "timestamp": "Mon Jul 25 21:33:49 +0000 2016",
     "text": "While Bernie has totally given up on his fight for the people, we welcome all voters who want a better future for our workers.",
     "retweets": 14640,
-    "favorites": 44620,
+    "favorites": 44617,
     "urls": 0
   },
   {
@@ -17262,7 +17262,7 @@
     "timestamp": "Thu Jul 21 04:32:03 +0000 2016",
     "text": "Great job @EricTrump! Proud of you!\n#AmericaFirst #RNCinCLE https://t.co/S7IHXDrmsJ",
     "retweets": 7038,
-    "favorites": 25907,
+    "favorites": 25906,
     "urls": 0
   },
   {
@@ -17307,7 +17307,7 @@
     "timestamp": "Thu Jul 21 03:45:48 +0000 2016",
     "text": "Wow, Ted Cruz got booed off the stage, didn't honor the pledge! I saw his speech two hours early but let him speak anyway. No big deal!",
     "retweets": 20980,
-    "favorites": 70468,
+    "favorites": 70465,
     "urls": 0
   },
   {
@@ -17565,7 +17565,7 @@
     "timestamp": "Mon Jul 18 20:51:55 +0000 2016",
     "text": "Networks other than low ratings @CNN have been very fair and exciting!",
     "retweets": 4174,
-    "favorites": 16392,
+    "favorites": 16391,
     "urls": 0
   },
   {
@@ -17620,7 +17620,7 @@
     "timestamp": "Sun Jul 17 21:22:23 +0000 2016",
     "text": "Our country is totally divided and our enemies are watching. We are not looking good, we are not looking smart, we are not looking tough!",
     "retweets": 15179,
-    "favorites": 42940,
+    "favorites": 42939,
     "urls": 0
   },
   {
@@ -17694,7 +17694,7 @@
     "timestamp": "Sun Jul 17 13:04:10 +0000 2016",
     "text": ".@FoxNews is much better, and far more truthful, than @CNN, which is all negative. Guests are stacked for Crooked Hillary! I don't watch.",
     "retweets": 5488,
-    "favorites": 20103,
+    "favorites": 20100,
     "urls": 0
   },
   {
@@ -17812,7 +17812,7 @@
     "timestamp": "Sat Jul 16 13:19:11 +0000 2016",
     "text": "Very sad that a person who has made so many mistakes, Crooked Hillary Clinton, can put out such false and vicious ads with her phony money!",
     "retweets": 7103,
-    "favorites": 23085,
+    "favorites": 23083,
     "urls": 0
   },
   {
@@ -17948,7 +17948,7 @@
     "timestamp": "Thu Jul 14 01:19:51 +0000 2016",
     "text": "I will be making the announcement of my Vice Presidential pick on Friday at 11am in Manhattan. Details to follow.",
     "retweets": 15772,
-    "favorites": 44596,
+    "favorites": 44592,
     "urls": 0
   },
   {
@@ -18397,7 +18397,7 @@
     "timestamp": "Fri Jul 08 21:31:01 +0000 2016",
     "text": "Isn't it sad that on a day of national tragedy Hillary Clinton is answering softball questions about her email lies on @CNN?",
     "retweets": 13748,
-    "favorites": 41848,
+    "favorites": 41843,
     "urls": 0
   },
   {
@@ -18434,7 +18434,7 @@
     "timestamp": "Fri Jul 08 11:02:41 +0000 2016",
     "text": "Prayers and condolences to all of the families who are so thoroughly devastated by the horrors we are all watching take place in our country",
     "retweets": 28267,
-    "favorites": 83769,
+    "favorites": 83768,
     "urls": 0
   },
   {
@@ -19054,7 +19054,7 @@
     "timestamp": "Sat Jul 02 11:48:18 +0000 2016",
     "text": "Just read in the failing @nytimes that I was not aware \"the event had to be held in Cleveland\" - a total lie. These people are sick!",
     "retweets": 4007,
-    "favorites": 12865,
+    "favorites": 12864,
     "urls": 0
   },
   {
