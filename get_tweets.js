@@ -3,8 +3,9 @@ const querystring = require('querystring');
 const fs = require('fs');
 
 const bearer_token = process.env.TWITTER_BEARER_TOKEN;
+
 const account_handle = 'petersontee';
-const tweets_to_get = 200;
+const date_cutoff = Date.parse(new Date(Date.UTC(2016, 6, 1)));
 let tweets_gotten = [];
 
 function getTweets(handle) {
@@ -48,14 +49,14 @@ function reqTweets(handle, path, cb) {
       let info = JSON.parse(data.toString());
       let tweets = processTweets(info);
       tweets_gotten = tweets_gotten.concat(tweets);
+      let oldest_date = Date.parse(new Date(tweets[tweets.length-1].timestamp));
 
-      if (tweets_gotten.length < tweets_to_get) {
+      if (date_cutoff < oldest_date) {
         let max_id = tweets[tweets.length-1].id;
         tweets_gotten.pop();
 
-        let tweets_remaining = tweets_to_get-tweets_gotten.length;
         console.log(`Tweets gotten: ${tweets_gotten.length}`);
-        console.log(`Tweets remaining: ${tweets_remaining}`);
+        console.log(`Oldest timestamp so far: ${new Date(oldest_date)}`);
 
         let path_endpoint = '/1.1/statuses/user_timeline.json';
         let path_query = querystring.stringify({
@@ -101,11 +102,12 @@ function checkURLs(entities) {
 }
 
 getTweets(account_handle).then(function(res) {
-  console.log(res.length);
-  let tweet_data = res.slice(0,200);
-  console.log(tweet_data.length);
+  console.log(`Tweets processed: ${res.length}`);
+  let tweet_data = res.filter(function checkDates(tweet) {
+    return Date.parse(tweet.timestamp) > date_cutoff;
+  });
   fs.writeFile('./processed_tweets.txt', JSON.stringify(tweet_data, null, 2), function(err) {
     if (err) throw err;
-    console.log('It\'s saved!');
+    console.log(`Tweets saved: ${tweet_data.length}`);
   });
 });
