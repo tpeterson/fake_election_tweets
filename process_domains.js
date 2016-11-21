@@ -7,6 +7,8 @@ function processDomain(domain) {
   let top_domain = url_obj.host;
   if (top_domain.startsWith('www.')) {
     return top_domain.replace(/^www./, '');
+  } else if (top_domain.startsWith('m.')) {
+    return top_domain.replace(/^m./, '');
   } else {
     return top_domain;
   }
