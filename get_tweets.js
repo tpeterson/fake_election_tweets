@@ -106,7 +106,7 @@ getTweets(account_handle).then(function(res) {
   let tweet_data = res.filter(function checkDates(tweet) {
     return Date.parse(tweet.timestamp) > date_cutoff;
   });
-  fs.writeFile('./processed_tweets.txt', JSON.stringify(tweet_data, null, 2), function(err) {
+  fs.writeFile(`./data/${account_handle}-processed_tweets.txt`, JSON.stringify(tweet_data, null, 2), function(err) {
     if (err) throw err;
     console.log(`Tweets saved: ${tweet_data.length}`);
   });

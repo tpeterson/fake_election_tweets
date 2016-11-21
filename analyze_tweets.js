@@ -1,8 +1,10 @@
 const fs = require('fs');
-const processDomain = require('./process_domains');
-const consolidateDomains = require('./consolidate_domains');
+const processDomain = require('./my_modules/process_domains');
+const consolidateDomains = require('./my_modules/consolidate_domains');
 
 module.exports = analyzeTweets;
+
+const account_handle = 'realDonaldTrump';
 
 function analyzeTweets(tweets) {
   let tweets_w_links = getTweetsWithLinks(tweets);
@@ -65,12 +67,12 @@ function countLinks(tweets) {
 }
 
 if (!module.parent) {
-  const raw_data = fs.readFileSync('./processed_tweets.txt');
+  const raw_data = fs.readFileSync(`./data/${account_handle}-processed_tweets.txt`);
   const tweet_data = JSON.parse(raw_data);
 
   let tweeted_domains = analyzeTweets(tweet_data);
   console.log(`Tweeted domains:\n${tweeted_domains}`);
-  fs.writeFile('./tweeted_domains.txt', JSON.stringify(tweeted_domains, null, 2), function(err) {
+  fs.writeFile(`./data/${account_handle}-tweeted_domains.txt`, JSON.stringify(tweeted_domains, null, 2), function(err) {
     if (err) throw err;
     console.log(`Domains saved: ${tweeted_domains.length}`);
   });
