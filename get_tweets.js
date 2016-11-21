@@ -4,7 +4,7 @@ const fs = require('fs');
 
 const bearer_token = process.env.TWITTER_BEARER_TOKEN;
 
-const account_handle = 'petersontee';
+const account_handle = 'realDonaldTrump';
 const date_cutoff = Date.parse(new Date(Date.UTC(2016, 6, 1)));
 let tweets_gotten = [];
 

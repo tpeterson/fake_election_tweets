@@ -1,46 +1,15 @@
 module.exports = processDomain;
 
+const url = require('url');
+
 function processDomain(domain) {
-  let top_level_domain = getTopLevelDomain(domain);
-  let cleaned_top_level_domain = cleanTopLevelDomain(top_level_domain);
-  return cleaned_top_level_domain;
-}
-
-function getTopLevelDomain(domain) {
-  let regex_http = /^http:\/\/[\w.]+\//;
-  let regex_https =  /^https:\/\/[\w.]+\//;
-
-  let processed_domain = [];
-  if (domain.startsWith('https')) {
-    processed_domain = domain.match(regex_https);
-  } else if (domain.startsWith('http')) {
-    processed_domain = domain.match(regex_http);
+  let url_obj = url.parse(domain);
+  let top_domain = url_obj.host;
+  if (top_domain.startsWith('www.')) {
+    return top_domain.replace(/^www./, '');
+  } else {
+    return top_domain;
   }
-  return processed_domain[0];
-}
-
-function cleanTopLevelDomain(domain) {
-  let top_domain = domain;
-
-  if (top_domain.includes('https://')) {
-    if (top_domain.includes('www')) {
-      top_domain = top_domain.replace('https://www.', '');
-      top_domain = top_domain.replace('/', '');
-    } else {
-      top_domain = top_domain.replace('https://', '');
-      top_domain = top_domain.replace('/', '');
-    }
-  } else if (top_domain.includes('http://')) {
-    if (top_domain.includes('www')) {
-      top_domain = top_domain.replace('http://www.', '');
-      top_domain = top_domain.replace('/', '');
-    } else {
-      top_domain = top_domain.replace('http://', '');
-      top_domain = top_domain.replace('/', '');
-    }
-  }
-
-  return top_domain;
 }
 
 if (!module.parent) {

@@ -69,5 +69,9 @@ if (!module.parent) {
   const tweet_data = JSON.parse(raw_data);
 
   let tweeted_domains = analyzeTweets(tweet_data);
-  console.log(`Tweeted domains: \n ${tweeted_domains}`);
+  console.log(`Tweeted domains:\n${tweeted_domains}`);
+  fs.writeFile('./tweeted_domains.txt', JSON.stringify(tweeted_domains, null, 2), function(err) {
+    if (err) throw err;
+    console.log(`Domains saved: ${tweeted_domains.length}`);
+  });
 }
