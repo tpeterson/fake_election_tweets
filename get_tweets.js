@@ -56,7 +56,7 @@ function reqTweets(handle, path, cb) {
         tweets_gotten.pop();
 
         console.log(`Tweets gotten: ${tweets_gotten.length}`);
-        console.log(`Oldest timestamp so far: ${new Date(oldest_date)}`);
+        console.log(`Oldest timestamp so far: ${(new Date(oldest_date)).toDateString()}`);
 
         let path_endpoint = '/1.1/statuses/user_timeline.json';
         let path_query = querystring.stringify({
