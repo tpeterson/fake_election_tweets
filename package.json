@@ -8,5 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/tpeterson/fake_election_tweets.git"
+},
   "dependencies": {}
 }
