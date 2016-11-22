@@ -1,0 +1,14 @@
+[
+  "twitter.com",
+  "vote.gop",
+  "rdcrss.org",
+  "nyp.st",
+  "gop.com",
+  "gop.cm",
+  "yhoo.it",
+  "wapo.st",
+  "on.wsj.com",
+  "youtu.be",
+  "amp.twimg.com",
+  "youtube.com"
+]

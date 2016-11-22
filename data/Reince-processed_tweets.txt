@@ -1,0 +1,1781 @@
+[
+  {
+    "id": 798946628027777000,
+    "account": "Reince",
+    "timestamp": "Wed Nov 16 17:51:34 +0000 2016",
+    "text": "I send my congratulations to Senator Mitch McConnell on his unanimous re-election as @SenateMajLdr",
+    "retweets": 362,
+    "favorites": 1722,
+    "urls": 0
+  },
+  {
+    "id": 798628029555679200,
+    "account": "Reince",
+    "timestamp": "Tue Nov 15 20:45:34 +0000 2016",
+    "text": "Congratulations to my good friend @PRyan on his unanimous re-election as Speaker of the U.S. House of Representatives!",
+    "retweets": 974,
+    "favorites": 4116,
+    "urls": 0
+  },
+  {
+    "id": 796294247385284600,
+    "account": "Reince",
+    "timestamp": "Wed Nov 09 10:11:57 +0000 2016",
+    "text": "#RNC @GOP !!!!!!!! https://t.co/DbciULyW4q",
+    "retweets": 446,
+    "favorites": 1532,
+    "urls": [
+      {
+        "url": "https://t.co/DbciULyW4q",
+        "expanded_url": "https://twitter.com/frankluntz/status/796248432012824577",
+        "display_url": "twitter.com/frankluntz/sta…",
+        "indices": [
+          19,
+          42
+        ]
+      }
+    ]
+  },
+  {
+    "id": 796282096084025300,
+    "account": "Reince",
+    "timestamp": "Wed Nov 09 09:23:40 +0000 2016",
+    "text": "Very proud to help elect @realDonaldTrump and @mike_pence! https://t.co/BRQ17bwNcE",
+    "retweets": 2694,
+    "favorites": 7956,
+    "urls": 0
+  },
+  {
+    "id": 796261311034392600,
+    "account": "Reince",
+    "timestamp": "Wed Nov 09 08:01:05 +0000 2016",
+    "text": ".@GOP built our ground game operation 4 years ago with tonight in mind. It worked.",
+    "retweets": 1083,
+    "favorites": 3651,
+    "urls": 0
+  },
+  {
+    "id": 796261215647449100,
+    "account": "Reince",
+    "timestamp": "Wed Nov 09 08:00:42 +0000 2016",
+    "text": "Tonight voters made one thing clear: they want Republicans to take the country in a bold new direction",
+    "retweets": 2893,
+    "favorites": 7604,
+    "urls": 0
+  },
+  {
+    "id": 796261129047646200,
+    "account": "Reince",
+    "timestamp": "Wed Nov 09 08:00:21 +0000 2016",
+    "text": "Congratulations to President-elect @realDonaldTrump, Vice President-elect @mike_pence, &amp; our Republican majorities in the House &amp; Senate!",
+    "retweets": 2261,
+    "favorites": 5508,
+    "urls": 0
+  },
+  {
+    "id": 795743526759833600,
+    "account": "Reince",
+    "timestamp": "Mon Nov 07 21:43:35 +0000 2016",
+    "text": "Go to https://t.co/JpwGBnMDI1 to find your polling place https://t.co/G9kNsygDw5",
+    "retweets": 372,
+    "favorites": 717,
+    "urls": [
+      {
+        "url": "https://t.co/JpwGBnMDI1",
+        "expanded_url": "http://vote.gop",
+        "display_url": "vote.gop",
+        "indices": [
+          6,
+          29
+        ]
+      },
+      {
+        "url": "https://t.co/G9kNsygDw5",
+        "expanded_url": "https://twitter.com/wisgop/status/795696616288256001",
+        "display_url": "twitter.com/wisgop/status/…",
+        "indices": [
+          57,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "id": 795355352720179200,
+    "account": "Reince",
+    "timestamp": "Sun Nov 06 20:01:07 +0000 2016",
+    "text": "Revelations that @HillaryClinton asked her maid to print out classified material at her home gives the word reckless a whole new meaning",
+    "retweets": 9236,
+    "favorites": 12801,
+    "urls": 0
+  },
+  {
+    "id": 794537237182632000,
+    "account": "Reince",
+    "timestamp": "Fri Nov 04 13:50:13 +0000 2016",
+    "text": "Yet another month of disappointing job growth means many American families are still hurting in the Obama economy",
+    "retweets": 1077,
+    "favorites": 2002,
+    "urls": 0
+  },
+  {
+    "id": 793887860126396400,
+    "account": "Reince",
+    "timestamp": "Wed Nov 02 18:49:50 +0000 2016",
+    "text": "Happy birthday to Wisconsin's governor and my friend, @GovWalker! https://t.co/tcMWFIvWhV",
+    "retweets": 419,
+    "favorites": 1505,
+    "urls": 0
+  },
+  {
+    "id": 793575377977376800,
+    "account": "Reince",
+    "timestamp": "Tue Nov 01 22:08:08 +0000 2016",
+    "text": "Previously unknown hacking attempts against @HillaryClinton’s unsecure server leaves no doubt she put highly sensitive natl sec info at risk",
+    "retweets": 4027,
+    "favorites": 6153,
+    "urls": 0
+  },
+  {
+    "id": 792128577579913200,
+    "account": "Reince",
+    "timestamp": "Fri Oct 28 22:19:04 +0000 2016",
+    "text": "With FBI re-opening criminal investigation, Democrats on the ballot must now be asked whether or not they still support @HillaryClinton",
+    "retweets": 5522,
+    "favorites": 7910,
+    "urls": 0
+  },
+  {
+    "id": 792071102944145400,
+    "account": "Reince",
+    "timestamp": "Fri Oct 28 18:30:41 +0000 2016",
+    "text": "This development raises serious ?s about what records may not have been turned over &amp; why, &amp; whether they show inte… https://t.co/RIoeHtWulf",
+    "retweets": 2878,
+    "favorites": 4575,
+    "urls": [
+      {
+        "url": "https://t.co/RIoeHtWulf",
+        "expanded_url": "https://twitter.com/i/web/status/792071102944145409",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          125,
+          148
+        ]
+      }
+    ]
+  },
+  {
+    "id": 791697399530065900,
+    "account": "Reince",
+    "timestamp": "Thu Oct 27 17:45:43 +0000 2016",
+    "text": "Talking to volunteers in Stratham, NH Victory Office and thanking them for all of their hard work so far! Keep it u… https://t.co/vNPmEqpp4k",
+    "retweets": 555,
+    "favorites": 1519,
+    "urls": [
+      {
+        "url": "https://t.co/vNPmEqpp4k",
+        "expanded_url": "https://twitter.com/i/web/status/791697399530065920",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 791685510439854100,
+    "account": "Reince",
+    "timestamp": "Thu Oct 27 16:58:29 +0000 2016",
+    "text": "Spending some time at the NH Victory Office in Nashua with @GovernorSununu and @NHJennifer https://t.co/d5fDABwd21",
+    "retweets": 359,
+    "favorites": 968,
+    "urls": 0
+  },
+  {
+    "id": 791665583033053200,
+    "account": "Reince",
+    "timestamp": "Thu Oct 27 15:39:18 +0000 2016",
+    "text": "That Clintons raked in millions while same donors had biz before @HillaryClinton’s State Dept points to clear pay-to-play culture",
+    "retweets": 1588,
+    "favorites": 2492,
+    "urls": 0
+  },
+  {
+    "id": 791665496609398800,
+    "account": "Reince",
+    "timestamp": "Thu Oct 27 15:38:57 +0000 2016",
+    "text": "This memo is smoking gun for how Clintons used their fdn to create a massive for-profit paid speaking &amp; consulting biz to enrich themselves",
+    "retweets": 1291,
+    "favorites": 2025,
+    "urls": 0
+  },
+  {
+    "id": 791096408996667400,
+    "account": "Reince",
+    "timestamp": "Wed Oct 26 01:57:36 +0000 2016",
+    "text": "Great to be back in Wisconsin with @gopbadgers, @RonJohnsonWI, and @Perduesenate! https://t.co/ylhkimGXie",
+    "retweets": 278,
+    "favorites": 808,
+    "urls": 0
+  },
+  {
+    "id": 790588336977154000,
+    "account": "Reince",
+    "timestamp": "Mon Oct 24 16:18:42 +0000 2016",
+    "text": "It’s hard not to see this as anything other than a down payment to influence FBI’s criminal investigation into… https://t.co/bVFAeTwNhY",
+    "retweets": 2280,
+    "favorites": 3085,
+    "urls": [
+      {
+        "url": "https://t.co/bVFAeTwNhY",
+        "expanded_url": "https://twitter.com/i/web/status/790588336977154048",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788938327495942100,
+    "account": "Reince",
+    "timestamp": "Thu Oct 20 03:02:09 +0000 2016",
+    "text": ".@realDonaldTrump is the only candidate ready to shake up Washington and give a voice back to the American people #Debates2016",
+    "retweets": 3104,
+    "favorites": 5442,
+    "urls": 0
+  },
+  {
+    "id": 788938256146718700,
+    "account": "Reince",
+    "timestamp": "Thu Oct 20 03:01:52 +0000 2016",
+    "text": "Tonight @HillaryClinton gave a textbook display of her dishonesty and evasiveness #Debates2016",
+    "retweets": 2207,
+    "favorites": 3940,
+    "urls": 0
+  },
+  {
+    "id": 787794421085409300,
+    "account": "Reince",
+    "timestamp": "Sun Oct 16 23:16:41 +0000 2016",
+    "text": "We are thankful no one was hurt in the attack at @NCGOP's Orange County HQ. This kind of violence &amp; hate have no place in our society",
+    "retweets": 2523,
+    "favorites": 4970,
+    "urls": 0
+  },
+  {
+    "id": 785918308189167600,
+    "account": "Reince",
+    "timestamp": "Tue Oct 11 19:01:40 +0000 2016",
+    "text": "New revelations from @HillaryClinton’s own aides are clearest proof yet the pay-to-play culture that dominated her State Dept knew no limits",
+    "retweets": 3471,
+    "favorites": 4807,
+    "urls": 0
+  },
+  {
+    "id": 785896329646116900,
+    "account": "Reince",
+    "timestamp": "Tue Oct 11 17:34:20 +0000 2016",
+    "text": "Instead of facing consequences for her actions like others have, @HillaryClinton’s been protected at every turn by the Obama Admin",
+    "retweets": 3098,
+    "favorites": 4870,
+    "urls": 0
+  },
+  {
+    "id": 785896180303720400,
+    "account": "Reince",
+    "timestamp": "Tue Oct 11 17:33:45 +0000 2016",
+    "text": "This raises even more questions about Bill Clinton’s tarmac meeting with Obama's AG, Loretta Lynch",
+    "retweets": 2457,
+    "favorites": 3881,
+    "urls": 0
+  },
+  {
+    "id": 785896037365973000,
+    "account": "Reince",
+    "timestamp": "Tue Oct 11 17:33:11 +0000 2016",
+    "text": "Emails showing DOJ was giving @HillaryClinton’s camp inside info about an ongoing investigation into her email server is deeply disturbing",
+    "retweets": 5829,
+    "favorites": 7220,
+    "urls": 0
+  },
+  {
+    "id": 785319272620974100,
+    "account": "Reince",
+    "timestamp": "Mon Oct 10 03:21:19 +0000 2016",
+    "text": "Hillary Clinton spent the night struggling to defend her failed record #Debates2016",
+    "retweets": 4449,
+    "favorites": 10843,
+    "urls": 0
+  },
+  {
+    "id": 784083922154057700,
+    "account": "Reince",
+    "timestamp": "Thu Oct 06 17:32:29 +0000 2016",
+    "text": "The people in path of #HurricaneMatthew need our prayers, support, and charity. You can give to relief efforts here: https://t.co/rwnWc1logB",
+    "retweets": 752,
+    "favorites": 1510,
+    "urls": [
+      {
+        "url": "https://t.co/rwnWc1logB",
+        "expanded_url": "http://rdcrss.org/2cWRLz9",
+        "display_url": "rdcrss.org/2cWRLz9",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 784083794424987600,
+    "account": "Reince",
+    "timestamp": "Thu Oct 06 17:31:58 +0000 2016",
+    "text": "Pulling these ads after getting caught won't cut it. @HillaryClinton should apologize for using storm for votes https://t.co/JGxTZrsnUN",
+    "retweets": 5391,
+    "favorites": 6099,
+    "urls": [
+      {
+        "url": "https://t.co/JGxTZrsnUN",
+        "expanded_url": "http://nyp.st/2dvrnk7",
+        "display_url": "nyp.st/2dvrnk7",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 784071936963993600,
+    "account": "Reince",
+    "timestamp": "Thu Oct 06 16:44:51 +0000 2016",
+    "text": "Couldn't let this crisis go to waste? Shameful @HillaryClinton's campaign even considered exploiting Hurricane Matthew for political gain",
+    "retweets": 2200,
+    "favorites": 3066,
+    "urls": 0
+  },
+  {
+    "id": 783511061823688700,
+    "account": "Reince",
+    "timestamp": "Wed Oct 05 03:36:08 +0000 2016",
+    "text": "Stopped to talk with @seanhannity after @mike_pence's decisive win at the VP #Debates2016 https://t.co/gSVw0C0Bum",
+    "retweets": 1107,
+    "favorites": 3656,
+    "urls": 0
+  },
+  {
+    "id": 783504594936750100,
+    "account": "Reince",
+    "timestamp": "Wed Oct 05 03:10:26 +0000 2016",
+    "text": ".@mike_pence won the debate by offering an alternative to the broken DC status quo that @timkaine &amp; @HillaryClinton spent yrs propping up",
+    "retweets": 2443,
+    "favorites": 5600,
+    "urls": 0
+  },
+  {
+    "id": 783464975520018400,
+    "account": "Reince",
+    "timestamp": "Wed Oct 05 00:33:00 +0000 2016",
+    "text": "Excited to be at the VP #Debates2016 tonight to watch our next Vice President, @mike_pence!",
+    "retweets": 491,
+    "favorites": 1628,
+    "urls": 0
+  },
+  {
+    "id": 782712519861215200,
+    "account": "Reince",
+    "timestamp": "Sun Oct 02 22:43:01 +0000 2016",
+    "text": "Shanah Tovah to all of our Jewish friends celebrating the start of a new and promising year!",
+    "retweets": 403,
+    "favorites": 1176,
+    "urls": 0
+  },
+  {
+    "id": 781877271711756300,
+    "account": "Reince",
+    "timestamp": "Fri Sep 30 15:24:02 +0000 2016",
+    "text": "Earlier this week @mike_pence made phone calls in the Madison, WI field office. Join him: https://t.co/51meAki04n… https://t.co/UrRZKJaiBq",
+    "retweets": 422,
+    "favorites": 908,
+    "urls": [
+      {
+        "url": "https://t.co/51meAki04n",
+        "expanded_url": "http://gop.com/volunteer",
+        "display_url": "gop.com/volunteer",
+        "indices": [
+          90,
+          113
+        ]
+      },
+      {
+        "url": "https://t.co/UrRZKJaiBq",
+        "expanded_url": "https://twitter.com/i/web/status/781877271711756288",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781185329340424200,
+    "account": "Reince",
+    "timestamp": "Wed Sep 28 17:34:30 +0000 2016",
+    "text": "Shimon Peres was one of Israel’s greatest statesmen &amp; a true leader in the cause of peace. His life was a source of inspiration to all. RIP",
+    "retweets": 271,
+    "favorites": 1010,
+    "urls": 0
+  },
+  {
+    "id": 780607857578352600,
+    "account": "Reince",
+    "timestamp": "Tue Sep 27 03:19:50 +0000 2016",
+    "text": ".@HillaryClinton's top 5 lies of the #Debates2016 tonight https://t.co/Ae0Q9FLh41",
+    "retweets": 2175,
+    "favorites": 2983,
+    "urls": [
+      {
+        "url": "https://t.co/Ae0Q9FLh41",
+        "expanded_url": "http://gop.cm/NtFyAX",
+        "display_url": "gop.cm/NtFyAX",
+        "indices": [
+          58,
+          81
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780591424987394000,
+    "account": "Reince",
+    "timestamp": "Tue Sep 27 02:14:33 +0000 2016",
+    "text": "Why should we trust Clinton with our nation's cybersecurity when she so recklessly jeopardized classified information? #Debates2016",
+    "retweets": 3959,
+    "favorites": 5842,
+    "urls": 0
+  },
+  {
+    "id": 780587974140584000,
+    "account": "Reince",
+    "timestamp": "Tue Sep 27 02:00:50 +0000 2016",
+    "text": "It's clear that with @realDonaldTrump we'll save American jobs, lives, and futures #Debates2016 https://t.co/BRuMDTlhfP",
+    "retweets": 1282,
+    "favorites": 2044,
+    "urls": 0
+  },
+  {
+    "id": 779718285919031300,
+    "account": "Reince",
+    "timestamp": "Sat Sep 24 16:25:00 +0000 2016",
+    "text": ".@NMAAHC is important milestone in African American history &amp; opp for all Americans to learn about triumphs &amp; trials throughout our republic",
+    "retweets": 302,
+    "favorites": 785,
+    "urls": 0
+  },
+  {
+    "id": 779718194680344600,
+    "account": "Reince",
+    "timestamp": "Sat Sep 24 16:24:38 +0000 2016",
+    "text": "This weekend we celebrate how @NMAAHC commemorates the legacy of African Americans &amp; preserves it for posterity",
+    "retweets": 233,
+    "favorites": 546,
+    "urls": 0
+  },
+  {
+    "id": 779376354412363800,
+    "account": "Reince",
+    "timestamp": "Fri Sep 23 17:46:17 +0000 2016",
+    "text": "Not only was Cheryl Mills granted immunity, but she was allowed to advise @HillaryClinton during her own questioning by the FBI",
+    "retweets": 3392,
+    "favorites": 3358,
+    "urls": 0
+  },
+  {
+    "id": 779376271352627200,
+    "account": "Reince",
+    "timestamp": "Fri Sep 23 17:45:57 +0000 2016",
+    "text": "The fact that @HillaryClinton’s top aide &amp; attorney was granted immunity by the FBI is shocking",
+    "retweets": 2031,
+    "favorites": 2595,
+    "urls": 0
+  },
+  {
+    "id": 777979586273345500,
+    "account": "Reince",
+    "timestamp": "Mon Sep 19 21:16:02 +0000 2016",
+    "text": "Together we'll #MakeAmericaGreatAgain! https://t.co/ypQlz5lXMG",
+    "retweets": 1005,
+    "favorites": 1711,
+    "urls": 0
+  },
+  {
+    "id": 776895515330023400,
+    "account": "Reince",
+    "timestamp": "Fri Sep 16 21:28:19 +0000 2016",
+    "text": "In Little Haiti - @realDonaldTrump is holding a listening session. Great crowd - everyone enjoying the conversation. https://t.co/ZKwqpFTpoX",
+    "retweets": 1296,
+    "favorites": 2715,
+    "urls": 0
+  },
+  {
+    "id": 776787209458323500,
+    "account": "Reince",
+    "timestamp": "Fri Sep 16 14:17:57 +0000 2016",
+    "text": "Today we remember &amp; honor members of our armed forces who suffered behind enemy lines &amp; those who haven't returned home #YouAreNotForgotten",
+    "retweets": 636,
+    "favorites": 1528,
+    "urls": 0
+  },
+  {
+    "id": 776517596535480300,
+    "account": "Reince",
+    "timestamp": "Thu Sep 15 20:26:36 +0000 2016",
+    "text": ".@GOP's proud to recognize not just this month, but year-round, how Hispanics have positively influenced our country https://t.co/SY7wnaUJhB",
+    "retweets": 725,
+    "favorites": 1388,
+    "urls": [
+      {
+        "url": "https://t.co/SY7wnaUJhB",
+        "expanded_url": "https://twitter.com/GOP/status/776422583394717696",
+        "display_url": "twitter.com/GOP/status/776…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 776041479743635500,
+    "account": "Reince",
+    "timestamp": "Wed Sep 14 12:54:41 +0000 2016",
+    "text": "Congrats to @KellyAyotte on her primary win. Onward to victory in November! #LeadRight2016",
+    "retweets": 243,
+    "favorites": 837,
+    "urls": 0
+  },
+  {
+    "id": 774982005540917200,
+    "account": "Reince",
+    "timestamp": "Sun Sep 11 14:44:43 +0000 2016",
+    "text": "Today we remember all those lost &amp; all those who ran toward danger out of love for their fellow man #NeverForget https://t.co/AjzCzILSyh",
+    "retweets": 584,
+    "favorites": 1552,
+    "urls": [
+      {
+        "url": "https://t.co/AjzCzILSyh",
+        "expanded_url": "https://twitter.com/GOP/status/774967240038809600",
+        "display_url": "twitter.com/GOP/status/774…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 774665994124099600,
+    "account": "Reince",
+    "timestamp": "Sat Sep 10 17:49:00 +0000 2016",
+    "text": "The truly deplorable thing in this race is the shameful level of condescension &amp; disrespect @HillaryClinton's showing to her fellow citizens",
+    "retweets": 3232,
+    "favorites": 5475,
+    "urls": 0
+  },
+  {
+    "id": 774665888503099400,
+    "account": "Reince",
+    "timestamp": "Sat Sep 10 17:48:35 +0000 2016",
+    "text": ".@HillaryClinton is proving yet again why Americans overwhelmingly regard her as dishonest &amp; untrustworthy",
+    "retweets": 1079,
+    "favorites": 2154,
+    "urls": 0
+  },
+  {
+    "id": 774665725906657300,
+    "account": "Reince",
+    "timestamp": "Sat Sep 10 17:47:56 +0000 2016",
+    "text": "By referring to millions of Americans as \"deplorables\" &amp; \"irredeemable,\" @HillaryClinton shows her contempt for ordinary people",
+    "retweets": 2368,
+    "favorites": 3792,
+    "urls": 0
+  },
+  {
+    "id": 773963414221692900,
+    "account": "Reince",
+    "timestamp": "Thu Sep 08 19:17:12 +0000 2016",
+    "text": "Military leaders &amp; voters agree: @realDonaldTrump easily won last night's #NBCNewsForum https://t.co/PPrY3bfJ2J",
+    "retweets": 1113,
+    "favorites": 2393,
+    "urls": [
+      {
+        "url": "https://t.co/PPrY3bfJ2J",
+        "expanded_url": "http://gop.cm/8d4w9x",
+        "display_url": "gop.cm/8d4w9x",
+        "indices": [
+          92,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "id": 773697646338990100,
+    "account": "Reince",
+    "timestamp": "Thu Sep 08 01:41:08 +0000 2016",
+    "text": ".@realDonaldTrump promised peace through strength &amp; will make vigilance &amp; toughness the cornerstone of his presidency #NBCNewsForum",
+    "retweets": 2238,
+    "favorites": 4177,
+    "urls": 0
+  },
+  {
+    "id": 773697557188993000,
+    "account": "Reince",
+    "timestamp": "Thu Sep 08 01:40:46 +0000 2016",
+    "text": ".@HillaryClinton is the wrong choice for Commander in Chief. She's shown decades of poor judgment &amp; failed leadership #NBCNewsForum",
+    "retweets": 2825,
+    "favorites": 4927,
+    "urls": 0
+  },
+  {
+    "id": 773693225378938900,
+    "account": "Reince",
+    "timestamp": "Thu Sep 08 01:23:34 +0000 2016",
+    "text": "Tonight @HillaryClinton showed the country why she is not fit to be Commander in Chief.",
+    "retweets": 3447,
+    "favorites": 6706,
+    "urls": 0
+  },
+  {
+    "id": 773151304847720400,
+    "account": "Reince",
+    "timestamp": "Tue Sep 06 13:30:10 +0000 2016",
+    "text": "As we celebrate an iconic figure in the conservative cause, our thoughts and prayers go out to her family, friends, and many admirers",
+    "retweets": 284,
+    "favorites": 1113,
+    "urls": 0
+  },
+  {
+    "id": 773151248899977200,
+    "account": "Reince",
+    "timestamp": "Tue Sep 06 13:29:56 +0000 2016",
+    "text": "Phyllis Schlafly was a courageous pioneer in the conservative movement and her influence will continue to be felt for years to come",
+    "retweets": 365,
+    "favorites": 1369,
+    "urls": 0
+  },
+  {
+    "id": 772792465753448400,
+    "account": "Reince",
+    "timestamp": "Mon Sep 05 13:44:16 +0000 2016",
+    "text": "Clinton still owes the American people an explanation, but it's been 275 days since she held a press conference https://t.co/8Bdzip80Kk",
+    "retweets": 1047,
+    "favorites": 1976,
+    "urls": [
+      {
+        "url": "https://t.co/8Bdzip80Kk",
+        "expanded_url": "http://gop.cm/9cJo1m",
+        "display_url": "gop.cm/9cJo1m",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 771784980271800300,
+    "account": "Reince",
+    "timestamp": "Fri Sep 02 19:00:53 +0000 2016",
+    "text": "The FBI’s summary of their interview with @HillaryClinton is a devastating indictment of her judgment, honesty and basic competency",
+    "retweets": 2287,
+    "favorites": 3265,
+    "urls": 0
+  },
+  {
+    "id": 771704868071280600,
+    "account": "Reince",
+    "timestamp": "Fri Sep 02 13:42:32 +0000 2016",
+    "text": "Major jobs slowdown in August. Obama economy failing too many. Hillary Clinton would be more of the same.",
+    "retweets": 1309,
+    "favorites": 2034,
+    "urls": 0
+  },
+  {
+    "id": 771357948396175400,
+    "account": "Reince",
+    "timestamp": "Thu Sep 01 14:44:00 +0000 2016",
+    "text": ".@HillaryClinton owes Americans explanations on a lot of issues, but it's been 271 days since she held a press conf https://t.co/8Bdzip80Kk",
+    "retweets": 936,
+    "favorites": 1626,
+    "urls": [
+      {
+        "url": "https://t.co/8Bdzip80Kk",
+        "expanded_url": "http://gop.cm/9cJo1m",
+        "display_url": "gop.cm/9cJo1m",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770990276181565400,
+    "account": "Reince",
+    "timestamp": "Wed Aug 31 14:23:00 +0000 2016",
+    "text": "Questions about @ClintonFdn need to be answered but it's been 270 days since @HillaryClinton held a press conference https://t.co/GVesXMIF7x",
+    "retweets": 943,
+    "favorites": 1582,
+    "urls": [
+      {
+        "url": "https://t.co/GVesXMIF7x",
+        "expanded_url": "http://gop.cm/nTwvyb",
+        "display_url": "gop.cm/nTwvyb",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770972119643492400,
+    "account": "Reince",
+    "timestamp": "Wed Aug 31 13:10:51 +0000 2016",
+    "text": "Congratulations to @SenJohnMcCain and Sen @MarcoRubio on well-earned victories yesterday. Onward to victory in November!",
+    "retweets": 471,
+    "favorites": 2015,
+    "urls": 0
+  },
+  {
+    "id": 770630153445576700,
+    "account": "Reince",
+    "timestamp": "Tue Aug 30 14:32:00 +0000 2016",
+    "text": "269 days since @HillaryClinton held a press conference https://t.co/ozaNbwEn5l",
+    "retweets": 495,
+    "favorites": 856,
+    "urls": [
+      {
+        "url": "https://t.co/ozaNbwEn5l",
+        "expanded_url": "http://gop.cm/xQjKck",
+        "display_url": "gop.cm/xQjKck",
+        "indices": [
+          55,
+          78
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770320536849219600,
+    "account": "Reince",
+    "timestamp": "Mon Aug 29 18:01:42 +0000 2016",
+    "text": ".@ClintonFdn president Donna Shalala should release all Foundation emails with @StateDept https://t.co/WCZdGH7n90",
+    "retweets": 874,
+    "favorites": 1411,
+    "urls": [
+      {
+        "url": "https://t.co/WCZdGH7n90",
+        "expanded_url": "http://gop.cm/1yEBn4",
+        "display_url": "gop.cm/1yEBn4",
+        "indices": [
+          90,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770246689315655700,
+    "account": "Reince",
+    "timestamp": "Mon Aug 29 13:08:15 +0000 2016",
+    "text": "Still ducking Foundation scandal. 268 days since @HillaryClinton held a press conference https://t.co/LSa4zQiVP5",
+    "retweets": 848,
+    "favorites": 1372,
+    "urls": [
+      {
+        "url": "https://t.co/LSa4zQiVP5",
+        "expanded_url": "http://gop.cm/i1KSpP",
+        "display_url": "gop.cm/i1KSpP",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769911110656860200,
+    "account": "Reince",
+    "timestamp": "Sun Aug 28 14:54:47 +0000 2016",
+    "text": "Today @GOP commemorates the 53rd anniversary of Dr. Martin Luther King Jr's \"I Have a Dream\" speech: https://t.co/d05OQOa6Vs",
+    "retweets": 610,
+    "favorites": 1375,
+    "urls": [
+      {
+        "url": "https://t.co/d05OQOa6Vs",
+        "expanded_url": "http://gop.cm/DXpL2D",
+        "display_url": "gop.cm/DXpL2D",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769180897681604600,
+    "account": "Reince",
+    "timestamp": "Fri Aug 26 14:33:11 +0000 2016",
+    "text": "GDP is anemic. We cannot continue President Obama &amp; Hillary Clinton’s failed economic policies",
+    "retweets": 788,
+    "favorites": 1510,
+    "urls": 0
+  },
+  {
+    "id": 769162734168518700,
+    "account": "Reince",
+    "timestamp": "Fri Aug 26 13:21:00 +0000 2016",
+    "text": "265 days since @HillaryClinton held a press conference https://t.co/LSa4zQiVP5",
+    "retweets": 620,
+    "favorites": 981,
+    "urls": [
+      {
+        "url": "https://t.co/LSa4zQiVP5",
+        "expanded_url": "http://gop.cm/i1KSpP",
+        "display_url": "gop.cm/i1KSpP",
+        "indices": [
+          55,
+          78
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768805063791829000,
+    "account": "Reince",
+    "timestamp": "Thu Aug 25 13:39:45 +0000 2016",
+    "text": "264 days since @HillaryClinton held a press conference https://t.co/MCKYdBsztm",
+    "retweets": 714,
+    "favorites": 1181,
+    "urls": [
+      {
+        "url": "https://t.co/MCKYdBsztm",
+        "expanded_url": "http://gop.cm/C8mHCN",
+        "display_url": "gop.cm/C8mHCN",
+        "indices": [
+          55,
+          78
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768520013535809500,
+    "account": "Reince",
+    "timestamp": "Wed Aug 24 18:47:04 +0000 2016",
+    "text": ".@realDonaldTrump continues to expand his minority engagement efforts with a roundtable with #LeadRight2016 fellows https://t.co/KEdAFkewJt",
+    "retweets": 778,
+    "favorites": 1358,
+    "urls": [
+      {
+        "url": "https://t.co/KEdAFkewJt",
+        "expanded_url": "http://yhoo.it/2bP11XU",
+        "display_url": "yhoo.it/2bP11XU",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768459481571262500,
+    "account": "Reince",
+    "timestamp": "Wed Aug 24 14:46:32 +0000 2016",
+    "text": "It’s time for @HillaryClinton to hold a press conf. Failure to face press will only deepen question on voters’ minds: what is she hiding?",
+    "retweets": 1809,
+    "favorites": 3012,
+    "urls": 0
+  },
+  {
+    "id": 768152400519626800,
+    "account": "Reince",
+    "timestamp": "Tue Aug 23 18:26:18 +0000 2016",
+    "text": ".@RealDonaldTrump is right to call for a Special Prosecutor into the @clintonfdn that can be trusted to get to the bottom of this matter",
+    "retweets": 1723,
+    "favorites": 3073,
+    "urls": 0
+  },
+  {
+    "id": 768149689103421400,
+    "account": "Reince",
+    "timestamp": "Tue Aug 23 18:15:32 +0000 2016",
+    "text": "All of the @Clintonfdn foreign money should never have been accepted and needs to be returned today",
+    "retweets": 1329,
+    "favorites": 2249,
+    "urls": 0
+  },
+  {
+    "id": 767761400160591900,
+    "account": "Reince",
+    "timestamp": "Mon Aug 22 16:32:36 +0000 2016",
+    "text": "My full statement on the latest Clinton email scandal revelations: https://t.co/SqVXDH6YEI https://t.co/7tuqdSPBIi",
+    "retweets": 1224,
+    "favorites": 1658,
+    "urls": [
+      {
+        "url": "https://t.co/SqVXDH6YEI",
+        "expanded_url": "http://gop.cm/1mcy3V",
+        "display_url": "gop.cm/1mcy3V",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "id": 767761330799415300,
+    "account": "Reince",
+    "timestamp": "Mon Aug 22 16:32:20 +0000 2016",
+    "text": "Public disclosure of Clinton's emails should begin before early voting starts &amp; emails should be released in full before Election Day",
+    "retweets": 2577,
+    "favorites": 3850,
+    "urls": 0
+  },
+  {
+    "id": 766730960461115400,
+    "account": "Reince",
+    "timestamp": "Fri Aug 19 20:18:00 +0000 2016",
+    "text": "Hillary Clinton hasn’t held a press conference in 258 days. That's ridiculous. https://t.co/X9oEdupXnv",
+    "retweets": 1638,
+    "favorites": 2158,
+    "urls": [
+      {
+        "url": "https://t.co/X9oEdupXnv",
+        "expanded_url": "http://wapo.st/2bCUrDQ",
+        "display_url": "wapo.st/2bCUrDQ",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766654121931776000,
+    "account": "Reince",
+    "timestamp": "Fri Aug 19 15:12:41 +0000 2016",
+    "text": "The fact that @ClintonFdn continues to accept foreign donations while Hillary Clinton runs for pres is massive, ongoing conflict of interest",
+    "retweets": 3012,
+    "favorites": 4092,
+    "urls": 0
+  },
+  {
+    "id": 766041078260654100,
+    "account": "Reince",
+    "timestamp": "Wed Aug 17 22:36:40 +0000 2016",
+    "text": "My full statement on the latest Iran ransom revelations: https://t.co/qailGFfhTm https://t.co/4LfQB8Z7ZJ",
+    "retweets": 866,
+    "favorites": 1172,
+    "urls": [
+      {
+        "url": "https://t.co/qailGFfhTm",
+        "expanded_url": "http://gop.cm/DbczsW",
+        "display_url": "gop.cm/DbczsW",
+        "indices": [
+          57,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766040666153463800,
+    "account": "Reince",
+    "timestamp": "Wed Aug 17 22:35:01 +0000 2016",
+    "text": "It’s time for the Obama White House to drop the charade and admit it paid a $400M ransom to the world’s leading state sponsor of terrorism",
+    "retweets": 4262,
+    "favorites": 7486,
+    "urls": 0
+  },
+  {
+    "id": 765601187219378200,
+    "account": "Reince",
+    "timestamp": "Tue Aug 16 17:28:41 +0000 2016",
+    "text": "We're committed to engaging with the Hispanic community &amp; we launched a campaign to speak directly to the voters: https://t.co/BzLQj3pAJI",
+    "retweets": 1300,
+    "favorites": 2047,
+    "urls": [
+      {
+        "url": "https://t.co/BzLQj3pAJI",
+        "expanded_url": "http://gop.cm/RB51Ly",
+        "display_url": "gop.cm/RB51Ly",
+        "indices": [
+          118,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763189130348101600,
+    "account": "Reince",
+    "timestamp": "Wed Aug 10 01:44:02 +0000 2016",
+    "text": "Congratulations to my friend @PRyan on a well-earned victory in this primary! https://t.co/9FkqN1Rx5Y",
+    "retweets": 451,
+    "favorites": 1603,
+    "urls": 0
+  },
+  {
+    "id": 762012824189018100,
+    "account": "Reince",
+    "timestamp": "Sat Aug 06 19:49:49 +0000 2016",
+    "text": "Today @gop commemerates the 51st anniversary of the #VotingRights Act https://t.co/ydk2vDIC8o\nEvery American has #Right2Vote #VRA",
+    "retweets": 332,
+    "favorites": 765,
+    "urls": [
+      {
+        "url": "https://t.co/ydk2vDIC8o",
+        "expanded_url": "http://gop.cm/PTVPrq",
+        "display_url": "gop.cm/PTVPrq",
+        "indices": [
+          70,
+          93
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761957055682838500,
+    "account": "Reince",
+    "timestamp": "Sat Aug 06 16:08:13 +0000 2016",
+    "text": "Congrats to Virginia Thrasher for taking home the US's first GOLD medal at @Rio2016_en! Let's go @TeamUSA!",
+    "retweets": 425,
+    "favorites": 1446,
+    "urls": 0
+  },
+  {
+    "id": 761637972491894800,
+    "account": "Reince",
+    "timestamp": "Fri Aug 05 19:00:17 +0000 2016",
+    "text": "Sally and I were proud to vote for @SpeakerRyan - also nice to deliver the ballots in person at Somers Town Hall.",
+    "retweets": 147,
+    "favorites": 742,
+    "urls": 0
+  },
+  {
+    "id": 761319973239349200,
+    "account": "Reince",
+    "timestamp": "Thu Aug 04 21:56:40 +0000 2016",
+    "text": "Despite Obama’s attempts to paint failures as victories his ineffective strategy made a stronger ISIS, weaker America &amp; more dangerous world",
+    "retweets": 1986,
+    "favorites": 3378,
+    "urls": 0
+  },
+  {
+    "id": 760863664496934900,
+    "account": "Reince",
+    "timestamp": "Wed Aug 03 15:43:28 +0000 2016",
+    "text": "My full statement on the Obama Admin sending $400M to Iran: https://t.co/W7rCGB3IHf https://t.co/8ssNuktgrx",
+    "retweets": 2098,
+    "favorites": 2333,
+    "urls": [
+      {
+        "url": "https://t.co/W7rCGB3IHf",
+        "expanded_url": "http://gop.cm/msvYXu",
+        "display_url": "gop.cm/msvYXu",
+        "indices": [
+          60,
+          83
+        ]
+      }
+    ]
+  },
+  {
+    "id": 760858723107606500,
+    "account": "Reince",
+    "timestamp": "Wed Aug 03 15:23:50 +0000 2016",
+    "text": "At time when US is newly concerned about terrorist attacks, we can't afford such unprincipled &amp; out-of-touch leadership on world stage",
+    "retweets": 1272,
+    "favorites": 2496,
+    "urls": 0
+  },
+  {
+    "id": 760858579918327800,
+    "account": "Reince",
+    "timestamp": "Wed Aug 03 15:23:16 +0000 2016",
+    "text": "Obama-Clinton foreign policy not only means cutting dangerous deal w/ # 1 state sponsor of terrorism it also means paying them secret ransom",
+    "retweets": 1560,
+    "favorites": 2339,
+    "urls": 0
+  },
+  {
+    "id": 760842303535583200,
+    "account": "Reince",
+    "timestamp": "Wed Aug 03 14:18:35 +0000 2016",
+    "text": "Obama Admin secretly gave the Iranians $400M at the same time 4 Americans were released from their custody https://t.co/2BVbG56bCP",
+    "retweets": 1629,
+    "favorites": 1738,
+    "urls": [
+      {
+        "url": "https://t.co/2BVbG56bCP",
+        "expanded_url": "http://on.wsj.com/2atjSLa",
+        "display_url": "on.wsj.com/2atjSLa",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758872044519829500,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:49:29 +0000 2016",
+    "text": "It's on. Let's #MakeAmericaGreatAgain! Donate here: https://t.co/Cz3sjXwHM2",
+    "retweets": 986,
+    "favorites": 1869,
+    "urls": [
+      {
+        "url": "https://t.co/Cz3sjXwHM2",
+        "expanded_url": "http://gop.cm/QPoLTM",
+        "display_url": "gop.cm/QPoLTM",
+        "indices": [
+          52,
+          75
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758871936432611300,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:49:03 +0000 2016",
+    "text": "The American people have had enough of the corruption, deceit, &amp; stonewalling which have been the hallmarks of her career #EnoughClinton",
+    "retweets": 2274,
+    "favorites": 3580,
+    "urls": 0
+  },
+  {
+    "id": 758871837572862000,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:48:39 +0000 2016",
+    "text": "Time &amp; again, Hillary Clinton’s dishonesty &amp; cronyism have proved she is the wrong person to lead our country as president #EnoughClinton",
+    "retweets": 1697,
+    "favorites": 2967,
+    "urls": 0
+  },
+  {
+    "id": 758866810552787000,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:28:41 +0000 2016",
+    "text": "Your agenda is the reason that @BernieSanders and @realDonaldTrump have risen in the polls.  Folks are tired of your (and Obama's) agenda.",
+    "retweets": 1447,
+    "favorites": 2632,
+    "urls": 0
+  },
+  {
+    "id": 758863925806895100,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:17:13 +0000 2016",
+    "text": "Yeah.  Hillary was such a success in Benghazi - she failed and then lied after heroes died.  And she is proud of herself.  Pathetic.",
+    "retweets": 2882,
+    "favorites": 4418,
+    "urls": 0
+  },
+  {
+    "id": 758862092069802000,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:09:56 +0000 2016",
+    "text": "Debt free tuition ... Maybe Hillary could return all those speaking fees she took from colleges to start the process.",
+    "retweets": 5230,
+    "favorites": 9171,
+    "urls": 0
+  },
+  {
+    "id": 758860923914195000,
+    "account": "Reince",
+    "timestamp": "Fri Jul 29 03:05:17 +0000 2016",
+    "text": "Quite a laundry list of ideas .... But I think you forgot who's been in power for the last 8 years !",
+    "retweets": 1381,
+    "favorites": 2550,
+    "urls": 0
+  },
+  {
+    "id": 758762213830168600,
+    "account": "Reince",
+    "timestamp": "Thu Jul 28 20:33:03 +0000 2016",
+    "text": "Disappointing to see protesters burning USA flags outside @DemConvention &amp; delegates waving Palestinian flags inside https://t.co/Lbox83Slfe",
+    "retweets": 3880,
+    "favorites": 4266,
+    "urls": 0
+  },
+  {
+    "id": 758515332495441900,
+    "account": "Reince",
+    "timestamp": "Thu Jul 28 04:12:02 +0000 2016",
+    "text": "The Trump-Pence ticket will put America first &amp; bring back the prosperity &amp; security our country deserves #DemsInPhilly",
+    "retweets": 1396,
+    "favorites": 2746,
+    "urls": 0
+  },
+  {
+    "id": 758515234378178600,
+    "account": "Reince",
+    "timestamp": "Thu Jul 28 04:11:39 +0000 2016",
+    "text": "Americans have had enough of out-of-touch career politicians &amp; that's exactly what Clinton-Kaine ticket &amp; Dem Party represents #DemsInPhilly",
+    "retweets": 1362,
+    "favorites": 2742,
+    "urls": 0
+  },
+  {
+    "id": 758515121392005100,
+    "account": "Reince",
+    "timestamp": "Thu Jul 28 04:11:12 +0000 2016",
+    "text": "The Clinton-Kaine ticket is nothing more than 2 career DC insiders who only want to continue the failed Democrat status quo #DemsInPhilly",
+    "retweets": 1750,
+    "favorites": 3199,
+    "urls": 0
+  },
+  {
+    "id": 758485168944472000,
+    "account": "Reince",
+    "timestamp": "Thu Jul 28 02:12:10 +0000 2016",
+    "text": "Sign of the times: @TheDemocrats convention hall boos call to fight terrorism. Watch: https://t.co/BluTfAx0wg #DemsInPhilly",
+    "retweets": 1007,
+    "favorites": 1180,
+    "urls": [
+      {
+        "url": "https://t.co/BluTfAx0wg",
+        "expanded_url": "http://youtu.be/haBsoyrhtS8",
+        "display_url": "youtu.be/haBsoyrhtS8",
+        "indices": [
+          86,
+          109
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758305320238194700,
+    "account": "Reince",
+    "timestamp": "Wed Jul 27 14:17:31 +0000 2016",
+    "text": "His agenda is one all Americans can get behind &amp; fact that he's attracting new voters is a testament to that reality https://t.co/N66Ytc7g2q",
+    "retweets": 433,
+    "favorites": 1101,
+    "urls": [
+      {
+        "url": "https://t.co/N66Ytc7g2q",
+        "expanded_url": "http://gop.cm/Pkuka9",
+        "display_url": "gop.cm/Pkuka9",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758305200797020200,
+    "account": "Reince",
+    "timestamp": "Wed Jul 27 14:17:03 +0000 2016",
+    "text": ".@realDonaldTrump's bump in the polls &amp; lead over Clinton is clear indicator of his ability to win support from Americans of all backgrounds",
+    "retweets": 1226,
+    "favorites": 2559,
+    "urls": 0
+  },
+  {
+    "id": 758141869121417200,
+    "account": "Reince",
+    "timestamp": "Wed Jul 27 03:28:01 +0000 2016",
+    "text": "While Democrats nominated career Washington insider, @realDonaldTrump promises to shake up Washington &amp; #MakeAmericaGreatAgain #DemsInPhilly",
+    "retweets": 939,
+    "favorites": 2054,
+    "urls": 0
+  },
+  {
+    "id": 758141527705083900,
+    "account": "Reince",
+    "timestamp": "Wed Jul 27 03:26:40 +0000 2016",
+    "text": "Simply put Clinton can't escape the fact Americans overwhelmingly regard her as dishonest, hypocritical &amp; only out for herself #DemsInPhilly",
+    "retweets": 1882,
+    "favorites": 3664,
+    "urls": 0
+  },
+  {
+    "id": 758141463607726100,
+    "account": "Reince",
+    "timestamp": "Wed Jul 27 03:26:25 +0000 2016",
+    "text": "Tonight Democrats formally nominated most scandal-plagued &amp; disliked candidate in the history of their party #DemsInPhilly #EnoughClinton",
+    "retweets": 1854,
+    "favorites": 3296,
+    "urls": 0
+  },
+  {
+    "id": 757789978256478200,
+    "account": "Reince",
+    "timestamp": "Tue Jul 26 04:09:44 +0000 2016",
+    "text": "Only #TrumpPence16 can bring the change our country so desperately needs and get our economy working for all Americans #DemsInPhilly",
+    "retweets": 1339,
+    "favorites": 2945,
+    "urls": 0
+  },
+  {
+    "id": 757789903895670800,
+    "account": "Reince",
+    "timestamp": "Tue Jul 26 04:09:26 +0000 2016",
+    "text": "Warren &amp; Sanders made the case for why we can’t have 4 more yrs of the same failed policies under Clinton #DemsInPhilly",
+    "retweets": 1274,
+    "favorites": 2803,
+    "urls": 0
+  },
+  {
+    "id": 757789777412272100,
+    "account": "Reince",
+    "timestamp": "Tue Jul 26 04:08:56 +0000 2016",
+    "text": "This felt more like a convention for Sanders than for Clinton w/ the convention floor descending into chaos most of the day #DemsInPhilly",
+    "retweets": 1081,
+    "favorites": 2561,
+    "urls": 0
+  },
+  {
+    "id": 757648881098317800,
+    "account": "Reince",
+    "timestamp": "Mon Jul 25 18:49:04 +0000 2016",
+    "text": "In Philly for the @Demconvention. Feels more like @BernieSanders’ convention than @HillaryClinton’s",
+    "retweets": 812,
+    "favorites": 1779,
+    "urls": 0
+  },
+  {
+    "id": 756907320508952600,
+    "account": "Reince",
+    "timestamp": "Sat Jul 23 17:42:22 +0000 2016",
+    "text": "David Duke &amp; his hateful bigotry have no place in the Republican Party &amp; the RNC will never support his candidacy under any circumstance",
+    "retweets": 2974,
+    "favorites": 5675,
+    "urls": 0
+  },
+  {
+    "id": 756644246506004500,
+    "account": "Reince",
+    "timestamp": "Sat Jul 23 00:17:00 +0000 2016",
+    "text": ".@realDonaldTrump &amp; @mike_pence offer a better path for our country that puts America first &amp; it’s only them that can #MakeAmericaGreatAgain",
+    "retweets": 1137,
+    "favorites": 2343,
+    "urls": 0
+  },
+  {
+    "id": 756644058404053000,
+    "account": "Reince",
+    "timestamp": "Sat Jul 23 00:16:15 +0000 2016",
+    "text": "Hillary Clinton’s choice of Tim Kaine does nothing to unify a fractured Democrat base repelled by her dishonesty &amp; cronyism",
+    "retweets": 1958,
+    "favorites": 3563,
+    "urls": 0
+  },
+  {
+    "id": 756337266058891300,
+    "account": "Reince",
+    "timestamp": "Fri Jul 22 03:57:10 +0000 2016",
+    "text": "Excited to elect @realDonaldTrump and @mike_pence as the next President and Vice President! #TrumpPence16 https://t.co/HUbhxjza7J",
+    "retweets": 808,
+    "favorites": 2106,
+    "urls": [
+      {
+        "url": "https://t.co/HUbhxjza7J",
+        "expanded_url": "https://twitter.com/GOP/status/756336756752953344",
+        "display_url": "twitter.com/GOP/status/756…",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "id": 756186022715633700,
+    "account": "Reince",
+    "timestamp": "Thu Jul 21 17:56:11 +0000 2016",
+    "text": "Congrats to the official vice presidential nominee, @mike_pence! We're going to win in Nov with #TrumpPence16! https://t.co/LtSPD7oPdf",
+    "retweets": 464,
+    "favorites": 1274,
+    "urls": [
+      {
+        "url": "https://t.co/LtSPD7oPdf",
+        "expanded_url": "https://twitter.com/GOP/status/756185423328612352",
+        "display_url": "twitter.com/GOP/status/756…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755425168839761900,
+    "account": "Reince",
+    "timestamp": "Tue Jul 19 15:32:50 +0000 2016",
+    "text": "“This platform is critical for the future of America...\" --Sen. John Barrasso, 2016 Platform Chair\nhttps://t.co/yzkYc7h69c",
+    "retweets": 165,
+    "favorites": 419,
+    "urls": [
+      {
+        "url": "https://t.co/yzkYc7h69c",
+        "expanded_url": "https://amp.twimg.com/v/52396df5-c0da-42d1-acdc-9cc6d5cec0dd",
+        "display_url": "amp.twimg.com/v/52396df5-c0d…",
+        "indices": [
+          99,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755158517334417400,
+    "account": "Reince",
+    "timestamp": "Mon Jul 18 21:53:15 +0000 2016",
+    "text": "The 2016 Platform has officially been adopted by the Party https://t.co/m4ca0gktSE https://t.co/eIu9yaRHnH",
+    "retweets": 535,
+    "favorites": 1088,
+    "urls": [
+      {
+        "url": "https://t.co/m4ca0gktSE",
+        "expanded_url": "http://gop.cm/gKAgio",
+        "display_url": "gop.cm/gKAgio",
+        "indices": [
+          59,
+          82
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755069174834016300,
+    "account": "Reince",
+    "timestamp": "Mon Jul 18 15:58:14 +0000 2016",
+    "text": "Welcome to the #RNCinCLE! Tune into the @GOPconvention LIVE beginning with the gavel in at 1pm ET: https://t.co/Vfevi8Y8nE",
+    "retweets": 269,
+    "favorites": 555,
+    "urls": [
+      {
+        "url": "https://t.co/Vfevi8Y8nE",
+        "expanded_url": "http://gop.cm/HSSNZd",
+        "display_url": "gop.cm/HSSNZd",
+        "indices": [
+          99,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754788442513543200,
+    "account": "Reince",
+    "timestamp": "Sun Jul 17 21:22:42 +0000 2016",
+    "text": "Saddened by today's tragic events in Baton Rouge. This has to stop. Our thoughts &amp; prayers are with the fallen officers &amp; their families",
+    "retweets": 504,
+    "favorites": 1438,
+    "urls": 0
+  },
+  {
+    "id": 754354709444440000,
+    "account": "Reince",
+    "timestamp": "Sat Jul 16 16:39:12 +0000 2016",
+    "text": ".@mike_pence's record of successful reform speaks for itself #TrumpPence16 https://t.co/ryqsWotbr3",
+    "retweets": 2798,
+    "favorites": 4706,
+    "urls": 0
+  },
+  {
+    "id": 753996495389503500,
+    "account": "Reince",
+    "timestamp": "Fri Jul 15 16:55:47 +0000 2016",
+    "text": "Our ticket’s robust vision for prosperity &amp; security makes it clear the @GOP is the only party prepared to lead an American turnaround",
+    "retweets": 716,
+    "favorites": 1417,
+    "urls": 0
+  },
+  {
+    "id": 753996389340762100,
+    "account": "Reince",
+    "timestamp": "Fri Jul 15 16:55:22 +0000 2016",
+    "text": "Pence is an experienced public servant &amp; conservative whose policies led to longest uninterrupted job growth in Indiana history",
+    "retweets": 987,
+    "favorites": 1893,
+    "urls": 0
+  },
+  {
+    "id": 753996288631332900,
+    "account": "Reince",
+    "timestamp": "Fri Jul 15 16:54:58 +0000 2016",
+    "text": "Donald Trump’s choice of Governor Mike Pence is a strong addition to this ticket",
+    "retweets": 771,
+    "favorites": 1677,
+    "urls": 0
+  },
+  {
+    "id": 753773392470372400,
+    "account": "Reince",
+    "timestamp": "Fri Jul 15 02:09:15 +0000 2016",
+    "text": "Our thoughts &amp; prayers are with #NiceFrance tonight. We stand with you &amp; we must stand together against radical Islamic terrorism",
+    "retweets": 647,
+    "favorites": 1709,
+    "urls": 0
+  },
+  {
+    "id": 752907015958040600,
+    "account": "Reince",
+    "timestamp": "Tue Jul 12 16:46:35 +0000 2016",
+    "text": "Sanders' supporters must be wondering if their candidate has suddenly sold out to the same rigged system he so strongly campaigned against",
+    "retweets": 1754,
+    "favorites": 2766,
+    "urls": 0
+  },
+  {
+    "id": 752906820700823600,
+    "account": "Reince",
+    "timestamp": "Tue Jul 12 16:45:49 +0000 2016",
+    "text": "Hollow display of left-wing solidarity flies in the face of Sanders’ crusade against Hillary Clinton’s judgement, character to serve as pres",
+    "retweets": 343,
+    "favorites": 851,
+    "urls": 0
+  },
+  {
+    "id": 752837056104165400,
+    "account": "Reince",
+    "timestamp": "Tue Jul 12 12:08:35 +0000 2016",
+    "text": "Our prayers are with the DNC during this difficult time https://t.co/iQ1Bj5SWRe",
+    "retweets": 217,
+    "favorites": 557,
+    "urls": [
+      {
+        "url": "https://t.co/iQ1Bj5SWRe",
+        "expanded_url": "https://twitter.com/TheDemocrats/status/752606750990274565",
+        "display_url": "twitter.com/TheDemocrats/s…",
+        "indices": [
+          56,
+          79
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751474850292568000,
+    "account": "Reince",
+    "timestamp": "Fri Jul 08 17:55:40 +0000 2016",
+    "text": "My full statement on the tragedies in Texas, Louisiana, &amp; Minnesota https://t.co/cNfsNktwig https://t.co/d5G9kWNYKd",
+    "retweets": 374,
+    "favorites": 635,
+    "urls": [
+      {
+        "url": "https://t.co/cNfsNktwig",
+        "expanded_url": "http://gop.cm/Xczbbv",
+        "display_url": "gop.cm/Xczbbv",
+        "indices": [
+          72,
+          95
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751474673758539800,
+    "account": "Reince",
+    "timestamp": "Fri Jul 08 17:54:58 +0000 2016",
+    "text": "It is deeply troubling what is happening in our country, &amp; this dark and divided time must come to an end",
+    "retweets": 432,
+    "favorites": 1047,
+    "urls": 0
+  },
+  {
+    "id": 751474583614599200,
+    "account": "Reince",
+    "timestamp": "Fri Jul 08 17:54:37 +0000 2016",
+    "text": "It is devastating to see those who wake up every day to protect us senselessly gunned down. Our hearts break for their families",
+    "retweets": 460,
+    "favorites": 1133,
+    "urls": 0
+  },
+  {
+    "id": 751474465851093000,
+    "account": "Reince",
+    "timestamp": "Fri Jul 08 17:54:09 +0000 2016",
+    "text": "Last night’s disturbing &amp; cold-blooded violence in TX was an ugly continuation of week of tragedies which have shaken our country",
+    "retweets": 196,
+    "favorites": 621,
+    "urls": 0
+  },
+  {
+    "id": 751045820615622700,
+    "account": "Reince",
+    "timestamp": "Thu Jul 07 13:30:52 +0000 2016",
+    "text": "We filed a FOIA request for the emails &amp; we intend to pursue every legal &amp; admin option to produce the release of these records before Nov",
+    "retweets": 1092,
+    "favorites": 1654,
+    "urls": 0
+  },
+  {
+    "id": 751045720422096900,
+    "account": "Reince",
+    "timestamp": "Thu Jul 07 13:30:28 +0000 2016",
+    "text": "Americans preparing to elect next president deserve to know the full extent of her underhanded conflicts of interest &amp; subsequent cover-up",
+    "retweets": 913,
+    "favorites": 1570,
+    "urls": 0
+  },
+  {
+    "id": 751045616961282000,
+    "account": "Reince",
+    "timestamp": "Thu Jul 07 13:30:03 +0000 2016",
+    "text": "Hillary Clinton failed to turn over \"several thousand\" emails despite falsely claiming she had done so to fed court under penalty of perjury",
+    "retweets": 1274,
+    "favorites": 1667,
+    "urls": 0
+  },
+  {
+    "id": 750844086794358800,
+    "account": "Reince",
+    "timestamp": "Thu Jul 07 00:09:14 +0000 2016",
+    "text": "Yet Hillary Clinton is being allowed to play by a different set of rules",
+    "retweets": 772,
+    "favorites": 1454,
+    "urls": 0
+  },
+  {
+    "id": 750844026140565500,
+    "account": "Reince",
+    "timestamp": "Thu Jul 07 00:09:00 +0000 2016",
+    "text": "Those who mishandled classified info have had their sec clearances revoked, lost their jobs, faced fines, &amp; even been sent to prison",
+    "retweets": 1634,
+    "favorites": 2390,
+    "urls": 0
+  },
+  {
+    "id": 750843972843561000,
+    "account": "Reince",
+    "timestamp": "Thu Jul 07 00:08:47 +0000 2016",
+    "text": "Lynch's decision is a slap in the face to those entrusted w/ classified info who play by the rules",
+    "retweets": 851,
+    "favorites": 1536,
+    "urls": 0
+  },
+  {
+    "id": 750820630136696800,
+    "account": "Reince",
+    "timestamp": "Wed Jul 06 22:36:02 +0000 2016",
+    "text": "Join me in wishing President George W. Bush a happy birthday! https://t.co/WWs7TDVE3g #43turns70 https://t.co/p8mgFOY6dL",
+    "retweets": 143,
+    "favorites": 620,
+    "urls": [
+      {
+        "url": "https://t.co/WWs7TDVE3g",
+        "expanded_url": "http://gop.cm/8X1eYe",
+        "display_url": "gop.cm/8X1eYe",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750680470178951200,
+    "account": "Reince",
+    "timestamp": "Wed Jul 06 13:19:05 +0000 2016",
+    "text": ".@HillaryClinton spent the last 16 months deliberately lying to the American people. Watch: https://t.co/18kIU6b69A",
+    "retweets": 1283,
+    "favorites": 1666,
+    "urls": [
+      {
+        "url": "https://t.co/18kIU6b69A",
+        "expanded_url": "http://www.youtube.com/watch?v=O0vHZqVn-io",
+        "display_url": "youtube.com/watch?v=O0vHZq…",
+        "indices": [
+          92,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750367047800856600,
+    "account": "Reince",
+    "timestamp": "Tue Jul 05 16:33:39 +0000 2016",
+    "text": "Gross Negligence = blatant indifference to one's legal duty. Comey defined @HillaryClinton 's actions as gross negligence in that presser.",
+    "retweets": 2167,
+    "favorites": 3146,
+    "urls": 0
+  },
+  {
+    "id": 749969524867289100,
+    "account": "Reince",
+    "timestamp": "Mon Jul 04 14:14:03 +0000 2016",
+    "text": "Happy Fourth of July! Today we remember that in 1776 a group of patriots declared America a new and free nation. https://t.co/i7DPCStUuy",
+    "retweets": 467,
+    "favorites": 1238,
+    "urls": 0
+  },
+  {
+    "id": 749366708197032000,
+    "account": "Reince",
+    "timestamp": "Sat Jul 02 22:18:40 +0000 2016",
+    "text": "We are all inspired by Elie Wiesel's quest for justice &amp; his fight to preserve the dignity of all human beings. May he rest in peace",
+    "retweets": 302,
+    "favorites": 797,
+    "urls": 0
+  },
+  {
+    "id": 749353393248997400,
+    "account": "Reince",
+    "timestamp": "Sat Jul 02 21:25:45 +0000 2016",
+    "text": "And the American people need to have confidence that the Obama Justice Dept is conducting a fair &amp; impartial investigation",
+    "retweets": 439,
+    "favorites": 974,
+    "urls": 0
+  },
+  {
+    "id": 749353242895736800,
+    "account": "Reince",
+    "timestamp": "Sat Jul 02 21:25:10 +0000 2016",
+    "text": "That FBI wanted her for ?ing reinforces her role in creating a culture which put her ambitions above State Dept rules &amp; jeopardized natl sec",
+    "retweets": 664,
+    "favorites": 1220,
+    "urls": 0
+  },
+  {
+    "id": 749353154735706100,
+    "account": "Reince",
+    "timestamp": "Sat Jul 02 21:24:49 +0000 2016",
+    "text": "Hillary Clinton is the first major party presidential candidate to be interviewed by the FBI as part of a criminal investigation",
+    "retweets": 2729,
+    "favorites": 3486,
+    "urls": 0
+  },
+  {
+    "id": 748888136634077200,
+    "account": "Reince",
+    "timestamp": "Fri Jul 01 14:37:00 +0000 2016",
+    "text": "This is a must watch https://t.co/JGxCcVfSqQ",
+    "retweets": 428,
+    "favorites": 533,
+    "urls": [
+      {
+        "url": "https://t.co/JGxCcVfSqQ",
+        "expanded_url": "https://twitter.com/CNNPolitics/status/748884870794018816",
+        "display_url": "twitter.com/CNNPolitics/st…",
+        "indices": [
+          21,
+          44
+        ]
+      }
+    ]
+  }
+]

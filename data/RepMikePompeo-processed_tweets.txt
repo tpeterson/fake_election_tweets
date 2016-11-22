@@ -1,0 +1,5076 @@
+[
+  {
+    "id": 800476381284945900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Nov 20 23:10:16 +0000 2016",
+    "text": "4-0!  The Shockers are off to another hot start.  Bring on LSU!  #WatchUs",
+    "retweets": 11,
+    "favorites": 53,
+    "urls": 0
+  },
+  {
+    "id": 800398528132632600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Nov 20 18:00:54 +0000 2016",
+    "text": "The Shockers look to make it a 4-0 start this afternoon at Koch Arena - I hope the crowd brings the energy &amp; noise! Go Shox! #WatchUs",
+    "retweets": 14,
+    "favorites": 87,
+    "urls": 0
+  },
+  {
+    "id": 799775492610134000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Nov 19 00:45:11 +0000 2016",
+    "text": "I am honored and humbled to accept the President-elect’s nomination to lead the @CIA . Read my full statement: https://t.co/AFTr80dTds",
+    "retweets": 4675,
+    "favorites": 8335,
+    "urls": [
+      {
+        "url": "https://t.co/AFTr80dTds",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399226",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 799266269853864000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Nov 17 15:01:43 +0000 2016",
+    "text": "I look forward to rolling back this disastrous deal with the world’s largest state sponsor of terrorism. https://t.co/bifC97jWpY",
+    "retweets": 5778,
+    "favorites": 6091,
+    "urls": [
+      {
+        "url": "https://t.co/bifC97jWpY",
+        "expanded_url": "http://www.weeklystandard.com/undoing-the-iran-deal-easy./article/2005394",
+        "display_url": "weeklystandard.com/undoing-the-ir…",
+        "indices": [
+          105,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "id": 798903571618132000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Nov 16 15:00:29 +0000 2016",
+    "text": "Congrats to Gen. Richard Myers, President of @KState! I'm glad Gen. Myers' leadership will continue to serve #Kansas https://t.co/3SQ9w8gRmU",
+    "retweets": 64,
+    "favorites": 187,
+    "urls": [
+      {
+        "url": "https://t.co/3SQ9w8gRmU",
+        "expanded_url": "http://ksn.com/2016/11/15/regents-set-to-vote-on-new-kansas-state-president/",
+        "display_url": "ksn.com/2016/11/15/reg…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 798659933705105400,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Nov 15 22:52:21 +0000 2016",
+    "text": "Extending sanctions on Iran’s weapons programs is vital to protect America. Read my statement on House bill passage: https://t.co/LCHOISPWYC",
+    "retweets": 442,
+    "favorites": 506,
+    "urls": [
+      {
+        "url": "https://t.co/LCHOISPWYC",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399221",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 798340645807067100,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Nov 15 01:43:37 +0000 2016",
+    "text": "The stories of our veterans’ service are of tremendous value to the next generation. Read more: https://t.co/ZCOq2GOgrn",
+    "retweets": 90,
+    "favorites": 162,
+    "urls": [
+      {
+        "url": "https://t.co/ZCOq2GOgrn",
+        "expanded_url": "http://andoverleader.com/2016/11/students-officials-honor-veterans-with-ceremonies/",
+        "display_url": "andoverleader.com/2016/11/studen…",
+        "indices": [
+          96,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "id": 797907021886619600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Nov 13 21:00:33 +0000 2016",
+    "text": "It was wonderful to visit @AndoverMS on Veterans Day. Thanks to all the veterans in your families who've helped kee… https://t.co/whFdwFVROs",
+    "retweets": 65,
+    "favorites": 131,
+    "urls": [
+      {
+        "url": "https://t.co/whFdwFVROs",
+        "expanded_url": "https://twitter.com/i/web/status/797907021886619652",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 797846802724692000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Nov 13 17:01:15 +0000 2016",
+    "text": "ICYMI: I was interviewed by @BretBaier for his documentary “How We Fight” on the Iran deal &amp; how it was sold to us. https://t.co/gKTK0W2Mtw",
+    "retweets": 185,
+    "favorites": 249,
+    "urls": [
+      {
+        "url": "https://t.co/gKTK0W2Mtw",
+        "expanded_url": "http://video.foxnews.com/v/5200493167001/?#sp=show-clips",
+        "display_url": "video.foxnews.com/v/520049316700…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 797595267629547500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Nov 13 00:21:45 +0000 2016",
+    "text": "Thanks to American Legion Post 81 &amp; El Dorado High School for inviting me to be a part of your veterans celebration. https://t.co/tKCRVygZru",
+    "retweets": 31,
+    "favorites": 52,
+    "urls": [
+      {
+        "url": "https://t.co/tKCRVygZru",
+        "expanded_url": "http://www.butlercountytimesgazette.com/news/20161111/pompeo-speaks-at-annual8200veterans-day-program",
+        "display_url": "butlercountytimesgazette.com/news/20161111/…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 797484414259368000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Nov 12 17:01:15 +0000 2016",
+    "text": "It’s my hope that President-elect Trump will make the undemocratic practice of executive orders a thing of the past. https://t.co/q3AeTc9B1v",
+    "retweets": 180,
+    "favorites": 244,
+    "urls": [
+      {
+        "url": "https://t.co/q3AeTc9B1v",
+        "expanded_url": "http://www.washingtontimes.com/news/2016/nov/8/obama-executive-orders-regulations-pardons-expecte/",
+        "display_url": "washingtontimes.com/news/2016/nov/…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 797176563930308600,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Nov 11 20:37:58 +0000 2016",
+    "text": "It was wonderful to be in El Dorado today with the American Legion. Please join me in thanking our nation's veteran… https://t.co/ZLwnqv2JXr",
+    "retweets": 16,
+    "favorites": 46,
+    "urls": [
+      {
+        "url": "https://t.co/ZLwnqv2JXr",
+        "expanded_url": "https://twitter.com/i/web/status/797176563930308608",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 796896688564817900,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Nov 11 02:05:50 +0000 2016",
+    "text": "As a veteran, I know the skills that armed service gives you. I'm proud to have a great team of vets serving Kansas: https://t.co/FlL3TYJlD3",
+    "retweets": 57,
+    "favorites": 95,
+    "urls": [
+      {
+        "url": "https://t.co/FlL3TYJlD3",
+        "expanded_url": "http://americanmilitarynews.com/2016/07/u-s-congressman-mike-pompeo-counts-on-fellow-veterans-for-continued-success/",
+        "display_url": "americanmilitarynews.com/2016/07/u-s-co…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 796836677440458800,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Nov 10 22:07:23 +0000 2016",
+    "text": "Thank you to the brave men and women of the United States Marine Corps. Happy 241st Birthday! https://t.co/Nq9MFtqafl",
+    "retweets": 42,
+    "favorites": 79,
+    "urls": 0
+  },
+  {
+    "id": 796397568695603200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Nov 09 17:02:31 +0000 2016",
+    "text": "Check out this new video of Doc landing at @FlyICT! A testament to the longevity of the Air Capital of the World. https://t.co/Gs57ONOMri",
+    "retweets": 17,
+    "favorites": 31,
+    "urls": [
+      {
+        "url": "https://t.co/Gs57ONOMri",
+        "expanded_url": "http://www.kansas.com/news/business/aviation/article112819513.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 796064972778442800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Nov 08 19:00:54 +0000 2016",
+    "text": "In the final act of @BretBaier's, \"How We Fight,\" I explain the adverse effects of the Iran Deal on America. https://t.co/gKTK0W2Mtw",
+    "retweets": 29,
+    "favorites": 32,
+    "urls": [
+      {
+        "url": "https://t.co/gKTK0W2Mtw",
+        "expanded_url": "http://video.foxnews.com/v/5200493167001/?#sp=show-clips",
+        "display_url": "video.foxnews.com/v/520049316700…",
+        "indices": [
+          109,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "id": 796019832705650700,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Nov 08 16:01:32 +0000 2016",
+    "text": "Our government works best when we're all involved &amp; the US works best when as many Kansans as possible are involved. https://t.co/ckkMNz9Sbr",
+    "retweets": 12,
+    "favorites": 30,
+    "urls": [
+      {
+        "url": "https://t.co/ckkMNz9Sbr",
+        "expanded_url": "http://pompeo.house.gov/news/email/show.aspx?ID=5H4A5XLRQ5FANYDZWGZ6WUQ5ME",
+        "display_url": "pompeo.house.gov/news/email/sho…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 795777508650156000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Nov 07 23:58:37 +0000 2016",
+    "text": "Miss @SpecialReport Saturday? @BretBaier debuted a special segment from his documentary “How We Fight.” Watch: https://t.co/vx86zm8C1z",
+    "retweets": 9,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/vx86zm8C1z",
+        "expanded_url": "http://video.foxnews.com/v/5198239796001/?#sp=show-clips",
+        "display_url": "video.foxnews.com/v/519823979600…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 795340211186257900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Nov 06 19:00:57 +0000 2016",
+    "text": "After this election, we'll all be ready for some pizza &amp; beer. Luckily a new restaurant is opening just in time! https://t.co/2T2gU3YFTR",
+    "retweets": 7,
+    "favorites": 18,
+    "urls": [
+      {
+        "url": "https://t.co/2T2gU3YFTR",
+        "expanded_url": "http://www.kansas.com/entertainment/restaurants/dining-with-denise-neil/article112086827.html",
+        "display_url": "kansas.com/entertainment/…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 795023060109758500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Nov 05 22:00:43 +0000 2016",
+    "text": "Wonder what an #Iran hostage survivor thinks about US policy? Ready in @TIME from @UANI affiliate Barry Rosen https://t.co/L20rnKwKUy",
+    "retweets": 35,
+    "favorites": 38,
+    "urls": [
+      {
+        "url": "https://t.co/L20rnKwKUy",
+        "expanded_url": "http://time.com/4556548/hostage-survivor-iran-policy/",
+        "display_url": "time.com/4556548/hostag…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "id": 794985734427938800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Nov 05 19:32:23 +0000 2016",
+    "text": "First Wichita State basketball game of the year with Susan and Nick! #goshox #watchus @ Wichita… https://t.co/6VPRCjSrzT",
+    "retweets": 3,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/6VPRCjSrzT",
+        "expanded_url": "https://www.instagram.com/p/BMcLhLShE3N/",
+        "display_url": "instagram.com/p/BMcLhLShE3N/",
+        "indices": [
+          97,
+          120
+        ]
+      }
+    ]
+  },
+  {
+    "id": 794978765411586000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Nov 05 19:04:42 +0000 2016",
+    "text": "Getting ready to enjoy the first Wichita State basketball game of the year with Susan and Nick! #goshox #watchus https://t.co/7d6Ug7Iyll",
+    "retweets": 4,
+    "favorites": 10,
+    "urls": 0
+  },
+  {
+    "id": 794962818801995800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Nov 05 18:01:20 +0000 2016",
+    "text": "Congrats to Coco Anguiano from Wellington for being recognized as the Professional of the Year by the KHCA/KCAL! https://t.co/xDwuswi8QH",
+    "retweets": 2,
+    "favorites": 1,
+    "urls": [
+      {
+        "url": "https://t.co/xDwuswi8QH",
+        "expanded_url": "http://www.sumnernewscow.com/socorro-coco-anguiano-gets-named-khcakcal-2016-activity-professional-of-the-year/",
+        "display_url": "sumnernewscow.com/socorro-coco-a…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 794600550339846100,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Nov 04 18:01:48 +0000 2016",
+    "text": "Congrats to the St. John High School boys cross country team for capturing the 2A state title. Hard work pays off! https://t.co/9ilmASvClj",
+    "retweets": 4,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/9ilmASvClj",
+        "expanded_url": "http://www.sjnewsonline.com/sports/20161031/st-john-boys-earn-state-cross-country-title",
+        "display_url": "sjnewsonline.com/sports/2016103…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 794573957001347100,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Nov 04 16:16:08 +0000 2016",
+    "text": "It's great to see so many people come out to @FlyICT &amp; greet America's heroes returning from Kansas Honor Flight! https://t.co/wShdnKIEOV",
+    "retweets": 15,
+    "favorites": 37,
+    "urls": 0
+  },
+  {
+    "id": 794222975738376200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Nov 03 17:01:28 +0000 2016",
+    "text": "Many Kansans are at #NBAA2016 right now working to sell planes and create more jobs here in the Air Capital of the World!  Good luck!",
+    "retweets": 2,
+    "favorites": 6,
+    "urls": 0
+  },
+  {
+    "id": 793966026555871200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Nov 03 00:00:26 +0000 2016",
+    "text": "Yesterday I was back at @WichitaState, this time visiting with Dr. Ken Ciboski’s class.  It was great to meet our f… https://t.co/1EpqI4TIf0",
+    "retweets": 3,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/1EpqI4TIf0",
+        "expanded_url": "https://twitter.com/i/web/status/793966026555871234",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 793860460407849000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Nov 02 17:00:57 +0000 2016",
+    "text": "The Air Capital of the World continues to thrive - Congrats @SpiritAero! https://t.co/W5yL6fLdgp",
+    "retweets": 3,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/W5yL6fLdgp",
+        "expanded_url": "http://www.kansas.com/news/business/article111766697.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          73,
+          96
+        ]
+      }
+    ]
+  },
+  {
+    "id": 793573709399359500,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Nov 01 22:01:30 +0000 2016",
+    "text": "I’ve read Top Secret emails from Hillary's server. She got preferential treatment. I hope that never happens again. https://t.co/tK9RQ4DHlJ",
+    "retweets": 264,
+    "favorites": 273,
+    "urls": [
+      {
+        "url": "https://t.co/tK9RQ4DHlJ",
+        "expanded_url": "http://www.wibwnewsnow.com/pompeo-comments-reopening-clinton-email-investigation/",
+        "display_url": "wibwnewsnow.com/pompeo-comment…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 793180912448045000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 31 20:00:40 +0000 2016",
+    "text": "Sherman is practicing his \"trick or treat\" skills.  To all our south central Kansas trick-or-treaters: be safe, hav… https://t.co/Zz7eUXbPyL",
+    "retweets": 6,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/Zz7eUXbPyL",
+        "expanded_url": "https://twitter.com/i/web/status/793180912448045056",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 793161895427526700,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 31 18:45:06 +0000 2016",
+    "text": "Great Kansas people built it and have made dozens of customers around the world more efficient and productive.… https://t.co/GRCZwmU16z",
+    "retweets": 4,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/GRCZwmU16z",
+        "expanded_url": "https://twitter.com/i/web/status/793161895427526657",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 792848802550079500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 30 22:00:59 +0000 2016",
+    "text": "Check out my Washington Legal Foundation piece on the GE food-labeling law @WashLglFndt: https://t.co/5OUAf91yk5",
+    "retweets": 4,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/5OUAf91yk5",
+        "expanded_url": "http://www.wlf.org/upload/legalstudies/legalopinionletter/102816LOL_Pompeo.pdf",
+        "display_url": "wlf.org/upload/legalst…",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "id": 792758177993547800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 30 16:00:53 +0000 2016",
+    "text": "I joined 200+ Reps in defending CA soldiers &amp; demanding halt of recoupment of bonuses. Glad @DeptofDefense acted. https://t.co/XSh5xoKKZG",
+    "retweets": 11,
+    "favorites": 22,
+    "urls": [
+      {
+        "url": "https://t.co/XSh5xoKKZG",
+        "expanded_url": "https://walz.house.gov/media-center/press-releases/walz-palazzo-speier-lead-national-guard-reserve-caucus-in-defense-of-ca",
+        "display_url": "walz.house.gov/media-center/p…",
+        "indices": [
+          118,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "id": 792440996579700700,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 29 19:00:31 +0000 2016",
+    "text": "I regret the FBI closed this case initially. @HillaryClinton mishandled classified info that put our troops at risk. https://t.co/QTKsaTpoEI",
+    "retweets": 32,
+    "favorites": 58,
+    "urls": [
+      {
+        "url": "https://t.co/QTKsaTpoEI",
+        "expanded_url": "http://www.kake.com/story/33511063/pompeo-welcomes-new-clinton-email-investigation",
+        "display_url": "kake.com/story/33511063…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 792117599454818300,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Oct 28 21:35:27 +0000 2016",
+    "text": ".@HillaryClinton should no longer be given classified briefings. We can’t run the risk. My full statement: https://t.co/dejqUYwdp7",
+    "retweets": 72,
+    "favorites": 100,
+    "urls": [
+      {
+        "url": "https://t.co/dejqUYwdp7",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399213",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "id": 792070117421088800,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Oct 28 18:26:46 +0000 2016",
+    "text": ".@POTUS denying answers to Congress &amp; Americans on #Iran. Read my letter to @LorettaLynch w. @SenRubioPress. https://t.co/3jYkwdlaHV",
+    "retweets": 59,
+    "favorites": 38,
+    "urls": [
+      {
+        "url": "https://t.co/3jYkwdlaHV",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399212",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 791670536732639200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Oct 27 15:58:59 +0000 2016",
+    "text": "I had a great time speaking to Kingman High School's senior class this morning. Best of luck to you all - Go Eagles! https://t.co/zx0jhgbzLK",
+    "retweets": 2,
+    "favorites": 10,
+    "urls": 0
+  },
+  {
+    "id": 791293816942854100,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Oct 26 15:02:02 +0000 2016",
+    "text": "So what is the truth Mr. President? https://t.co/Tvb5uA4RbY",
+    "retweets": 36,
+    "favorites": 36,
+    "urls": [
+      {
+        "url": "https://t.co/Tvb5uA4RbY",
+        "expanded_url": "http://www.politico.com/story/2016/10/clinton-email-server-when-did-obama-know-230285",
+        "display_url": "politico.com/story/2016/10/…",
+        "indices": [
+          36,
+          59
+        ]
+      }
+    ]
+  },
+  {
+    "id": 791050773568204800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Oct 25 22:56:16 +0000 2016",
+    "text": "It was wonderful to be with you all.  @SouthwesternCRs are ready. Let's go crush this election in Cowley County and… https://t.co/41XW6NxOQK",
+    "retweets": 6,
+    "favorites": 20,
+    "urls": [
+      {
+        "url": "https://t.co/41XW6NxOQK",
+        "expanded_url": "https://twitter.com/i/web/status/791050773568204800",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 790998777263947800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Oct 25 19:29:39 +0000 2016",
+    "text": "I enjoyed visiting with @KUSM_Wichita students, faculty and staff. They are doing incredible work to deliver stella… https://t.co/6BECJamz9x",
+    "retweets": 4,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/6BECJamz9x",
+        "expanded_url": "https://twitter.com/i/web/status/790998777263947780",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 790673374859128800,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 24 21:56:37 +0000 2016",
+    "text": "“#Iran's for-profit imprisonment of US Citizens\" @washingtonpost Ed Board on ridiculous 10yr sentences for Namazis https://t.co/sXiXZ0p22Q",
+    "retweets": 7,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/sXiXZ0p22Q",
+        "expanded_url": "https://www.washingtonpost.com/opinions/global-opinions/irans-for-profit-imprisonment-of-us-citizens/2016/10/19/5ee9b7da-9566-11e6-9b7c-57290af48a49_story.html?utm_term=.6884e892254a",
+        "display_url": "washingtonpost.com/opinions/globa…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 790241470334787600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 23 17:20:23 +0000 2016",
+    "text": "Native Wichitan &amp; former US Army Captain Alex Holladay stopped by the office for a tour w/ his father. Thanks for y… https://t.co/cMD8ezfOQ0",
+    "retweets": 5,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/cMD8ezfOQ0",
+        "expanded_url": "https://twitter.com/i/web/status/790241470334787588",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 789983475369640000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 23 00:15:12 +0000 2016",
+    "text": "Iran takes Americans hostage &amp; their proxies fire on US ships, yet our leads work hard to gin up business for them. https://t.co/QM5Az9sWtx",
+    "retweets": 36,
+    "favorites": 24,
+    "urls": [
+      {
+        "url": "https://t.co/QM5Az9sWtx",
+        "expanded_url": "http://dailysignal.com/2016/10/20/how-republicans-plan-to-shape-the-next-presidents-iran-policy/",
+        "display_url": "dailysignal.com/2016/10/20/how…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 789980623200936000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 23 00:03:52 +0000 2016",
+    "text": "Congratulations Fred.  Much deserved.  Go @Raptors.   You made a great bet on yourself. We are all so proud.… https://t.co/fiCQhNwlKw",
+    "retweets": 18,
+    "favorites": 113,
+    "urls": [
+      {
+        "url": "https://t.co/fiCQhNwlKw",
+        "expanded_url": "https://twitter.com/i/web/status/789980623200935936",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "id": 789912334676308000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 22 19:32:31 +0000 2016",
+    "text": ".@POTUS has issued a Major Disaster Declaration for counties impacted by the September flooding in #Kansas. https://t.co/PeZNADBIOK",
+    "retweets": 2,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/PeZNADBIOK",
+        "expanded_url": "http://ksn.com/2016/10/21/president-signs-disaster-declaration-for-11-kansas-counties/",
+        "display_url": "ksn.com/2016/10/21/pre…",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": 789844173293756400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 22 15:01:40 +0000 2016",
+    "text": ".@GoShockers basketball is right around the corner! Check out this video explaining basketball’s original rules: https://t.co/LH9mdJ8UGg",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/LH9mdJ8UGg",
+        "expanded_url": "http://www.kansas.com/sports/college/big-12/university-of-kansas/article107846897.html",
+        "display_url": "kansas.com/sports/college…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 789516733598068700,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Oct 21 17:20:32 +0000 2016",
+    "text": "It was a perfect day for a visit to the Speaker’s Balcony! Thank you for stopping by your office, Gary Rivers and f… https://t.co/FLyE7OdCGt",
+    "retweets": 1,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/FLyE7OdCGt",
+        "expanded_url": "https://twitter.com/i/web/status/789516733598068736",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 789222036178632700,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Oct 20 21:49:31 +0000 2016",
+    "text": "Thanks to Obamacare, Kansans have seen a 36.6% increase in average healthcare prices since last year. Unacceptable. https://t.co/k1bGjdued5",
+    "retweets": 64,
+    "favorites": 62,
+    "urls": [
+      {
+        "url": "https://t.co/k1bGjdued5",
+        "expanded_url": "https://twitter.com/JECRepublicans/status/789162869736681472",
+        "display_url": "twitter.com/JECRepublicans…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788794453985071100,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Oct 19 17:30:27 +0000 2016",
+    "text": "I’m a WSU Shocker at heart, but Eric Glendinning &amp; @KUSM_Wichita grads are making a big difference in medicine. Tha… https://t.co/USRYmHFHzm",
+    "retweets": 5,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/USRYmHFHzm",
+        "expanded_url": "https://twitter.com/i/web/status/788794453985071105",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788530440089010200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Oct 19 00:01:21 +0000 2016",
+    "text": "Pat Kennedy is the quintessential bureaucrat. It’s clear he was protecting himself and Hillary from responsibility. https://t.co/2sOsEcKRtk",
+    "retweets": 12,
+    "favorites": 17,
+    "urls": [
+      {
+        "url": "https://t.co/2sOsEcKRtk",
+        "expanded_url": "http://foreignpolicy.com/2016/07/28/the-bureaucrat-at-the-center-of-hillarys-scandals/",
+        "display_url": "foreignpolicy.com/2016/07/28/the…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788379573624897500,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Oct 18 14:01:52 +0000 2016",
+    "text": "Today is the last day to register to vote before the November election!  Check if you’re registered here: https://t.co/ut27f3p21y",
+    "retweets": 6,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/ut27f3p21y",
+        "expanded_url": "https://myvoteinfo.voteks.org/VoterView/RegistrantSearch.do",
+        "display_url": "myvoteinfo.voteks.org/VoterView/Regi…",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788137612393545700,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 17 22:00:24 +0000 2016",
+    "text": "I demand an investigation into alleged ‘quid pro quo’ arrangements between the State Dept &amp; FBI. Read more: https://t.co/Zhv3Y5bkx7",
+    "retweets": 44,
+    "favorites": 44,
+    "urls": [
+      {
+        "url": "https://t.co/Zhv3Y5bkx7",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399196",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788033315496456200,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 17 15:05:58 +0000 2016",
+    "text": "My trip to @WpsBrooks was outstanding. Read my weekly newsletter to learn why: https://t.co/hh7dWiMtlD",
+    "retweets": 4,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/hh7dWiMtlD",
+        "expanded_url": "http://pompeo.house.gov/news/email/show.aspx?ID=5H4A5XLRQ5FANWNRR5475WIDVE",
+        "display_url": "pompeo.house.gov/news/email/sho…",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "id": 787337503904763900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 15 17:01:03 +0000 2016",
+    "text": "Are you registered to vote this November?  If you’re not sure, read this article on how to find out: https://t.co/FeLsWFkyZL",
+    "retweets": 2,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/FeLsWFkyZL",
+        "expanded_url": "http://www.kansas.com/news/politics-government/election/article108196122.html",
+        "display_url": "kansas.com/news/politics-…",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "id": 787081310573621200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 15 00:03:02 +0000 2016",
+    "text": "Many thanks to local and federal law enforcement for their quick actions to stop this hateful act before it began. https://t.co/witNDe1tvS",
+    "retweets": 9,
+    "favorites": 20,
+    "urls": [
+      {
+        "url": "https://t.co/witNDe1tvS",
+        "expanded_url": "http://www.kwch.com/content/news/Federal-officials-to-announce-arrests-in-major-investigation-397095961.html",
+        "display_url": "kwch.com/content/news/F…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 786673080387170300,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Oct 13 21:00:52 +0000 2016",
+    "text": "Happy #241NavyBday! With recent reports of missile attacks against our ships, it's as important as ever to keep our… https://t.co/dfoWMNzlWa",
+    "retweets": 12,
+    "favorites": 26,
+    "urls": [
+      {
+        "url": "https://t.co/dfoWMNzlWa",
+        "expanded_url": "https://twitter.com/i/web/status/786673080387170306",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 786420610150731800,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Oct 13 04:17:39 +0000 2016",
+    "text": "Iranian backed rebels fire at U.S. Navy. President responds by approving sale of planes to the Ayatollah. Genius. https://t.co/rEmoGxbcCS",
+    "retweets": 30,
+    "favorites": 25,
+    "urls": [
+      {
+        "url": "https://t.co/rEmoGxbcCS",
+        "expanded_url": "http://www.realcleardefense.com/articles/2016/10/12/yemen_rebels_fire_2_missiles_at_us_ship_second_time_this_week_both_miss_110200.html",
+        "display_url": "realcleardefense.com/articles/2016/…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 786354551062310900,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Oct 12 23:55:09 +0000 2016",
+    "text": "Happy #NationalFarmersDay to all the men &amp; women across South Central Kansas and America that work hard every day t… https://t.co/yvFe2Nu8hw",
+    "retweets": 14,
+    "favorites": 30,
+    "urls": [
+      {
+        "url": "https://t.co/yvFe2Nu8hw",
+        "expanded_url": "https://twitter.com/i/web/status/786354551062310913",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 786294984487993300,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Oct 12 19:58:27 +0000 2016",
+    "text": "Congrats to @SpiritAero on their 500th Boeing 787 Dreamliner! Wichita truly is the Air Capital of the World. https://t.co/iRFkHRs53w",
+    "retweets": 3,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/iRFkHRs53w",
+        "expanded_url": "http://www.kansas.com/news/business/aviation/article107469302.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          109,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "id": 785844673730449400,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Oct 11 14:09:05 +0000 2016",
+    "text": "Read my thoughts on @POTUS's latest legal changes for #Iran. \"Green lights business w. terrorists\" \nhttps://t.co/y2JFU3ncEV",
+    "retweets": 15,
+    "favorites": 16,
+    "urls": [
+      {
+        "url": "https://t.co/y2JFU3ncEV",
+        "expanded_url": "http://www.wsj.com/articles/obama-administration-draws-criticism-over-iran-investment-policy-1476056049",
+        "display_url": "wsj.com/articles/obama…",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "id": 785510917379330000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 10 16:02:51 +0000 2016",
+    "text": "Happy Columbus Day!  Did you know, just a short walk from my Washington D.C. office, a statue of Columbus stands in… https://t.co/RU4TxAGsaZ",
+    "retweets": 19,
+    "favorites": 63,
+    "urls": [
+      {
+        "url": "https://t.co/RU4TxAGsaZ",
+        "expanded_url": "https://twitter.com/i/web/status/785510917379330052",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 784906358936203300,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 09 00:00:33 +0000 2016",
+    "text": "Miss my op-ed in the @DerbyInformer on reforming the VA?  Read it here: https://t.co/7rEQ8AumDH",
+    "retweets": 3,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/7rEQ8AumDH",
+        "expanded_url": "http://www.derbyinformer.com/news/opinion/serving-our-kansas-heroes/article_3fec495c-8a57-11e6-a512-e345a0362afc.html",
+        "display_url": "derbyinformer.com/news/opinion/s…",
+        "indices": [
+          72,
+          95
+        ]
+      }
+    ]
+  },
+  {
+    "id": 784402679846109200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Oct 07 14:39:07 +0000 2016",
+    "text": ".@SenRubioPress &amp; I asked @LorettaLynch why she approved sending #Iran $1.3 billion in cash. Read more here: https://t.co/eWo04zv4bX",
+    "retweets": 54,
+    "favorites": 44,
+    "urls": [
+      {
+        "url": "https://t.co/eWo04zv4bX",
+        "expanded_url": "http://thehill.com/policy/defense/299778-pompeo-rubio-press-lynch-for-answers-on-iran-payments",
+        "display_url": "thehill.com/policy/defense…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 784207977146220500,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Oct 07 01:45:26 +0000 2016",
+    "text": "Way to go Conor!  Go Shox. Ex-Shocker Conor Gillaspie’s home run lifts Giants in NL wild-card game  https://t.co/qqnRzkbww7",
+    "retweets": 5,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/qqnRzkbww7",
+        "expanded_url": "http://www.kansas.com/sports/college/wichita-state/article106345977.html",
+        "display_url": "kansas.com/sports/college…",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "id": 784141389785333800,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Oct 06 21:20:50 +0000 2016",
+    "text": ".@SenatorDole, thanks for taking the time to meet Kansas Honor Flight vets today, including Loren Tracey &amp; his gran… https://t.co/GrdRZ2iawr",
+    "retweets": 6,
+    "favorites": 22,
+    "urls": [
+      {
+        "url": "https://t.co/GrdRZ2iawr",
+        "expanded_url": "https://twitter.com/i/web/status/784141389785333764",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 783780190170255400,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Oct 05 21:25:33 +0000 2016",
+    "text": "As an Army vet I take the caring for our military seriously. Please read my @DerbyInformer op-ed on VA reform here: https://t.co/7rEQ8AumDH",
+    "retweets": 5,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/7rEQ8AumDH",
+        "expanded_url": "http://www.derbyinformer.com/news/opinion/serving-our-kansas-heroes/article_3fec495c-8a57-11e6-a512-e345a0362afc.html",
+        "display_url": "derbyinformer.com/news/opinion/s…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 783336582229160000,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Oct 04 16:02:49 +0000 2016",
+    "text": "Great video of “Doc” taking to the Kansas skies for the second time.  What a sight! https://t.co/G4K7oDn26Y",
+    "retweets": 7,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/G4K7oDn26Y",
+        "expanded_url": "http://www.kansas.com/news/business/aviation/article105397251.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          84,
+          107
+        ]
+      }
+    ]
+  },
+  {
+    "id": 783103123694858200,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Oct 04 00:35:08 +0000 2016",
+    "text": "I am proud to stand with my colleagues in condemning this illegal action to bring GTMO detainees to Kansas. https://t.co/aLlNsJJ2Jj",
+    "retweets": 66,
+    "favorites": 54,
+    "urls": [
+      {
+        "url": "https://t.co/aLlNsJJ2Jj",
+        "expanded_url": "http://www.washingtonexaminer.com/reps.-pentagon-used-taxpayer-money-to-scout-gitmo-sites/article/2603463",
+        "display_url": "washingtonexaminer.com/reps.-pentagon…",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": 783052719355490300,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Oct 03 21:14:51 +0000 2016",
+    "text": "L’Shanah Tovah! https://t.co/cjN2r3n4FF",
+    "retweets": 3,
+    "favorites": 9,
+    "urls": 0
+  },
+  {
+    "id": 782566118963736600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 02 13:01:16 +0000 2016",
+    "text": "Thank you fellow Wichitans, Ross &amp; Lindsey Hellwig, for stopping by the office. It was great to be able to visit wi… https://t.co/iqVstxnY52",
+    "retweets": 2,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/iqVstxnY52",
+        "expanded_url": "https://twitter.com/i/web/status/782566118963736577",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 782369723543584800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Oct 02 00:00:52 +0000 2016",
+    "text": "Congrats to @Cessna for winning $23m contract for 6 Caravan aircraft. #Wichita continues to be a great aviation city https://t.co/wnSQHmP0lZ",
+    "retweets": 7,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/wnSQHmP0lZ",
+        "expanded_url": "http://www.defense.gov/News/Contracts/Contract-View/Article/951753",
+        "display_url": "defense.gov/News/Contracts…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 782333268112707600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 01 21:36:00 +0000 2016",
+    "text": "No surprise. Obamacare was destined to fail. Progressives demand more of your $ to double down to avoid collapse. https://t.co/Sl1foKhaqh",
+    "retweets": 14,
+    "favorites": 23,
+    "urls": [
+      {
+        "url": "https://t.co/Sl1foKhaqh",
+        "expanded_url": "http://www.bloomberg.com/news/articles/2016-09-30/near-collapse-minnesota-insurers-up-obamacare-rates-by-half",
+        "display_url": "bloomberg.com/news/articles/…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 782218830844162000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Oct 01 14:01:16 +0000 2016",
+    "text": "Thank you Carolyn Winn for stopping by the office!  Looks like you settled in pretty well.  Thank you for bringing… https://t.co/wBOFJqiE3v",
+    "retweets": 2,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/wBOFJqiE3v",
+        "expanded_url": "https://twitter.com/i/web/status/782218830844162050",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781971034148855800,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 30 21:36:37 +0000 2016",
+    "text": "Lynn &amp; David Gilkey represent the best of Kansas &amp; America. Read my statement on Lynn's recognition from @POTUS: \nhttps://t.co/G3yx6l5BRn",
+    "retweets": 4,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/G3yx6l5BRn",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399179",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          122,
+          145
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781863941664280600,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 30 14:31:04 +0000 2016",
+    "text": "Kansan @rogernoriegaUSA on peace process in #Colombia. FARC can be defeated. Colombians will decide &amp; US can support https://t.co/ooWQLAcv1K",
+    "retweets": 7,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/ooWQLAcv1K",
+        "expanded_url": "http://www.washingtonexaminer.com/a-chance-for-peace-in-colombia/article/2603171#.V-0PFlhdzUY.twitter",
+        "display_url": "washingtonexaminer.com/a-chance-for-p…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781652366533812200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 30 00:30:21 +0000 2016",
+    "text": "Wichitan and Air Force veteran, Glenn Bindley, dropped by my office.  Hope you had a great visit and thank you for… https://t.co/sGl7PfMZTd",
+    "retweets": 4,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/sGl7PfMZTd",
+        "expanded_url": "https://twitter.com/i/web/status/781652366533812225",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781610792261132300,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 29 21:45:09 +0000 2016",
+    "text": ".@TomWheelerFCC delays set-top box vote, needs issue fixes.  @Rep_DevinNunes &amp; I talk privacy/security in a letter: https://t.co/wZ89Hnr3PK",
+    "retweets": 2,
+    "favorites": 2,
+    "urls": [
+      {
+        "url": "https://t.co/wZ89Hnr3PK",
+        "expanded_url": "http://pompeo.house.gov/UploadedFiles/NunesPompeo_Letter_to_FCC.PDF",
+        "display_url": "pompeo.house.gov/UploadedFiles/…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781591834380398600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 29 20:29:49 +0000 2016",
+    "text": "Welcome to Wichita @MAXaero_ICT. Thanks for continuing to invest &amp; grow in the Air Capital of the World!  https://t.co/qlP1IORJZF #Kansas",
+    "retweets": 11,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/qlP1IORJZF",
+        "expanded_url": "http://www.kansas.com/news/business/biz-columns-blogs/carrie-rengers/article104710881.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "id": 781298270870143000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 29 01:03:18 +0000 2016",
+    "text": "My friend Joseph Elmore, along with some friends and family, visited my Washington office last week. I hope you all… https://t.co/HGSaaef6RH",
+    "retweets": 4,
+    "favorites": 16,
+    "urls": [
+      {
+        "url": "https://t.co/HGSaaef6RH",
+        "expanded_url": "https://twitter.com/i/web/status/781298270870142976",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780895219923423200,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 27 22:21:43 +0000 2016",
+    "text": "Today, I joined @RadioGaffney to discuss some pressing national security issues.  Listen here: https://t.co/IJmjJZCl5g",
+    "retweets": 8,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/IJmjJZCl5g",
+        "expanded_url": "http://www.centerforsecuritypolicy.org/2016/09/27/the-u-s-shouldnt-share-intelligence-or-the-internet-with-russia/",
+        "display_url": "centerforsecuritypolicy.org/2016/09/27/the…",
+        "indices": [
+          95,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780839210903334900,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 27 18:39:09 +0000 2016",
+    "text": "We must put the interests of Kansans &amp; Americans 1st in the immigration debate. Read my op-ed w/ @SenTomCotton here: https://t.co/1NXLkQmkbf",
+    "retweets": 9,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/1NXLkQmkbf",
+        "expanded_url": "http://www.wsj.com/articles/what-we-learned-in-scandinavia-about-migrants-1474932369",
+        "display_url": "wsj.com/articles/what-…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780594627141304300,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 27 02:27:16 +0000 2016",
+    "text": "Ridiculous. Iran is a major power today because Barack Obama handed them keys to castle in 2009 speech and in Iran… https://t.co/9M6gFgY5Ca",
+    "retweets": 26,
+    "favorites": 33,
+    "urls": [
+      {
+        "url": "https://t.co/9M6gFgY5Ca",
+        "expanded_url": "https://twitter.com/i/web/status/780594627141304322",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780560147844325400,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 27 00:10:16 +0000 2016",
+    "text": "If your land or business has been impacted by recent flooding, please click here for important info from @SBAgov: https://t.co/taLDXDSqWU",
+    "retweets": 2,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/taLDXDSqWU",
+        "expanded_url": "http://pompeo.house.gov/constituentservices/sba-disaster-loan-services.htm",
+        "display_url": "pompeo.house.gov/constituentser…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780501469170700300,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 26 20:17:05 +0000 2016",
+    "text": "Yesterday the world lost a golfer-pilot w/ long standing ties to Kansas aviation. Here's Palmer w/ Cessna Chairman… https://t.co/Ls8i7qWEmR",
+    "retweets": 13,
+    "favorites": 34,
+    "urls": [
+      {
+        "url": "https://t.co/Ls8i7qWEmR",
+        "expanded_url": "https://twitter.com/i/web/status/780501469170700288",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780436720844144600,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 26 15:59:48 +0000 2016",
+    "text": "Flooding continues to affect South Central #Kansas. A special thanks to all brave first responders doing great work. https://t.co/iynQwpuPcQ",
+    "retweets": 2,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/iynQwpuPcQ",
+        "expanded_url": "http://ksn.com/2016/09/21/sedgwick-co-firefighters-describes-flood-rescue-it-was-a-good-one-one-to-remember/",
+        "display_url": "ksn.com/2016/09/21/sed…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 780051857297313800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Sep 25 14:30:30 +0000 2016",
+    "text": "ICYMI: This week I penned an op-ed explaining why friends don't let friends do business with #Iran. https://t.co/BH2haqg0KL",
+    "retweets": 11,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/BH2haqg0KL",
+        "expanded_url": "https://foreignpolicy.com/2016/09/20/friends-dont-let-friends-do-business-with-iran-un-general-assembly-obama/",
+        "display_url": "foreignpolicy.com/2016/09/20/fri…",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779821151740493800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Sep 24 23:13:45 +0000 2016",
+    "text": "Wichita's aviation industry to serve our nation yet again. This time in Africa &amp; Pacific counterterrorism roles. https://t.co/BfgwfFpzCw",
+    "retweets": 3,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/BfgwfFpzCw",
+        "expanded_url": "http://www.kansas.com/news/business/aviation/article103524762.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779743808145596400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Sep 24 18:06:25 +0000 2016",
+    "text": "This move by @POTUS is dangerous, reckless and wholly unnecessary. https://t.co/CWT8Ucr6K3",
+    "retweets": 31,
+    "favorites": 24,
+    "urls": [
+      {
+        "url": "https://t.co/CWT8Ucr6K3",
+        "expanded_url": "http://www.kansascity.com/news/politics-government/article103409752.html",
+        "display_url": "kansascity.com/news/politics-…",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779392667465703400,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 23 18:51:06 +0000 2016",
+    "text": ".@HillaryClinton cronies are getting immunity in home-brewed server, email scandal.  What are they hiding? https://t.co/ew2kvsuzMs",
+    "retweets": 17,
+    "favorites": 16,
+    "urls": [
+      {
+        "url": "https://t.co/ew2kvsuzMs",
+        "expanded_url": "http://www.politico.com/story/2016/09/mills-immunity-228580",
+        "display_url": "politico.com/story/2016/09/…",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779354503615217700,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 23 16:19:28 +0000 2016",
+    "text": "I took to the House floor last night to offer my amendments that will help keep Americans safe abroad.  Watch: https://t.co/9QrodIVIs1",
+    "retweets": 4,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/9QrodIVIs1",
+        "expanded_url": "https://youtu.be/UFL2Ebvy4OQ",
+        "display_url": "youtu.be/UFL2Ebvy4OQ",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779319947658924000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 23 14:02:09 +0000 2016",
+    "text": "If ISIS used mustard gas, it would mark a disturbing shift in tactics. We must get serious &amp; eliminate ISIS. https://t.co/oqtJf4VYpb",
+    "retweets": 13,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/oqtJf4VYpb",
+        "expanded_url": "http://www.cnn.com/2016/09/21/politics/mustard-gas-us-troops/",
+        "display_url": "cnn.com/2016/09/21/pol…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779116885132664800,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 23 00:35:15 +0000 2016",
+    "text": "It was a great honor to meet one of the 2015 @usairforce Airmen of the Year, Master Sergeant Faith McNelley, of Cle… https://t.co/wF4kC5f8y7",
+    "retweets": 7,
+    "favorites": 24,
+    "urls": [
+      {
+        "url": "https://t.co/wF4kC5f8y7",
+        "expanded_url": "https://twitter.com/i/web/status/779116885132664832",
+        "display_url": "twitter.com/i/web/status/7…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779040222675890200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 22 19:30:37 +0000 2016",
+    "text": "Happy first day of fall! https://t.co/Vr13YHDJ1z",
+    "retweets": 3,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/Vr13YHDJ1z",
+        "expanded_url": "http://www.kansas.com/news/weather/article103378262.html",
+        "display_url": "kansas.com/news/weather/a…",
+        "indices": [
+          25,
+          48
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778997999028633600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 22 16:42:50 +0000 2016",
+    "text": "I'll be joining @wolfblitzer on @CNN at 12:20pmCT/1:20pmET today to discuss the latest in the NY/NJ bombing investigation. Tune in!",
+    "retweets": 1,
+    "favorites": 4,
+    "urls": 0
+  },
+  {
+    "id": 778979739256127500,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 22 15:30:17 +0000 2016",
+    "text": "I’m saddened &amp; angered that #Iran has imprisoned &amp; fined an American after a secret tribunal. https://t.co/JHbjGmXtqB",
+    "retweets": 16,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/JHbjGmXtqB",
+        "expanded_url": "http://www.cbsnews.com/news/iran-sentences-us-resident-nizar-zakka-lebanese-citizen-prison-alleged-spy/",
+        "display_url": "cbsnews.com/news/iran-sent…",
+        "indices": [
+          102,
+          125
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778725532544270300,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 21 22:40:09 +0000 2016",
+    "text": ".@POTUS today announced he is essentially helping build the Iranian Air Force. This is reckless &amp; unnecessary. Read: https://t.co/BLPWy9Ba6f",
+    "retweets": 16,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/BLPWy9Ba6f",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399163",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778662863669960700,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 21 18:31:08 +0000 2016",
+    "text": "Finally, Eisenhower will get his own memorial in Washington DC.  May this memorial inspire generations of Americans! https://t.co/R5OPXEw5hR",
+    "retweets": 12,
+    "favorites": 27,
+    "urls": [
+      {
+        "url": "https://t.co/R5OPXEw5hR",
+        "expanded_url": "http://www.kansas.com/news/nation-world/national/article102874802.html",
+        "display_url": "kansas.com/news/nation-wo…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778588668101615600,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 21 13:36:18 +0000 2016",
+    "text": "Friends don't let friends do business with #Iran. Read my op-ed on the connection between Iranian biz &amp; terror here: https://t.co/Dkxx0XomQq",
+    "retweets": 9,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/Dkxx0XomQq",
+        "expanded_url": "http://foreignpolicy.com/2016/09/20/friends-dont-let-friends-do-business-with-iran-un-general-assembly-obama/",
+        "display_url": "foreignpolicy.com/2016/09/20/fri…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778392122739286000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 21 00:35:18 +0000 2016",
+    "text": "After 75 years, Sedgwick Co. native Lewis Wagoner's remains have been ID'ed at Pearl Harbor &amp; coming home. Godspeed. https://t.co/YIJD59cJRj",
+    "retweets": 27,
+    "favorites": 49,
+    "urls": 0
+  },
+  {
+    "id": 778360829335011300,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 20 22:30:57 +0000 2016",
+    "text": "The @SBAgov has opened a Disaster Loan Outreach Center in Mulvane for those affected by recent flooding. More info: https://t.co/taLDXDSqWU",
+    "retweets": 2,
+    "favorites": 2,
+    "urls": [
+      {
+        "url": "https://t.co/taLDXDSqWU",
+        "expanded_url": "http://pompeo.house.gov/constituentservices/sba-disaster-loan-services.htm",
+        "display_url": "pompeo.house.gov/constituentser…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778332984919330800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 20 20:40:18 +0000 2016",
+    "text": "A “cessation of hostilities” in Syria is a joke - helps the Ayatollah &amp; Putin. Let's condemn Assad &amp; pass this bill https://t.co/ZdOPIhqfnJ",
+    "retweets": 146,
+    "favorites": 145,
+    "urls": [
+      {
+        "url": "https://t.co/ZdOPIhqfnJ",
+        "expanded_url": "https://www.washingtonpost.com/news/josh-rogin/wp/2016/09/20/white-house-worked-secretly-to-delay-syria-sanctions-bill/",
+        "display_url": "washingtonpost.com/news/josh-rogi…",
+        "indices": [
+          124,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778241134116085800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 20 14:35:20 +0000 2016",
+    "text": "Snowden is not a whistleblower by any definition. He is, however, a liar and a criminal. https://t.co/g6aKsDTmRI",
+    "retweets": 9,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/g6aKsDTmRI",
+        "expanded_url": "http://www.kansas.com/news/politics-government/article102205747.html",
+        "display_url": "kansas.com/news/politics-…",
+        "indices": [
+          89,
+          112
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778021065998164000,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 20 00:00:51 +0000 2016",
+    "text": "The USS Wichita just hit an exciting milestone with its christening! Check it out: https://t.co/0oxnCffthI",
+    "retweets": 2,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/0oxnCffthI",
+        "expanded_url": "https://www.youtube.com/watch?time_continue=2&v=b_wnwFpw26g",
+        "display_url": "youtube.com/watch?time_con…",
+        "indices": [
+          83,
+          106
+        ]
+      }
+    ]
+  },
+  {
+    "id": 777914983376126000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 19 16:59:19 +0000 2016",
+    "text": "This attack is a reminder that we must stay on the offensive against radical Islam until it's fully eradicated. https://t.co/Ed6B2ApZ2Y",
+    "retweets": 19,
+    "favorites": 24,
+    "urls": [
+      {
+        "url": "https://t.co/Ed6B2ApZ2Y",
+        "expanded_url": "http://www.foxnews.com/us/2016/09/19/person-interest-to-named-in-nyc-bombing.html",
+        "display_url": "foxnews.com/us/2016/09/19/…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 777895280356327400,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 19 15:41:02 +0000 2016",
+    "text": "Americans can plainly see that the Obama admin laundered this money in order to circumvent U.S. law &amp; appease Iran. https://t.co/Ge6jpmDdGb",
+    "retweets": 60,
+    "favorites": 36,
+    "urls": [
+      {
+        "url": "https://t.co/Ge6jpmDdGb",
+        "expanded_url": "http://freebeacon.com/national-security/obama-admin-laundered-u-s-cash-iran-via-n-y-fed-euro-banks/",
+        "display_url": "freebeacon.com/national-secur…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 776891354605641700,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 16 21:11:47 +0000 2016",
+    "text": "We may never know your name. But we will always remember your service, your sacrifice, and your honor. #POWMIA https://t.co/ht5UFkXQ70",
+    "retweets": 29,
+    "favorites": 48,
+    "urls": 0
+  },
+  {
+    "id": 776845320164610000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 16 18:08:52 +0000 2016",
+    "text": "Thank you A.J. Bohannon, Brandon Johnson and Djuan Wash for visiting today, and for our frank and open conversation. https://t.co/GCKDYm78h6",
+    "retweets": 5,
+    "favorites": 17,
+    "urls": 0
+  },
+  {
+    "id": 776571592595935200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 16 00:01:10 +0000 2016",
+    "text": "Excited to hear about the groundbreaking for the National Army Museum at Fort Belvoir! https://t.co/W7OEVcfV1V",
+    "retweets": 3,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/W7OEVcfV1V",
+        "expanded_url": "https://www.ausa.org/news/army-breaks-ground-national-museum",
+        "display_url": "ausa.org/news/army-brea…",
+        "indices": [
+          87,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "id": 776525877274435600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 15 20:59:30 +0000 2016",
+    "text": "Intel Committee's report shows that Snowden is not a whistleblower. He is, however, a liar &amp; a criminal. Read more: https://t.co/FwJ0R69tA5",
+    "retweets": 3,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/FwJ0R69tA5",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399157",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 776484528693055500,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 15 18:15:12 +0000 2016",
+    "text": "I am proud to join my colleagues in again blocking @POTUS from releasing any more of these terrorists from GTMO. https://t.co/0aKPc6MIRj",
+    "retweets": 16,
+    "favorites": 36,
+    "urls": [
+      {
+        "url": "https://t.co/0aKPc6MIRj",
+        "expanded_url": "https://www.washingtonpost.com/news/powerpost/wp/2016/09/14/house-wants-to-block-obama-from-releasing-any-more-guantanamo-detainees/",
+        "display_url": "washingtonpost.com/news/powerpost…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 776420764337705000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 15 14:01:50 +0000 2016",
+    "text": "It’s an honor to receive the @NFIB biennial Guardian of Small Business Award! https://t.co/oTWTRruweZ",
+    "retweets": 6,
+    "favorites": 15,
+    "urls": 0
+  },
+  {
+    "id": 776405243722510300,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 15 13:00:09 +0000 2016",
+    "text": "I'll be joining @marthamaccallum on @AmericaNewsroom this morning at 8:30amCT/9:30amET on @FoxNews.  Be sure to tune in!",
+    "retweets": 2,
+    "favorites": 8,
+    "urls": 0
+  },
+  {
+    "id": 776190883960070100,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 14 22:48:22 +0000 2016",
+    "text": "Great to welcome my good friend Bonnie Siegel w/ @AIPAC to my DC office. Thanks for all your great work Bonnie! https://t.co/05LyWaIxjl",
+    "retweets": 1,
+    "favorites": 7,
+    "urls": 0
+  },
+  {
+    "id": 776058448756764700,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 14 14:02:07 +0000 2016",
+    "text": "A great story about Kansans doing what Kansans do best - coming together in a time of need.  Bravo. https://t.co/LZtWcYAGJd",
+    "retweets": 1,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/LZtWcYAGJd",
+        "expanded_url": "http://www.derbyinformer.com/news/area_news/mulvane-residents-join-forces-to-stay-afloat-after-flood/article_cebc1974-7453-11e6-84e4-d7dcd75be3eb.html?utm_medium=social&utm_source=facebook&utm_campaign=user-share",
+        "display_url": "derbyinformer.com/news/area_news…",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "id": 775852840057180200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 14 00:25:06 +0000 2016",
+    "text": "I talked w/ @LouDobbs on @FoxBusiness last night about payments to Iran &amp; the anniversary of the Benghazi attacks. https://t.co/IQSnQpYKrB",
+    "retweets": 4,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/IQSnQpYKrB",
+        "expanded_url": "http://video.foxbusiness.com/v/5122179373001/rep-pompeo-on-iran-ransom-payments-and-benghazi/?#sp=show-clips",
+        "display_url": "video.foxbusiness.com/v/512217937300…",
+        "indices": [
+          119,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "id": 775779036496822300,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 13 19:31:50 +0000 2016",
+    "text": "Thankful for the @KSFarmBureau visit last week &amp; for their work feeding #Kansas &amp; the world! #agriculture https://t.co/F8iFttUzAq",
+    "retweets": 2,
+    "favorites": 14,
+    "urls": 0
+  },
+  {
+    "id": 775499382078734300,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 13 01:00:35 +0000 2016",
+    "text": "ICYMI: I joined @marthamaccallum on @AmericaNewsroom regarding where our investigation stands 4 years after Benghazi https://t.co/TB9tLooVSU",
+    "retweets": 2,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/TB9tLooVSU",
+        "expanded_url": "http://video.foxnews.com/v/5121470555001/four-years-after-benghazi-where-does-investigation-stand/?#sp=show-clips",
+        "display_url": "video.foxnews.com/v/512147055500…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 775461580783939700,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 12 22:30:22 +0000 2016",
+    "text": "I’ll be joining @LouDobbs tonight on @FoxBusiness at 6:30pmCT/7:30pmET – be sure to tune in!",
+    "retweets": 0,
+    "favorites": 9,
+    "urls": 0
+  },
+  {
+    "id": 775431095936491500,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 12 20:29:14 +0000 2016",
+    "text": "Very sad news.  Susan and I send our prayers to Cadet Jackson’s family and the whole @WestPoint_USMA community. https://t.co/4gfffEsDxL",
+    "retweets": 1,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/4gfffEsDxL",
+        "expanded_url": "https://twitter.com/GoArmyWestPoint/status/775363245796302850",
+        "display_url": "twitter.com/GoArmyWestPoin…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 775325623761993700,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 12 13:30:08 +0000 2016",
+    "text": "I'm joining @marthamaccallum on @AmericaNewsroom at 9:20amCT/10:20amET to discuss the anniversary of the Benghazi attacks &amp; more. Tune in!",
+    "retweets": 5,
+    "favorites": 11,
+    "urls": 0
+  },
+  {
+    "id": 775123067366441000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 12 00:05:15 +0000 2016",
+    "text": "Don’t forget, congressional nomination forms for U.S. service academies are due October 1st! Apply here: https://t.co/mKPfJq8iiA",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/mKPfJq8iiA",
+        "expanded_url": "http://pompeo.house.gov/constituentservices/serviceacademynominations.htm",
+        "display_url": "pompeo.house.gov/constituentser…",
+        "indices": [
+          105,
+          128
+        ]
+      }
+    ]
+  },
+  {
+    "id": 775070612582654000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Sep 11 20:36:48 +0000 2016",
+    "text": "Reflective yet determined on this 15th anniversary of the 9/11 attacks. I share my thoughts here. #NeverForget https://t.co/NTqWMJVwQJ",
+    "retweets": 2,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/NTqWMJVwQJ",
+        "expanded_url": "http://pompeo.house.gov/news/email/show.aspx?ID=5H4A5XLRQ5FAN7NCVEGHEG7XZQ",
+        "display_url": "pompeo.house.gov/news/email/sho…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 774986228324241400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Sep 11 15:01:30 +0000 2016",
+    "text": "Who’s excited for the state fair?  I know I am! https://t.co/RzocBEYiSg",
+    "retweets": 1,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/RzocBEYiSg",
+        "expanded_url": "http://www.kansas.com/entertainment/state-fair/article100659617.html",
+        "display_url": "kansas.com/entertainment/…",
+        "indices": [
+          48,
+          71
+        ]
+      }
+    ]
+  },
+  {
+    "id": 774699196859478000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Sep 10 20:00:56 +0000 2016",
+    "text": "The US may have paid Iran upwards of $33.6b in cash &amp; gold! The Iran nuke deal has gone from bad to catastrophic. https://t.co/nAhhAlD5xt",
+    "retweets": 36,
+    "favorites": 33,
+    "urls": [
+      {
+        "url": "https://t.co/nAhhAlD5xt",
+        "expanded_url": "http://www.weeklystandard.com/experts-1.7-billion-cash-payment-to-iran-may-not-have-been-the-first/article/2004216",
+        "display_url": "weeklystandard.com/experts-1.7-bi…",
+        "indices": [
+          118,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "id": 774593526780858400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Sep 10 13:01:02 +0000 2016",
+    "text": "#NorthKorea tests 5th nuclear weapon. Prompts US call for more sanctions. Problem when rogue regimes get nukes... https://t.co/IJPhDCqaGo",
+    "retweets": 5,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/IJPhDCqaGo",
+        "expanded_url": "http://www.reuters.com/article/us-northkorea-nuclear-idUSKCN11F02N",
+        "display_url": "reuters.com/article/us-nor…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 774381971162234900,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 09 23:00:23 +0000 2016",
+    "text": "Thank you @SafeAffordable for the kind letter! I'll continue to fight for #Kansas agriculture and Kansas families. https://t.co/euFTB0D6WZ",
+    "retweets": 6,
+    "favorites": 16,
+    "urls": 0
+  },
+  {
+    "id": 774363840112984000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 09 21:48:21 +0000 2016",
+    "text": "There’s some notable events commemorating the attacks of 9/11 in Wichita. Try to stop by one if you’re in the area. https://t.co/zFxn4dsbNr",
+    "retweets": 2,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/zFxn4dsbNr",
+        "expanded_url": "http://www.kansas.com/news/local/article100698892.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 773525116252741600,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Sep 07 14:15:33 +0000 2016",
+    "text": "The deadline for Congressional Nomination Forms for US Service Academies is October 1st. Application here: https://t.co/mKPfJq8iiA",
+    "retweets": 1,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/mKPfJq8iiA",
+        "expanded_url": "http://pompeo.house.gov/constituentservices/serviceacademynominations.htm",
+        "display_url": "pompeo.house.gov/constituentser…",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "id": 773298536188371000,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 06 23:15:12 +0000 2016",
+    "text": "Congrats to Sedgwick native, Staff Sgt. Clint Brown, for being recognized as USO National Guardsman of the Year! https://t.co/Of1mJZGzGU",
+    "retweets": 5,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/Of1mJZGzGU",
+        "expanded_url": "http://www.kwch.com/content/news/Sedgwick-man-recognized-as-USO-National-Guardsman-of-the-Year-392101401.html",
+        "display_url": "kwch.com/content/news/S…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 773181660162588700,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Sep 06 15:30:47 +0000 2016",
+    "text": "It's unprecedented &amp; dangerous for @POTUS to be doling out millions to #Iran. Proud to file this bill in the House. https://t.co/EOhN9AzsU1",
+    "retweets": 66,
+    "favorites": 65,
+    "urls": [
+      {
+        "url": "https://t.co/EOhN9AzsU1",
+        "expanded_url": "https://twitter.com/marcorubio/status/773137945855262721",
+        "display_url": "twitter.com/marcorubio/sta…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 772797814090924000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Sep 05 14:05:31 +0000 2016",
+    "text": "Happy Labor Day!  I hope you all enjoy this beautiful weather and get the chance to spend quality time with family and friends.",
+    "retweets": 5,
+    "favorites": 22,
+    "urls": 0
+  },
+  {
+    "id": 772487077862735900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Sep 04 17:30:46 +0000 2016",
+    "text": "#Wichita is leading the way in space exploration.  The Air Capital is quickly becoming the Space Capital! https://t.co/foxFLEMod1",
+    "retweets": 5,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/foxFLEMod1",
+        "expanded_url": "http://www.bizjournals.com/wichita/news/2016/09/02/cover-story-wichita-firms-quietly-help-boost-space.html",
+        "display_url": "bizjournals.com/wichita/news/2…",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "id": 772192664179642400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Sep 03 22:00:52 +0000 2016",
+    "text": "Pray for those targeted by Islamic terrorists.  We must get serious about eliminating terror orgs once and for all. https://t.co/hpgO4iJstP",
+    "retweets": 12,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/hpgO4iJstP",
+        "expanded_url": "http://www.foxnews.com/world/2016/09/02/christian-colony-court-in-pakistan-targeted-in-militant-attack.html",
+        "display_url": "foxnews.com/world/2016/09/…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 771821121997987800,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 02 21:24:29 +0000 2016",
+    "text": "There is no conspiracy – There was a major failure in U.S. leadership and four Americans died in Benghazi, Libya. https://t.co/jlRAcNNjlw",
+    "retweets": 22,
+    "favorites": 27,
+    "urls": [
+      {
+        "url": "https://t.co/jlRAcNNjlw",
+        "expanded_url": "http://www.washingtonexaminer.com/guccifer-documents-dems-dismiss-benghazi-as-a-conspiracy/article/2600699",
+        "display_url": "washingtonexaminer.com/guccifer-docum…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 771724813056507900,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Sep 02 15:01:48 +0000 2016",
+    "text": "The manipulation of intelligence puts Americans at home and abroad at greater risk. The truth is paramount in war. https://t.co/YS1OGJ4LGO",
+    "retweets": 13,
+    "favorites": 22,
+    "urls": [
+      {
+        "url": "https://t.co/YS1OGJ4LGO",
+        "expanded_url": "http://thehill.com/blogs/congress-blog/foreign-policy/293948-fictitious-narratives-sell-war-on-terror-and-iran-nuclear",
+        "display_url": "thehill.com/blogs/congress…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 771445186056560600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 01 20:30:39 +0000 2016",
+    "text": "New info has emerged about further secret side deals with #Iran. This nuclear deal looks worse now than ever. https://t.co/RTr0sfkrtR",
+    "retweets": 13,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/RTr0sfkrtR",
+        "expanded_url": "http://www.reuters.com/article/us-iran-nuclear-exemptions-exclusive-idUSKCN1173LA",
+        "display_url": "reuters.com/article/us-ira…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "id": 771357341396701200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Sep 01 14:41:35 +0000 2016",
+    "text": "Did you see this report that @HillaryClinton &amp; @billclinton used your taxpayer money to fund their private servers? https://t.co/oT78gcxRgz",
+    "retweets": 107,
+    "favorites": 76,
+    "urls": [
+      {
+        "url": "https://t.co/oT78gcxRgz",
+        "expanded_url": "http://www.politico.com/story/2016/08/bill-clinton-used-tax-dollars-to-subsidize-foundation-private-email-support-teneo-227613",
+        "display_url": "politico.com/story/2016/08/…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 771096228578861000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 31 21:24:01 +0000 2016",
+    "text": "Sent letter w. 14 Intelligence Committee members protesting @POTUS' dangerous release of 15 Guantanamo detainees https://t.co/2CWrYehvp4",
+    "retweets": 8,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/2CWrYehvp4",
+        "expanded_url": "http://intelligence.house.gov/news/documentsingle.aspx?DocumentID=687",
+        "display_url": "intelligence.house.gov/news/documents…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770984919078232000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 31 14:01:43 +0000 2016",
+    "text": "Hillary in favor of closing Guantanamo Bay but keeping open the Clinton Foundation. Backwards, no? https://t.co/Gwttrr6qov",
+    "retweets": 31,
+    "favorites": 40,
+    "urls": [
+      {
+        "url": "https://t.co/Gwttrr6qov",
+        "expanded_url": "http://www.wsj.com/articles/hillarys-prisoner-dilemma-1471388859",
+        "display_url": "wsj.com/articles/hilla…",
+        "indices": [
+          99,
+          122
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770788298377818100,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 31 01:00:25 +0000 2016",
+    "text": "Santa Fe Lake is a hidden gem in Butler County.  Anyone planning on going this Labor Day Weekend? https://t.co/Xs1pQWUN0I",
+    "retweets": 1,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/Xs1pQWUN0I",
+        "expanded_url": "http://www.butlercountytimesgazette.com/news/20160825/santa-fe-lake-keeps-getting-better",
+        "display_url": "butlercountytimesgazette.com/news/20160825/…",
+        "indices": [
+          98,
+          121
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770747645195329500,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Aug 30 22:18:53 +0000 2016",
+    "text": "Progress that FBI publicly releasing info from its investigation of @HillaryClinton's private server. More needed https://t.co/jIpmUnv5qF",
+    "retweets": 6,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/jIpmUnv5qF",
+        "expanded_url": "http://www.cbsnews.com/news/fbi-hillary-clinton-interview-notes-email-investigation/",
+        "display_url": "cbsnews.com/news/fbi-hilla…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770312709447516200,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 29 17:30:36 +0000 2016",
+    "text": "#Kansas proud of Denise Scribner. Nominated for Prez Award for Math &amp; Science Teaching! @USD265_EHS @USD265_Goddard https://t.co/BaLa6RXyeP",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/BaLa6RXyeP",
+        "expanded_url": "http://www.kake.com/Clip/12687297/teacher-honored-with-award",
+        "display_url": "kake.com/Clip/12687297/…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 770263240991510500,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 29 14:14:02 +0000 2016",
+    "text": "Iran reportedly moves its Russian-supplied missile system to protect the country's underground nuclear facility. \nhttps://t.co/VqMslcDRf0",
+    "retweets": 5,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/VqMslcDRf0",
+        "expanded_url": "http://www.reuters.com/article/us-iran-missiles-fordow-idUSKCN1140YD",
+        "display_url": "reuters.com/article/us-ira…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769942920153694200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Aug 28 17:01:11 +0000 2016",
+    "text": "We love seeing Kansans in our Washington office! If you’re in DC anytime soon, request a personal Capitol tour at https://t.co/t1TGmzoyGj.",
+    "retweets": 6,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/t1TGmzoyGj",
+        "expanded_url": "http://pompeo.house.gov",
+        "display_url": "pompeo.house.gov",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769626851576774700,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 27 20:05:15 +0000 2016",
+    "text": "Thanks @kevincolborn and family for visiting the office for a Capitol tour -- and for bringing some #Kansas to DC! https://t.co/oWgtEP3Vjt",
+    "retweets": 5,
+    "favorites": 27,
+    "urls": 0
+  },
+  {
+    "id": 769550258997190700,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 27 15:00:53 +0000 2016",
+    "text": "Very proud of these @BurrtonSchools students as they pay tribute to 9/11 first responders. A noble example for all. https://t.co/ebRMlvh3Gi",
+    "retweets": 7,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/ebRMlvh3Gi",
+        "expanded_url": "http://www.thekansan.com/news/20160823/burrton-students-to-honor-first-responders",
+        "display_url": "thekansan.com/news/20160823/…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769346238026248200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 27 01:30:11 +0000 2016",
+    "text": "Happy #NationalDogDay to my dog Sherman - Here he is watching me pack up to leave town... I'll be back soon Sherm! https://t.co/kowMSUyyCz",
+    "retweets": 8,
+    "favorites": 40,
+    "urls": 0
+  },
+  {
+    "id": 769324826251128800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 27 00:05:06 +0000 2016",
+    "text": "Today I joined @mitchellreports on @MSNBC to discuss the release of 15,000 additional Clinton emails. Watch here: https://t.co/VbyVCncBFy",
+    "retweets": 7,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/VbyVCncBFy",
+        "expanded_url": "http://www.msnbc.com/andrea-mitchell-reports/watch/clinton-server-used-sophisticated-technique-751924803765",
+        "display_url": "msnbc.com/andrea-mitchel…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 769284128806240300,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 26 21:23:23 +0000 2016",
+    "text": "Thank you, Hannah Piros, for supporting our efforts to eradicate #Alzheimers. https://t.co/v4dMcIVUuH",
+    "retweets": 1,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/v4dMcIVUuH",
+        "expanded_url": "http://www.hastingstribune.com/news/state/kansas/providing-hope-on-alzheimer-s/article_e24ad13a-81a2-52be-b16f-87b3293195c3.html",
+        "display_url": "hastingstribune.com/news/state/kan…",
+        "indices": [
+          78,
+          101
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768842947538411500,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 25 16:10:17 +0000 2016",
+    "text": "I spoke w/ @AmerMilNews to discuss my discovery of  secret side deals w/ #Iran &amp; my denied requests to obtain a visa https://t.co/JuKU5G43Rw",
+    "retweets": 28,
+    "favorites": 33,
+    "urls": [
+      {
+        "url": "https://t.co/JuKU5G43Rw",
+        "expanded_url": "http://americanmilitarynews.com/2016/08/exclusive-video-interview-with-rep-pompeo-denied-from-visiting-iran-following-secret-nuclear-deal/",
+        "display_url": "americanmilitarynews.com/2016/08/exclus…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768827134676639700,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 25 15:07:27 +0000 2016",
+    "text": "Rhodes and Ploughshares - hand in hand defending Iranian leadership. Will WH appeasement of the Ayatollah never end? https://t.co/nopa3gf2bp",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/nopa3gf2bp",
+        "expanded_url": "https://twitter.com/elilake/status/768815784684507137",
+        "display_url": "twitter.com/elilake/status…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768610149149864000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 25 00:45:14 +0000 2016",
+    "text": "It was an honor to meet with the @kansashospitals roundtable! We had a great convo about health care in #Kansas. https://t.co/rz1Et1YPxL",
+    "retweets": 3,
+    "favorites": 13,
+    "urls": 0
+  },
+  {
+    "id": 768576200277106700,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 24 22:30:20 +0000 2016",
+    "text": ".@BarackObama's ransom payment to #Iran has created more risks to Americans from kidnapping, @StateDept warns. https://t.co/8KKRYjM5r5",
+    "retweets": 20,
+    "favorites": 28,
+    "urls": [
+      {
+        "url": "https://t.co/8KKRYjM5r5",
+        "expanded_url": "http://freebeacon.com/national-security/state-dept-warns-iran-seeking-capture-u-s-citizens/",
+        "display_url": "freebeacon.com/national-secur…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768543449805094900,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 24 20:20:11 +0000 2016",
+    "text": "It's always great to visit with members of the Sedgwick County Farm Bureau! I'll continue to fight for KS farmers. https://t.co/uveRuNqBi2",
+    "retweets": 4,
+    "favorites": 12,
+    "urls": 0
+  },
+  {
+    "id": 768493261224812500,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 24 17:00:46 +0000 2016",
+    "text": "Yesterday I read materials the FBI provided Congress about @HillaryClinton's emails. This is NOT a laughing matter. https://t.co/JKfOxXVce1",
+    "retweets": 88,
+    "favorites": 89,
+    "urls": [
+      {
+        "url": "https://t.co/JKfOxXVce1",
+        "expanded_url": "http://insider.foxnews.com/2016/08/23/hillary-clinton-laughs-email-scandal-jimmy-kimmel-live",
+        "display_url": "insider.foxnews.com/2016/08/23/hil…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768244032430444500,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 24 00:30:25 +0000 2016",
+    "text": "“Slow-motion death spiral” is right. #Obamacare is simply not working. https://t.co/oEyfvCbIYv",
+    "retweets": 6,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/oEyfvCbIYv",
+        "expanded_url": "http://www.businessinsider.com/obamacare-is-in-slow-motion-death-spiral-2016-8",
+        "display_url": "businessinsider.com/obamacare-is-i…",
+        "indices": [
+          71,
+          94
+        ]
+      }
+    ]
+  },
+  {
+    "id": 768172173257216000,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Aug 23 19:44:52 +0000 2016",
+    "text": "Happy 130th anniversary to the @WichitaFireDept. Your courage and selflessness are a true inspiration! #WFDturns130 https://t.co/TLkXessNZQ",
+    "retweets": 10,
+    "favorites": 23,
+    "urls": 0
+  },
+  {
+    "id": 767836382316421100,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 22 21:30:33 +0000 2016",
+    "text": "Congratulations to @KMUW and @KWCH12 on receiving @ksbroadcasters “Station of the Year” awards!",
+    "retweets": 3,
+    "favorites": 8,
+    "urls": 0
+  },
+  {
+    "id": 767791062740000800,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 22 18:30:28 +0000 2016",
+    "text": "Congrats Senior Services on a great retirement roast of Dawson Grimsley Saturday. Thanks for the hat, @Spangleslady! https://t.co/TI4JUeGRpk",
+    "retweets": 1,
+    "favorites": 16,
+    "urls": 0
+  },
+  {
+    "id": 767753402981965800,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 22 16:00:50 +0000 2016",
+    "text": "I spoke to @RichardLui on @MSNBC about @StateDept's admission that the US paid a $400M cash ransom to #Iran. Watch: https://t.co/y7vsSta0AB",
+    "retweets": 10,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/y7vsSta0AB",
+        "expanded_url": "http://www.msnbc.com/msnbc-news/watch/confusion-behind-payment-as-leverage-to-iran-747782211815",
+        "display_url": "msnbc.com/msnbc-news/wat…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766809160939769900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 20 01:28:45 +0000 2016",
+    "text": "I'll be on @MSNBC tomorrow to speak about @StateDept's admission they paid a $400M ransom to #Iran for U.S. hostages. Tune in at 8:30amCT!",
+    "retweets": 16,
+    "favorites": 20,
+    "urls": 0
+  },
+  {
+    "id": 766783085165805600,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 19 23:45:08 +0000 2016",
+    "text": "Met today with Tom Gentile, CEO of @SpiritAero.  Welcome to #Kansas, Tom.  Glad you love airplanes as much as we do. https://t.co/WtOKBdB57U",
+    "retweets": 4,
+    "favorites": 11,
+    "urls": 0
+  },
+  {
+    "id": 766751692109058000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 19 21:40:23 +0000 2016",
+    "text": "Happy #NationalAviationDay from the Air Capital of the World, Wichita, KS! Can you name this famous #Kansas aviator? https://t.co/MpYJga0euU",
+    "retweets": 12,
+    "favorites": 25,
+    "urls": 0
+  },
+  {
+    "id": 766624613535191000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 19 13:15:25 +0000 2016",
+    "text": "Thanks to @AFWANational Wichita for the invite to visit with you over lunch on Tuesday! Lots of great conversation. https://t.co/aE18yF4plA",
+    "retweets": 1,
+    "favorites": 10,
+    "urls": 0
+  },
+  {
+    "id": 766439632166871000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 19 01:00:22 +0000 2016",
+    "text": "Flashback: My January letter to @JohnKerry \"timing &amp; details of cash transfer...indicate it might be ransom payment\"\nhttps://t.co/PEdMpF89dZ",
+    "retweets": 10,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/PEdMpF89dZ",
+        "expanded_url": "http://pompeo.house.gov/uploadedfiles/1-21-16_pompeo_to_state_re_1.7b_to_iran.pdf",
+        "display_url": "pompeo.house.gov/uploadedfiles/…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766407825270698000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 18 22:53:59 +0000 2016",
+    "text": "Read my statement re: @StateDept on $400m to #Iran: \"shameful admission of wrongdoing &amp; puts US lives at risk.” https://t.co/ojMKh208Yz",
+    "retweets": 31,
+    "favorites": 24,
+    "urls": [
+      {
+        "url": "https://t.co/ojMKh208Yz",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399119",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766371826780037100,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 18 20:30:56 +0000 2016",
+    "text": ".@StateDept admits $400m in cash to Iran was contingent on release of US hostages. Puts US lives at risk globally https://t.co/66vaQUHEHT",
+    "retweets": 52,
+    "favorites": 41,
+    "urls": [
+      {
+        "url": "https://t.co/66vaQUHEHT",
+        "expanded_url": "http://abcnews.go.com/Politics/wireStory/us-400m-payment-contingent-release-prisoners-41492850",
+        "display_url": "abcnews.go.com/Politics/wireS…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 766364592985350100,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 18 20:02:11 +0000 2016",
+    "text": "Last week I got to visit with the @TSA professionals at @FlyICT. Thanks for all they do to keep travelers safe! https://t.co/yshw1Mfa4m",
+    "retweets": 5,
+    "favorites": 15,
+    "urls": 0
+  },
+  {
+    "id": 766016960090038300,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 17 21:00:49 +0000 2016",
+    "text": "ICYMI:  I was on @SundayFutures to discuss @CENTCOM intelligence manipulation.  Watch the video below! https://t.co/Tke7aKeGhq",
+    "retweets": 4,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/Tke7aKeGhq",
+        "expanded_url": "http://video.foxnews.com/v/5085079952001/",
+        "display_url": "video.foxnews.com/v/508507995200…",
+        "indices": [
+          103,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "id": 765986786887761900,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 17 19:00:55 +0000 2016",
+    "text": "Sunday @RepLynnJenkins &amp; I thanked KIOGA Chairman Nick Powell on a great job representing the oil &amp; gas industries! https://t.co/KftQyecGQC",
+    "retweets": 5,
+    "favorites": 17,
+    "urls": 0
+  },
+  {
+    "id": 765920454225920000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 17 14:37:21 +0000 2016",
+    "text": "The Obama admin continues to make foolish mistake of sending terrorists to nations w/o proper means to detain them. https://t.co/XlrtX8pppw",
+    "retweets": 18,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/XlrtX8pppw",
+        "expanded_url": "http://www.miamiherald.com/news/nation-world/world/americas/guantanamo/article95829247.html",
+        "display_url": "miamiherald.com/news/nation-wo…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 765556917976653800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Aug 16 14:32:47 +0000 2016",
+    "text": "I joined @trish_regan on @FoxNews to discuss my letter to @USTreasury for more info re $400m cash payment to #Iran: https://t.co/QA0PYa6PoT",
+    "retweets": 9,
+    "favorites": 17,
+    "urls": [
+      {
+        "url": "https://t.co/QA0PYa6PoT",
+        "expanded_url": "http://video.foxnews.com/v/5083991248001/rep-mike-pompeo-400m-to-iran-clearly-a-ransom-payment/?#sp=show-clips",
+        "display_url": "video.foxnews.com/v/508399124800…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 765283902348943400,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 15 20:27:55 +0000 2016",
+    "text": "Joining @TeamCavuto now on @FoxNews to discuss the $400 million cash payment to #Iran. Tune in if you can!",
+    "retweets": 7,
+    "favorites": 19,
+    "urls": 0
+  },
+  {
+    "id": 765214917234421800,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 15 15:53:47 +0000 2016",
+    "text": "46 years ago @USNavy @aircraftcarrier @theCVN69 keel was laid. Now defending freedom with a proud name from #Kansas! https://t.co/9mEAgf5uJ2",
+    "retweets": 15,
+    "favorites": 20,
+    "urls": 0
+  },
+  {
+    "id": 764638017281601500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Aug 14 01:41:24 +0000 2016",
+    "text": "I'll be joining @SundayFutures w/ @MariaBartiromo to discuss my task force's report on CENTCOM intelligence manipulation tomorrow at 9AM CT.",
+    "retweets": 10,
+    "favorites": 18,
+    "urls": 0
+  },
+  {
+    "id": 764158177789218800,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 12 17:54:41 +0000 2016",
+    "text": "GAO: fuel fraud law is costing aviation billions. Congress must act to fix this misguided policy #genav #kansas https://t.co/MirQ2j1bGY",
+    "retweets": 6,
+    "favorites": 3,
+    "urls": [
+      {
+        "url": "https://t.co/MirQ2j1bGY",
+        "expanded_url": "http://www.kansas.com/news/business/aviation/article95149147.html",
+        "display_url": "kansas.com/news/business/…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 764126208850354200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 12 15:47:39 +0000 2016",
+    "text": "Congrats to @NicoTheBoxer on a superb medal-winning Olympic run! You've made all of #Wichita &amp; the state of #Kansas very proud. #Rio2016",
+    "retweets": 10,
+    "favorites": 26,
+    "urls": 0
+  },
+  {
+    "id": 763905403109249000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 12 01:10:15 +0000 2016",
+    "text": "Tonight I appeared on @CBSEveningNews during their report on CENTCOM intelligence manipulation. Watch it here: https://t.co/Uc0s6NbqMo",
+    "retweets": 27,
+    "favorites": 23,
+    "urls": [
+      {
+        "url": "https://t.co/Uc0s6NbqMo",
+        "expanded_url": "http://www.cbsnews.com/videos/centcom-under-fire-after-reports-of-altered-intelligence/",
+        "display_url": "cbsnews.com/videos/centcom…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763859216226512900,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 11 22:06:43 +0000 2016",
+    "text": "Great meeting with Hesston, #Kansas community leaders last week, followed by a tour of the Southern Star pipeline. https://t.co/MFCuwjHCyT",
+    "retweets": 8,
+    "favorites": 18,
+    "urls": 0
+  },
+  {
+    "id": 763799043009110000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 11 18:07:37 +0000 2016",
+    "text": "Sound intel saves lives. Altered intel presents risk. I discuss @CENTCOM's intel manipulation on @AmericaNewsroom. https://t.co/5Sv4q508fe",
+    "retweets": 26,
+    "favorites": 22,
+    "urls": [
+      {
+        "url": "https://t.co/5Sv4q508fe",
+        "expanded_url": "http://video.foxnews.com/v/5079652865001/rep-pompeo-details-gop-report-on-altering-of-isis-data/?#sp=show-clips",
+        "display_url": "video.foxnews.com/v/507965286500…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763764682557648900,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 11 15:51:05 +0000 2016",
+    "text": "I appeared on @CBSThisMorning today to discuss my joint task force's report on @CENTCOM intel manipulation. Watch: https://t.co/MNJseZa4D0",
+    "retweets": 19,
+    "favorites": 16,
+    "urls": [
+      {
+        "url": "https://t.co/MNJseZa4D0",
+        "expanded_url": "http://www.cbsnews.com/news/centcom-accused-of-manipulating-intelligence-isis-fight-syria-iraq/",
+        "display_url": "cbsnews.com/news/centcom-a…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763743713310957600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 11 14:27:45 +0000 2016",
+    "text": "Sr U.S. intelligence officials altered intel re ISIS to reflect a rosier view than the facts on the ground. Report: https://t.co/hlwaGLPoNL",
+    "retweets": 269,
+    "favorites": 196,
+    "urls": [
+      {
+        "url": "https://t.co/hlwaGLPoNL",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399113",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763575938005147600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 11 03:21:04 +0000 2016",
+    "text": "Tune in to @CBSThisMorning tomorrow starting at 7am. I’ll be discussing an upcoming report regarding CENTCOM intelligence manipulation.",
+    "retweets": 9,
+    "favorites": 12,
+    "urls": 0
+  },
+  {
+    "id": 763039731311575000,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Aug 09 15:50:23 +0000 2016",
+    "text": "Newton’s own Cadet Hugh McConnell has been selected First Captain of @WestPoint_USMA's Corps of Cadets. Congrats! https://t.co/1uEmDFXzcn",
+    "retweets": 7,
+    "favorites": 12,
+    "urls": 0
+  },
+  {
+    "id": 762777734523347000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 08 22:29:18 +0000 2016",
+    "text": "#Wichita's own @NicoTheBoxer upset #2 seeded Vasilii Egorov of Russia!  We are proud of you, Nico! #Kansas #Rio2016 https://t.co/kzDx4k7TXq",
+    "retweets": 17,
+    "favorites": 23,
+    "urls": [
+      {
+        "url": "https://t.co/kzDx4k7TXq",
+        "expanded_url": "http://www.kansas.com/sports/olympics/article94438622.html",
+        "display_url": "kansas.com/sports/olympic…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 762721994727157800,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 08 18:47:48 +0000 2016",
+    "text": "Since 2006, billions of general aviation tax dollars were spent on highways due to the misguided #fuelfraud law https://t.co/ZlKJj8DziF",
+    "retweets": 6,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/ZlKJj8DziF",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399104",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 762426195828875300,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Aug 07 23:12:24 +0000 2016",
+    "text": "Together with Kansans everywhere, I salute all those who have made such hard sacrifices for America and freedom. Thank you. #PurpleHeartDay",
+    "retweets": 19,
+    "favorites": 57,
+    "urls": 0
+  },
+  {
+    "id": 762019210792960000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 06 20:15:12 +0000 2016",
+    "text": "Excited to see #Wichita’s own @NicoTheBoxer fight today! An incredible story we all can be proud of! #Rio2016 https://t.co/Khj6DjkFZO",
+    "retweets": 6,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/Khj6DjkFZO",
+        "expanded_url": "http://www.kansas.com/sports/olympics/article93996657.html",
+        "display_url": "kansas.com/sports/olympic…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761728818415566800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Aug 06 01:01:17 +0000 2016",
+    "text": "Nations around the world turn to the Air Capital of the World when they need something to fly. https://t.co/BfsDbYiRhT",
+    "retweets": 1,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/BfsDbYiRhT",
+        "expanded_url": "http://www.bizjournals.com/wichita/blog/2016/07/indian-defense-order-means-aircraft-work-for.html",
+        "display_url": "bizjournals.com/wichita/blog/2…",
+        "indices": [
+          95,
+          118
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761653364153344000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 05 20:01:27 +0000 2016",
+    "text": "Manufacturing is a vital part of Kansas' economy. It's encouraging to see what CNH Industrial has achieved. https://t.co/4XldowIteh",
+    "retweets": 1,
+    "favorites": 2,
+    "urls": [
+      {
+        "url": "https://t.co/4XldowIteh",
+        "expanded_url": "http://www.prnewswire.com/news-releases/us-representative-mike-pompeo-visits-cnh-industrial-construction-equipment-facility-in-wichita-300305721.html",
+        "display_url": "prnewswire.com/news-releases/…",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761570160385876000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 05 14:30:50 +0000 2016",
+    "text": ".@BarackObama says #Iran deal is “working exactly like we expected.” Hostages, missile tests, supporting terrorist activities. #absurd",
+    "retweets": 22,
+    "favorites": 30,
+    "urls": 0
+  },
+  {
+    "id": 761366244843028500,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Aug 05 01:00:32 +0000 2016",
+    "text": "Happy 226th birthday to the @USCG! #SemperParatus https://t.co/5EjGWyNva1",
+    "retweets": 2,
+    "favorites": 6,
+    "urls": 0
+  },
+  {
+    "id": 761336113030135800,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 23:00:48 +0000 2016",
+    "text": "Very thankful for all who helped in this successful effort to protect #Kansas farmers &amp; keep our food affordable https://t.co/sHkxZSdcHa",
+    "retweets": 6,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/sHkxZSdcHa",
+        "expanded_url": "http://farmprogress.com/story-obama-signed-gmo-labeling-bill-friday-0-144719",
+        "display_url": "farmprogress.com/story-obama-si…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761305867107102700,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 21:00:37 +0000 2016",
+    "text": "DC Metro Cop arrested for giving terrorists $250 in gift cards; in other news @BarackObama gives largest sponsor of terrorism, #Iran, $400M",
+    "retweets": 24,
+    "favorites": 17,
+    "urls": 0
+  },
+  {
+    "id": 761290819777232900,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 20:00:50 +0000 2016",
+    "text": "At least in @BenAffleck's Argo US hostages leave #Iran for FREE. But that's Hollywood &amp; this is @BarackObama administration. We pay billions",
+    "retweets": 45,
+    "favorites": 73,
+    "urls": 0
+  },
+  {
+    "id": 761279595974828000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 19:16:14 +0000 2016",
+    "text": "Truly an honor addressing the 240th Basic class of the @kletc. Big thanks to our new law enforcement professionals. https://t.co/oi8YHqi7WD",
+    "retweets": 3,
+    "favorites": 12,
+    "urls": 0
+  },
+  {
+    "id": 761200386409697300,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 14:01:29 +0000 2016",
+    "text": "Pompeo: Ayatollah wants Obama to be 'agent of Iranian Chamber of Commerce' https://t.co/Onvuywz0hq",
+    "retweets": 12,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/Onvuywz0hq",
+        "expanded_url": "http://www.washingtonexaminer.com/pompeo-ayatollah-wants-obama-to-be-agent-of-iranian-chamber-of-commerce/article/2598446?custom_click=rss",
+        "display_url": "washingtonexaminer.com/pompeo-ayatoll…",
+        "indices": [
+          75,
+          98
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761200033630789600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 14:00:05 +0000 2016",
+    "text": "Last night on @SpecialReport I discussed the recent reports that we sent $400M in pallets of cash to #Iran. Watch: https://t.co/SPkupCiR8X",
+    "retweets": 7,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/SPkupCiR8X",
+        "expanded_url": "http://video.foxnews.com/v/5070104937001",
+        "display_url": "video.foxnews.com/v/5070104937001",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761018958249992200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 02:00:33 +0000 2016",
+    "text": "I ask @Cirincione why he didn't disclose $$$ when on @NPR &amp; if his ~30 WH visits affected his work #echochamber https://t.co/74qTy4nd0H",
+    "retweets": 7,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/74qTy4nd0H",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399096",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 760997794094145500,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Aug 04 00:36:27 +0000 2016",
+    "text": "Justice Department officials objected to sending cash payment to Iran as American captives were freed. https://t.co/1XQmq0emui",
+    "retweets": 16,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/1XQmq0emui",
+        "expanded_url": "http://online.wsj.com/news/articles/SB12007436451529633852004582229772740754082",
+        "display_url": "online.wsj.com/news/articles/…",
+        "indices": [
+          103,
+          126
+        ]
+      }
+    ]
+  },
+  {
+    "id": 760940169365184500,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 03 20:47:28 +0000 2016",
+    "text": "$400m cash transfer to #Iran feels like Iran-Contra. How many ransoms will @BarackObama pay to terrorist sponsors?\nhttps://t.co/4V8j5b00tT",
+    "retweets": 30,
+    "favorites": 38,
+    "urls": [
+      {
+        "url": "https://t.co/4V8j5b00tT",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399097",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 760663646058020900,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Aug 03 02:28:40 +0000 2016",
+    "text": "Reported that @POTUS paid Iran $400M in pallets of cash as US hostages released. Still having to hide facts of deal. https://t.co/51fHSmJNHg",
+    "retweets": 81,
+    "favorites": 48,
+    "urls": [
+      {
+        "url": "https://t.co/51fHSmJNHg",
+        "expanded_url": "https://twitter.com/WSJ/status/760629528309993472",
+        "display_url": "twitter.com/WSJ/status/760…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 760139110585622500,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Aug 01 15:44:21 +0000 2016",
+    "text": "I reflect on historic ag legislation that is a big win for #Kansas agriculture and Kansas families. Read more: https://t.co/9n0O5qzyI9",
+    "retweets": 2,
+    "favorites": 2,
+    "urls": [
+      {
+        "url": "https://t.co/9n0O5qzyI9",
+        "expanded_url": "http://pompeo.house.gov/news/email/show.aspx?ID=HTCIKS5UUYOF6JKJKYRVS6QHSU",
+        "display_url": "pompeo.house.gov/news/email/sho…",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ]
+  },
+  {
+    "id": 759780919188283400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 31 16:01:01 +0000 2016",
+    "text": "Thank you @LarksfieldPlace for having me on Thursday. I very much enjoyed my visit. Great to be home in #Kansas! https://t.co/zwBtEEWtdc",
+    "retweets": 5,
+    "favorites": 14,
+    "urls": 0
+  },
+  {
+    "id": 759556710935752700,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 31 01:10:06 +0000 2016",
+    "text": "This bill keeps food affordable &amp; protects Kansas farmers.  Thx to all who helped in this effort. Proud of our work. https://t.co/vQSpNEYbU5",
+    "retweets": 6,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/vQSpNEYbU5",
+        "expanded_url": "http://www.agriculture.com/news/crops/obama-signs-historic-gmo-labeling-bill",
+        "display_url": "agriculture.com/news/crops/oba…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 759525173569605600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 30 23:04:47 +0000 2016",
+    "text": "Thanks to everyone who helped on this bill to keep food affordable and protect #Kansas farmers. Proud of our work. https://t.co/vQSpNEGAvv",
+    "retweets": 6,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/vQSpNEGAvv",
+        "expanded_url": "http://www.agriculture.com/news/crops/obama-signs-historic-gmo-labeling-bill",
+        "display_url": "agriculture.com/news/crops/oba…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 759478854289358800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 30 20:00:43 +0000 2016",
+    "text": "The quality &amp; skill of #Kansas manufacturing pros are second to none. Thanks @CNHIndustrial #Wichita for the tour! https://t.co/Rcn3933x8g",
+    "retweets": 5,
+    "favorites": 13,
+    "urls": 0
+  },
+  {
+    "id": 759443691429912600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 30 17:41:00 +0000 2016",
+    "text": ".@USTreasury issues license allowing some planes into Iran. @POTUS' continues acting as Iran's Eco Devo Minister. https://t.co/WSFi07aP0g",
+    "retweets": 20,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/WSFi07aP0g",
+        "expanded_url": "https://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/20160729_33.aspx",
+        "display_url": "treasury.gov/resource-cente…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 759380616743878700,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 30 13:30:22 +0000 2016",
+    "text": "Secretary of the Air Force @SecAF23 was in #Wichita, #Kansas to celebrate our amazing team at McConnell AFB. @22ARW https://t.co/kYbJEnAFs6",
+    "retweets": 2,
+    "favorites": 8,
+    "urls": 0
+  },
+  {
+    "id": 759028296122236900,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 29 14:10:22 +0000 2016",
+    "text": ".@HillaryClinton enabled the Russians, Iranians &amp; Chinese to steal #USA classified material, and then lied about it. https://t.co/WT49VRR6ci",
+    "retweets": 44,
+    "favorites": 34,
+    "urls": [
+      {
+        "url": "https://t.co/WT49VRR6ci",
+        "expanded_url": "http://www.kansascity.com/latest-news/article92185852.html",
+        "display_url": "kansascity.com/latest-news/ar…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758863728779460600,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 29 03:16:26 +0000 2016",
+    "text": "Ho hum.  @HillaryClinton -- Ayatollah is our friend, tax the rich, open borders, stimulus spending, free college. #DemsInPhilly #statusquo",
+    "retweets": 16,
+    "favorites": 28,
+    "urls": 0
+  },
+  {
+    "id": 758856852356538400,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 29 02:49:07 +0000 2016",
+    "text": "Europe less safe too.  And Asia. And the Homeland.  Can't name a place that is more safe.  #DemsInPhilly  https://t.co/4GIEdKVS99",
+    "retweets": 9,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/4GIEdKVS99",
+        "expanded_url": "https://twitter.com/rjc/status/758854121965232132",
+        "display_url": "twitter.com/rjc/status/758…",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758801772945170400,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 28 23:10:15 +0000 2016",
+    "text": "Yesterday I met with Doug Stark of @ComfortCareICT and Breana Jones and Hannah Piros of the @alzassociation. https://t.co/axvJPlbo7E",
+    "retweets": 4,
+    "favorites": 10,
+    "urls": 0
+  },
+  {
+    "id": 758708870038622200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 28 17:01:05 +0000 2016",
+    "text": "We all laughed until it hurt at the roast of @SedgwickCounty Sheriff Jeff Easter. It was fun to be a roaster! https://t.co/bZjrtkZwNr",
+    "retweets": 3,
+    "favorites": 19,
+    "urls": 0
+  },
+  {
+    "id": 758095841592799200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 27 00:25:08 +0000 2016",
+    "text": "Look who is staging a sit-in at the desk in my congressional office!  Who do you think sent it? (Yes, we caught it!) https://t.co/PkJo2dRN9H",
+    "retweets": 15,
+    "favorites": 49,
+    "urls": 0
+  },
+  {
+    "id": 758078502130229200,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 26 23:16:13 +0000 2016",
+    "text": "Enjoyed my time with the wonderful residents and staff of Wichita Presbyterian Manor today. Thank you for having me. https://t.co/is6KFfOsGr",
+    "retweets": 4,
+    "favorites": 16,
+    "urls": 0
+  },
+  {
+    "id": 757988931744981000,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 26 17:20:18 +0000 2016",
+    "text": "Excited to see @TextronAviation unveil its Cessna Denali Single Engine Turboprop at #Oshkosh! #OSH16 #genav https://t.co/3amsrHDRdn",
+    "retweets": 0,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/3amsrHDRdn",
+        "expanded_url": "http://cessna.txtav.com/turboprop/denali",
+        "display_url": "cessna.txtav.com/turboprop/dena…",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757702407853895700,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 25 22:21:46 +0000 2016",
+    "text": "#Iran confirms capture of US citizen.  Pray for his safety &amp; for a change in US policy so this stops happening https://t.co/GBkTi42MQz",
+    "retweets": 34,
+    "favorites": 26,
+    "urls": [
+      {
+        "url": "https://t.co/GBkTi42MQz",
+        "expanded_url": "http://www.foxnews.com/world/2016/07/25/iran-confirms-iranian-american-has-been-detained.html",
+        "display_url": "foxnews.com/world/2016/07/…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757672937650462700,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 25 20:24:39 +0000 2016",
+    "text": "Visited with the Hallman family of @KansasAgReport. Son Trevor is an aquatics gold medalist with @specialolyUSA! https://t.co/N7KbSV1pdG",
+    "retweets": 2,
+    "favorites": 15,
+    "urls": 0
+  },
+  {
+    "id": 757326937706467300,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 24 21:29:47 +0000 2016",
+    "text": ".@HassanRouhani &amp; @JZarif, do you think #Iran should re-open prohibited nuclear sites? If so, for what purpose?  https://t.co/n4vtdwYCiE",
+    "retweets": 22,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/n4vtdwYCiE",
+        "expanded_url": "http://freebeacon.com/national-security/iran-preparing-re-open-prohibited-nuclear-sites/",
+        "display_url": "freebeacon.com/national-secur…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757253079922270200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 24 16:36:17 +0000 2016",
+    "text": "Need further proof that the fix was in from Pres. Obama on down? BUSTED: 19,252 Emails from DNC Leaked by Wikileaks https://t.co/QrAH1evqKC",
+    "retweets": 25,
+    "favorites": 29,
+    "urls": [
+      {
+        "url": "https://t.co/QrAH1evqKC",
+        "expanded_url": "http://www.redstate.com/absentee/2016/07/23/collusion-corruption-cover-20000-emails-dnc-released-wikileaks/",
+        "display_url": "redstate.com/absentee/2016/…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757246976966561800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 24 16:12:02 +0000 2016",
+    "text": "Contrast \"either you're w/ us or you are w/ the terrorists\" vs. Obama partnering w/ largest state sponsor of terror. https://t.co/0gRK1TC4ny",
+    "retweets": 16,
+    "favorites": 12,
+    "urls": [
+      {
+        "url": "https://t.co/0gRK1TC4ny",
+        "expanded_url": "http://www.weeklystandard.com/al-qaeda-in-iran/article/2003433",
+        "display_url": "weeklystandard.com/al-qaeda-in-ir…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757236539336323100,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 24 15:30:34 +0000 2016",
+    "text": "Amazing to see Sumner County’s desire to include everyone in the @sucofair with the 2nd annual Herding Heroes Show. https://t.co/HnWmj70L4Y",
+    "retweets": 1,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/HnWmj70L4Y",
+        "expanded_url": "http://www.sumnernewscow.com/second-annual-herding-heroes-will-be-part-of-the-sumner-county-fair-next-friday/",
+        "display_url": "sumnernewscow.com/second-annual-…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757002531335770100,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 24 00:00:42 +0000 2016",
+    "text": "Congratulations to George Myers of El Dorado on completing the @badwater  135-mile marathon! https://t.co/e3wOBGt53c",
+    "retweets": 7,
+    "favorites": 23,
+    "urls": [
+      {
+        "url": "https://t.co/e3wOBGt53c",
+        "expanded_url": "http://www.butlercountytimesgazette.com/news/20160721/el-dorado-runner-completes-badwater-135-homecoming-planned-friday",
+        "display_url": "butlercountytimesgazette.com/news/20160721/…",
+        "indices": [
+          93,
+          116
+        ]
+      }
+    ]
+  },
+  {
+    "id": 756927072572993500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 23 19:00:51 +0000 2016",
+    "text": "#Kansas’ own @e3laroche has helped organize a team of @MLB alums to compete in @NBCBaseball! https://t.co/Bku1bDRqGw",
+    "retweets": 6,
+    "favorites": 8,
+    "urls": 0
+  },
+  {
+    "id": 756837569711710200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 23 13:05:12 +0000 2016",
+    "text": "The Graber family hosted the very first Pretty Prairie Rodeo in 1934. Talk about a family tradition! #Kansas https://t.co/mpyBNZa0E0",
+    "retweets": 1,
+    "favorites": 3,
+    "urls": [
+      {
+        "url": "https://t.co/mpyBNZa0E0",
+        "expanded_url": "http://www.hutchnews.com/news/local_state_news/from-humble-beginnings-rodeo-tradition-continues-for-pretty-prairie-residents/article_14bb949c-63e7-529a-84f4-afe4cf010421.html",
+        "display_url": "hutchnews.com/news/local_sta…",
+        "indices": [
+          109,
+          132
+        ]
+      }
+    ]
+  },
+  {
+    "id": 756653828506783700,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 23 00:55:05 +0000 2016",
+    "text": "A year ago, #UN adopted UNSCR 2231, yet #Iran continues to test dangerous ballistic missiles.  Read my op-ed here: https://t.co/EvKgqsbWbN",
+    "retweets": 31,
+    "favorites": 19,
+    "urls": [
+      {
+        "url": "https://t.co/EvKgqsbWbN",
+        "expanded_url": "http://www.foxnews.com/opinion/2016/07/14/rep-mike-pompeo-one-year-later-obama-s-iran-nuclear-deal-puts-us-at-increased-risk.html",
+        "display_url": "foxnews.com/opinion/2016/0…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 756603020171808800,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 22 21:33:11 +0000 2016",
+    "text": "A very happy birthday to a great friend and amazing Kansan, our very own @SenatorDole! https://t.co/fEXILtyaxN",
+    "retweets": 9,
+    "favorites": 45,
+    "urls": 0
+  },
+  {
+    "id": 756506019509960700,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 22 15:07:44 +0000 2016",
+    "text": "Excellent news for @TextronAviation and Wichita! – Airland Scorpion jet selected to compete for UK Defense bid. https://t.co/H0b1ejX9Gt",
+    "retweets": 8,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/H0b1ejX9Gt",
+        "expanded_url": "http://www.bizjournals.com/wichita/blog/2016/07/textron-airland-scorpion-jet-tabbed-for-u-k.html",
+        "display_url": "bizjournals.com/wichita/blog/2…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 756201711363063800,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 21 18:58:32 +0000 2016",
+    "text": "#Iran takes US citizen captive. Leverage against the US? Give Iran an inch, they take a mile. #NotPartnersInPeace https://t.co/uW0pke69fz",
+    "retweets": 8,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/uW0pke69fz",
+        "expanded_url": "https://twitter.com/jrezaian/status/756096956817088512",
+        "display_url": "twitter.com/jrezaian/statu…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755908928588963800,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 23:35:07 +0000 2016",
+    "text": "Eureka's comeback has been amazing. @gwcountyem Director Levi Vinson has done great work! https://t.co/F8isrjaMbe https://t.co/kfiFiS3CJ8",
+    "retweets": 0,
+    "favorites": 3,
+    "urls": [
+      {
+        "url": "https://t.co/F8isrjaMbe",
+        "expanded_url": "http://pompeo.house.gov/news/email/show.aspx?ID=HTCIKS5UUYOF6UKWO7W5O4FD4A",
+        "display_url": "pompeo.house.gov/news/email/sho…",
+        "indices": [
+          90,
+          113
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755892380516098000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 22:29:21 +0000 2016",
+    "text": "My condolences to the families of the 3 French soldiers killed in #Benghazi. We can't let the terrorists prevail. https://t.co/lWaRLROh37",
+    "retweets": 8,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/lWaRLROh37",
+        "expanded_url": "http://www.france24.com/en/20160720-three-french-soldiers-killed-libya-defence-ministry-special-forces",
+        "display_url": "france24.com/en/20160720-th…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755840192372617200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 19:01:59 +0000 2016",
+    "text": "ICYMI: Read my @FoxNews op-ed marking the 1 yr anniversary of the disastrous #IranDeal. It has put the US at risk. https://t.co/EvKgqrUkNd",
+    "retweets": 4,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/EvKgqrUkNd",
+        "expanded_url": "http://www.foxnews.com/opinion/2016/07/14/rep-mike-pompeo-one-year-later-obama-s-iran-nuclear-deal-puts-us-at-increased-risk.html",
+        "display_url": "foxnews.com/opinion/2016/0…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755794850201608200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 16:01:48 +0000 2016",
+    "text": "One step closer to having the new KC-46 Tanker flying over the skies of #Wichita out of McConnell Air Force Base! https://t.co/8F4ijJIKGT",
+    "retweets": 1,
+    "favorites": 3,
+    "urls": [
+      {
+        "url": "https://t.co/8F4ijJIKGT",
+        "expanded_url": "http://www.defensenews.com/story/defense-news/2016/07/19/kc-46-moves-closer-production-decision-after-successful-flight-test/87283334/",
+        "display_url": "defensenews.com/story/defense-…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755782603387572200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 15:13:09 +0000 2016",
+    "text": ".@USTreasury designates 3 al-Qaeda terrorists in #Iran. Operatives moved $$ &amp; weapons. Worked w/ Iranians for years\nhttps://t.co/M412cpkBj3",
+    "retweets": 19,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/M412cpkBj3",
+        "expanded_url": "https://www.treasury.gov/press-center/press-releases/Pages/jl0523.aspx",
+        "display_url": "treasury.gov/press-center/p…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755756840475037700,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 13:30:46 +0000 2016",
+    "text": "Love to see the community come together with the @WichitaPolice and stand against violence. https://t.co/LcMqEVcIDi",
+    "retweets": 3,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/LcMqEVcIDi",
+        "expanded_url": "http://www.kwch.com/content/news/WPD-community-activists-hosts-First-Step-Barbecue-in-NE-Wichita-387186631.html",
+        "display_url": "kwch.com/content/news/W…",
+        "indices": [
+          92,
+          115
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755596712912093200,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 02:54:29 +0000 2016",
+    "text": "Join Susan &amp; I in praying for Capt. Melton &amp; his loved ones. Police are true heroes among us and I stand with them. https://t.co/k3Ao2m1r7w",
+    "retweets": 12,
+    "favorites": 33,
+    "urls": [
+      {
+        "url": "https://t.co/k3Ao2m1r7w",
+        "expanded_url": "https://twitter.com/kwch12/status/755509953989791744",
+        "display_url": "twitter.com/kwch12/status/…",
+        "indices": [
+          124,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755552906875695100,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 20 00:00:25 +0000 2016",
+    "text": "Lesser prairie chicken's removal from the threatened species list is welcome news for #Kansas farmers and ranchers. https://t.co/rXvti9F1hh",
+    "retweets": 1,
+    "favorites": 16,
+    "urls": [
+      {
+        "url": "https://t.co/rXvti9F1hh",
+        "expanded_url": "http://cjonline.com/news/2016-07-19/federal-government-formally-ends-threatened-listing-lesser-prairie-chicken",
+        "display_url": "cjonline.com/news/2016-07-1…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755520959960879100,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 19 21:53:28 +0000 2016",
+    "text": "Great piece on my #RatepayerFairness Act. Kansans shouldn’t have to foot the bill for special interest handouts. https://t.co/q4MmiRyNvm",
+    "retweets": 2,
+    "favorites": 2,
+    "urls": [
+      {
+        "url": "https://t.co/q4MmiRyNvm",
+        "expanded_url": "http://thehill.com/blogs/pundits-blog/energy-environment/287945-finally-some-fairness-for-electricity-ratepayers",
+        "display_url": "thehill.com/blogs/pundits-…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755409590683041800,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 19 14:30:55 +0000 2016",
+    "text": "Shout out to @GoddardHigh graduate Tucker Vang as he heads to Lawrence to play basketball at KU! @KUHoops https://t.co/ofo2lVafXE",
+    "retweets": 1,
+    "favorites": 8,
+    "urls": [
+      {
+        "url": "https://t.co/ofo2lVafXE",
+        "expanded_url": "http://kuathletics.com/news/2016/7/18/tucker-vang-joins-kansas-mens-basketball-team.aspx?path=mbball",
+        "display_url": "kuathletics.com/news/2016/7/18…",
+        "indices": [
+          106,
+          129
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755167821009674200,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 18 22:30:13 +0000 2016",
+    "text": "#Russia delivers S-300 missiles to #Iran. Is this \"making America safer\" that @POTUS promised with the nuclear deal? https://t.co/Aa68oht8Cu",
+    "retweets": 15,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/Aa68oht8Cu",
+        "expanded_url": "http://www.reuters.com/article/us-russia-iran-missiles-idUSKCN0ZY0N7",
+        "display_url": "reuters.com/article/us-rus…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755149323562807300,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 18 21:16:43 +0000 2016",
+    "text": "Reports #Iran tested ballistic missile. @CENTCOM General: \"Iran’s behavior hasn’t significantly changed\" post-JCPOA\nhttps://t.co/CtZpEIdFHK",
+    "retweets": 3,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/CtZpEIdFHK",
+        "expanded_url": "http://www.foxnews.com/world/2016/07/15/exclusive-iran-conducts-4th-missile-test-since-signing-nuke-deal.html",
+        "display_url": "foxnews.com/world/2016/07/…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 755130789260648400,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 18 20:03:04 +0000 2016",
+    "text": "Grant Pierce of #Wichita breaks national shot put record in his division. Way to go Grant! #MondayMotivation #Kansas https://t.co/DYH5fgtNkY",
+    "retweets": 0,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/DYH5fgtNkY",
+        "expanded_url": "http://www.kake.com/story/32446971/wichita-boy-breaks-national-record-in-paralympic-style-contest",
+        "display_url": "kake.com/story/32446971…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754839541823840300,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 18 00:45:45 +0000 2016",
+    "text": "B-29 Doc flies first time in 60 years! Thanks @Boeing @SpiritAero @DocsFriends &amp; volunteers. #DocFirstFlight #Kansas https://t.co/L9sXiTlkO2",
+    "retweets": 17,
+    "favorites": 47,
+    "urls": 0
+  },
+  {
+    "id": 754801660040474600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 17 22:15:13 +0000 2016",
+    "text": "Watch this video from @staffordecodevo on the help they got from the Bike &amp; Build organization! Way to go Carolyn!\nhttps://t.co/h5zgrKzXur",
+    "retweets": 1,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/h5zgrKzXur",
+        "expanded_url": "https://youtu.be/BHmivtQUYK8",
+        "display_url": "youtu.be/BHmivtQUYK8",
+        "indices": [
+          119,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754771504064262100,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 17 20:15:24 +0000 2016",
+    "text": "Got to meet Kayla Carpenter at @WestPoint_USMA, member of the national champion College Battlefrog team. Go Army! https://t.co/dgttuMc8hV",
+    "retweets": 3,
+    "favorites": 29,
+    "urls": 0
+  },
+  {
+    "id": 754739986570829800,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 17 18:10:09 +0000 2016",
+    "text": "Incredible to see a young entrepreneur whose business is founded upon the values and traditions of the heartland! https://t.co/NitXoLrH3x",
+    "retweets": 0,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/NitXoLrH3x",
+        "expanded_url": "http://www.derbyinformer.com/news/business/leatherman-starts-midwest-clothing-lifestyle-brand/article_db7fa2ce-485d-11e6-8253-3fd2b1f7520e.html",
+        "display_url": "derbyinformer.com/news/business/…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754675179788181500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 17 13:52:38 +0000 2016",
+    "text": "The Gypsum Hills of Barber &amp; Comanche Counties are breathtaking, especially in light of this spring’s fire. #Kansas https://t.co/YRISj8WBh1",
+    "retweets": 5,
+    "favorites": 23,
+    "urls": 0
+  },
+  {
+    "id": 754363778603556900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 16 17:15:14 +0000 2016",
+    "text": "This U.S. purchase of heavy water from Iran is not required by the nuclear deal, nor does it make our country safer. https://t.co/5Cvq43ReeS",
+    "retweets": 11,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/5Cvq43ReeS",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399075",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754138970359861200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 16 02:21:56 +0000 2016",
+    "text": ".@JZarif &amp; #Iran govt about as democratic as that of @RT_Erdogan -- both are totalitarian Islamist dictatorships.   https://t.co/jQIa2ObKGy",
+    "retweets": 102,
+    "favorites": 87,
+    "urls": [
+      {
+        "url": "https://t.co/jQIa2ObKGy",
+        "expanded_url": "https://twitter.com/jzarif/status/754114217159065600",
+        "display_url": "twitter.com/jzarif/status/…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754120907342446600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 16 01:10:09 +0000 2016",
+    "text": "Met Cadet Hugh McConnell, #NewtonHighSchool graduate.  He is leading all of Cadet field training at @WestPoint_USMA! https://t.co/pD9tSKLPCY",
+    "retweets": 4,
+    "favorites": 17,
+    "urls": 0
+  },
+  {
+    "id": 754100802168451100,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 15 23:50:16 +0000 2016",
+    "text": "Had a great time discussing Kansas Ag issues and priorities with members of @kansasag this week. https://t.co/P6FuhJNZ6I",
+    "retweets": 3,
+    "favorites": 12,
+    "urls": 0
+  },
+  {
+    "id": 754069374877704200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 15 21:45:23 +0000 2016",
+    "text": "Congrats to Turner Lagpacan for winning the Carnegie Hero Medal, and thank you for your incredible act of bravery! https://t.co/BAdKCpuy3V",
+    "retweets": 6,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/BAdKCpuy3V",
+        "expanded_url": "http://www.kansas.com/news/local/article88764337.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754049998988468200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 15 20:28:23 +0000 2016",
+    "text": "Yesterday's attack in France was devastating. My prayers go out to the lost &amp; their loved ones. Radical Islamic terrorism must be ended.",
+    "retweets": 8,
+    "favorites": 17,
+    "urls": 0
+  },
+  {
+    "id": 754009001319432200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 15 17:45:29 +0000 2016",
+    "text": "The Scherich family’s love of the land &amp; the way these Kansans have run their ranch for 40 years is inspiring! https://t.co/sDRxvGsVFt",
+    "retweets": 1,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/sDRxvGsVFt",
+        "expanded_url": "http://www.kansasagland.com/news/stateagnews/the-end-of-an-era-a-cowboy-s-last-ride/article_69b90789-e631-5e6d-9627-ec141fa2d806.html",
+        "display_url": "kansasagland.com/news/stateagne…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753693111067566100,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 14 20:50:15 +0000 2016",
+    "text": "Thrilled to welcome Changa Changa to DC today! His amazing story is one of great love. More: https://t.co/T9j51uN9kK https://t.co/SIoXgyU1Wc",
+    "retweets": 2,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/T9j51uN9kK",
+        "expanded_url": "http://www.kansas.com/news/local/article84719592.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          93,
+          116
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753673225046032400,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 14 19:31:14 +0000 2016",
+    "text": "It's the 1 year #Iranniverary of the nuclear deal with #Iran.  I wrote an op-ed outlining what a disaster it's been: https://t.co/EvKgqsbWbN",
+    "retweets": 43,
+    "favorites": 29,
+    "urls": [
+      {
+        "url": "https://t.co/EvKgqsbWbN",
+        "expanded_url": "http://www.foxnews.com/opinion/2016/07/14/rep-mike-pompeo-one-year-later-obama-s-iran-nuclear-deal-puts-us-at-increased-risk.html",
+        "display_url": "foxnews.com/opinion/2016/0…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753642168976347100,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 14 17:27:49 +0000 2016",
+    "text": "This bill helps our Ag community feed a growing world &amp; keep food affordable for everyone. #kansas  @KSFarmBureau https://t.co/afD7akbxJp",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/afD7akbxJp",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399076",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          118,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753612631739658200,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 14 15:30:27 +0000 2016",
+    "text": "\"More probable than not\" #TomBrady knew of deflation = 4 games. @HillaryClinton’s classified emails = Nothing?? https://t.co/SnB2LdJZLE",
+    "retweets": 25,
+    "favorites": 23,
+    "urls": [
+      {
+        "url": "https://t.co/SnB2LdJZLE",
+        "expanded_url": "http://www.usatoday.com/story/sports/nfl/patriots/2016/07/13/tom-brady-deflategate-appeal-denied-2nd-circuit-supreme-court/87024718/",
+        "display_url": "usatoday.com/story/sports/n…",
+        "indices": [
+          112,
+          135
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753411423879868400,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 14 02:10:55 +0000 2016",
+    "text": "Pleased to see the House pass an important bill I sponsored to stop this reckless &amp; unnecessary concession to Iran. https://t.co/9i3MbPcQx1",
+    "retweets": 7,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/9i3MbPcQx1",
+        "expanded_url": "https://twitter.com/reuters/status/753375592624615424",
+        "display_url": "twitter.com/reuters/status…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753386158286106600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 14 00:30:32 +0000 2016",
+    "text": "\"#Iran Indicts Dual Nationals, including US Businessman, But Doesn’t Say for What.\" Troubling development. https://t.co/MyW2FMK4E0",
+    "retweets": 7,
+    "favorites": 2,
+    "urls": [
+      {
+        "url": "https://t.co/MyW2FMK4E0",
+        "expanded_url": "https://www.washingtonpost.com/world/national-security/iran-indicts-dual-nationals-including-a-us-businessman-but-wont-say-for-what/2016/07/11/ad6b0b96-4775-11e6-90a8-fb84201e0645_story.html?tid=sm_tw",
+        "display_url": "washingtonpost.com/world/national…",
+        "indices": [
+          107,
+          130
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753330039530422300,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 13 20:47:32 +0000 2016",
+    "text": "Going to speak on the House floor about my bill to stop the purchase of Iranian nuclear material - tune in! @cspan https://t.co/HLokDvDcMP",
+    "retweets": 20,
+    "favorites": 26,
+    "urls": 0
+  },
+  {
+    "id": 753265441116741600,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 13 16:30:50 +0000 2016",
+    "text": "Congratulations to former K-Stater Erik Kynard on his upcoming return to the Olympics! https://t.co/4RKYkvNvSD",
+    "retweets": 0,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/4RKYkvNvSD",
+        "expanded_url": "http://www.kansas.com/sports/olympics/article88815262.html",
+        "display_url": "kansas.com/sports/olympic…",
+        "indices": [
+          87,
+          110
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753227877278154800,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 13 14:01:34 +0000 2016",
+    "text": "The Obama admin is acting outside framework of nuke deal - Sending millions to #Iran &amp; supporting their nuke program https://t.co/CPbGfDt473",
+    "retweets": 44,
+    "favorites": 24,
+    "urls": [
+      {
+        "url": "https://t.co/CPbGfDt473",
+        "expanded_url": "https://www.washingtonpost.com/opinions/global-opinions/house-gop-to-tackle-new-iran-sanctions-before-leaving-town/2016/07/11/e2cb620c-4790-11e6-90a8-fb84201e0645_story.html",
+        "display_url": "washingtonpost.com/opinions/globa…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753061453708623900,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 13 03:00:16 +0000 2016",
+    "text": "My team had a wonderful time in Kingman County today! #Kansas #beststateever https://t.co/MzspmWGTR5",
+    "retweets": 2,
+    "favorites": 13,
+    "urls": 0
+  },
+  {
+    "id": 753023707719827500,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 13 00:30:17 +0000 2016",
+    "text": "The FAA extension is a positive step, but we must work harder to address the many challenges facing #generalaviation https://t.co/tb4MxaUnIL",
+    "retweets": 6,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/tb4MxaUnIL",
+        "expanded_url": "https://www.ajot.com/news/house-passes-bipartisan-faa-extension",
+        "display_url": "ajot.com/news/house-pas…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752993507791495200,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 12 22:30:16 +0000 2016",
+    "text": "Humbled to be awarded the 2016 @ASA_Soybeans Soy Champion Award.  I will continue to work to live up to the honor. https://t.co/6FwMycH7DO",
+    "retweets": 1,
+    "favorites": 15,
+    "urls": 0
+  },
+  {
+    "id": 752968950892392400,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 12 20:52:42 +0000 2016",
+    "text": ".@HillaryClinton is the embodiment of @POTUS' concerns over lax security culture in gov't. This culture must change.\nhttps://t.co/JFB9IilD9R",
+    "retweets": 5,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/JFB9IilD9R",
+        "expanded_url": "http://thehill.com/policy/cybersecurity/overnights/287269-overnight-cybersecurity-privacy-shield-expected-on-tuesday",
+        "display_url": "thehill.com/policy/cyberse…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752937650374471700,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 12 18:48:19 +0000 2016",
+    "text": "#Iran central Bank, @USTreasury &amp; int'l banks meeting in #London. Is US pressuring banks to invest on the agenda? https://t.co/YWO8mA9AOK",
+    "retweets": 9,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/YWO8mA9AOK",
+        "expanded_url": "http://www.reuters.com/article/us-iran-nuclear-sanctions-banks-idUSKCN0ZS1EG?feedType=RSS&feedName=Iran&virtualBrandChannel=10209&utm_source=dlvr.it&utm_medium=twitter",
+        "display_url": "reuters.com/article/us-ira…",
+        "indices": [
+          118,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752884212110352400,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 12 15:15:58 +0000 2016",
+    "text": "July 17th, Doc will take its first flight after 16 years of hard work. A national treasure returns to the skies! https://t.co/0CMGLvlh6E",
+    "retweets": 5,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/0CMGLvlh6E",
+        "expanded_url": "http://www.bizjournals.com/wichita/blog/2016/07/b-29-doc-scheduled-for-july-17-first-flight.html",
+        "display_url": "bizjournals.com/wichita/blog/2…",
+        "indices": [
+          113,
+          136
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752623636373246000,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 11 22:00:32 +0000 2016",
+    "text": "I’ll be joining @LouDobbs tonight on @FoxBusiness at 6pmCT/7pmET.  Be sure to tune in!",
+    "retweets": 5,
+    "favorites": 11,
+    "urls": 0
+  },
+  {
+    "id": 752603623490744300,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 11 20:41:01 +0000 2016",
+    "text": "This German intel report on Iran’s efforts to secure nuclear &amp; missile technology &amp; material is extremely troubling https://t.co/ImkEF9QEMs",
+    "retweets": 29,
+    "favorites": 18,
+    "urls": [
+      {
+        "url": "https://t.co/ImkEF9QEMs",
+        "expanded_url": "http://freebeacon.com/national-security/obama-admin-brushes-off-intel-iran-buying-nuke-missile-materials/",
+        "display_url": "freebeacon.com/national-secur…",
+        "indices": [
+          124,
+          147
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752277511397052400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 10 23:05:10 +0000 2016",
+    "text": "I demand that there be a review of Hillary Clinton &amp; members of her staff’s access to classified info. Read more: https://t.co/RH04JLRdJl",
+    "retweets": 61,
+    "favorites": 114,
+    "urls": [
+      {
+        "url": "https://t.co/RH04JLRdJl",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399074",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          118,
+          141
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752171825526820900,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 10 16:05:12 +0000 2016",
+    "text": "America's economy is not out of the woods, despite @POTUS’s best efforts to tell us otherwise.  https://t.co/tUnJUj4BFB",
+    "retweets": 11,
+    "favorites": 10,
+    "urls": [
+      {
+        "url": "https://t.co/tUnJUj4BFB",
+        "expanded_url": "http://cnsnews.com/news/article/susan-jones/economy-adds-jobs-june",
+        "display_url": "cnsnews.com/news/article/s…",
+        "indices": [
+          96,
+          119
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751900027082174500,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 09 22:05:10 +0000 2016",
+    "text": "I am pleased the Senate has acted to protect Kansas farmers and ensure continued access to safe and affordable food https://t.co/gh0xuBIwEG",
+    "retweets": 4,
+    "favorites": 7,
+    "urls": [
+      {
+        "url": "https://t.co/gh0xuBIwEG",
+        "expanded_url": "http://pompeo.house.gov/news/documentsingle.aspx?DocumentID=399072",
+        "display_url": "pompeo.house.gov/news/documents…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751861060110516200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 09 19:30:20 +0000 2016",
+    "text": "Thanks @johnsoncontrols in Wichita for the tour. With the #Kansas heat, I should have taken a few A/C units home! https://t.co/6TXZHxllWd",
+    "retweets": 7,
+    "favorites": 14,
+    "urls": 0
+  },
+  {
+    "id": 751823422116786200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 09 17:00:46 +0000 2016",
+    "text": "A new exhibit will serve as a powerful trubute to the heores of 9/11 and all those lost that day. Learn more: https://t.co/r3I3RwxmIx",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/r3I3RwxmIx",
+        "expanded_url": "http://www.derbyinformer.com/news/area_news/mobile-exhibit-shares-heroes-stories/article_16b325d4-42df-11e6-b67e-1f5f2d41fd52.html",
+        "display_url": "derbyinformer.com/news/area_news…",
+        "indices": [
+          110,
+          133
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751506430658830300,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 08 20:01:10 +0000 2016",
+    "text": ".@HillaryClinton's email server was probably hacked according to experts. She can't be trusted w/ sensitive info. https://t.co/1npBzyUJ8w",
+    "retweets": 10,
+    "favorites": 19,
+    "urls": [
+      {
+        "url": "https://t.co/1npBzyUJ8w",
+        "expanded_url": "http://www.nytimes.com/2016/07/07/us/hillary-clintons-email-was-probably-hacked-experts-say.html?_r=2",
+        "display_url": "nytimes.com/2016/07/07/us/…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751448955758731300,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 08 16:12:46 +0000 2016",
+    "text": "I stand proudly with the men &amp; women of law enforcement. May God bring comfort to the families of the lost in Dallas https://t.co/WFnPuSsA6q",
+    "retweets": 22,
+    "favorites": 47,
+    "urls": 0
+  },
+  {
+    "id": 751440429258666000,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 08 15:38:54 +0000 2016",
+    "text": "Miracle no one injured in Eureka. Check-in at Eureka High School's East lot, 715 N. Jefferson to assist w/ cleanup https://t.co/nZW3cL0pTf",
+    "retweets": 0,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/nZW3cL0pTf",
+        "expanded_url": "http://www.kansas.com/news/weather/tornado/article88387337.html",
+        "display_url": "kansas.com/news/weather/t…",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751423271179022300,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 08 14:30:43 +0000 2016",
+    "text": "It’s fantastic to see the people of Wichita coming together to support local law enforcement with this great event! https://t.co/4PsUBQRuGJ",
+    "retweets": 8,
+    "favorites": 11,
+    "urls": [
+      {
+        "url": "https://t.co/4PsUBQRuGJ",
+        "expanded_url": "http://www.kansas.com/news/local/article87494802.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751166468696449000,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 07 21:30:16 +0000 2016",
+    "text": "Without a doubt, former Secretary of State @HillaryClinton should be denied access to classified info moving forward https://t.co/kTM54jrd3A",
+    "retweets": 19,
+    "favorites": 29,
+    "urls": [
+      {
+        "url": "https://t.co/kTM54jrd3A",
+        "expanded_url": "http://video.foxnews.com/v/5024025135001/should-careless-clinton-be-denied-intel-access/?playlist_id=86925#sp=show-clips",
+        "display_url": "video.foxnews.com/v/502402513500…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751140649181806600,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 07 19:47:40 +0000 2016",
+    "text": "If you or I were accused of being “extremely careless” w/ US’s secrets, we'd experience a harsh federal response. https://t.co/jGg7d85Not",
+    "retweets": 22,
+    "favorites": 33,
+    "urls": [
+      {
+        "url": "https://t.co/jGg7d85Not",
+        "expanded_url": "http://thehill.com/blogs/congress-blog/judicial/286827-rule-of-law-damaged-by-comeys-inexplicable-decision",
+        "display_url": "thehill.com/blogs/congress…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751062018950590500,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 07 14:35:14 +0000 2016",
+    "text": "Kansan Vernon Rickman’s artistic work  will be available at a new exhibit in his hometown of Newton! https://t.co/OLTKL08C5K",
+    "retweets": 3,
+    "favorites": 3,
+    "urls": [
+      {
+        "url": "https://t.co/OLTKL08C5K",
+        "expanded_url": "http://www.hutchnews.com/the_bee/prolific-personal-works-of-newton-artist-honored-in-new-exhibit/article_8fad2fad-ade6-513b-82e3-6540e6fe4b00.html",
+        "display_url": "hutchnews.com/the_bee/prolif…",
+        "indices": [
+          101,
+          124
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750856978876989400,
+    "account": "RepMikePompeo",
+    "timestamp": "Thu Jul 07 01:00:28 +0000 2016",
+    "text": "Air Force Capt. Tim Finley riding in Mongol Derby endurance race to raise awareness for veteran suicide. God bless! https://t.co/OQ1fCe2Qfg",
+    "retweets": 16,
+    "favorites": 14,
+    "urls": [
+      {
+        "url": "https://t.co/OQ1fCe2Qfg",
+        "expanded_url": "http://www.kansas.com/news/local/article87506962.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750796555561689100,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 06 21:00:22 +0000 2016",
+    "text": "Be sure to tune in to @greta tonight at 6pmCT/7pmET – I’ll be talking about the FBI’s unexplainable decision on the Clinton email scandal.",
+    "retweets": 7,
+    "favorites": 14,
+    "urls": 0
+  },
+  {
+    "id": 750780611128856600,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 06 19:57:01 +0000 2016",
+    "text": "We all are less safe today thanks to Hillary’s negligence w/ sensitive information regarding our national security.\nhttps://t.co/VlRBSp5Pfj",
+    "retweets": 39,
+    "favorites": 34,
+    "urls": [
+      {
+        "url": "https://t.co/VlRBSp5Pfj",
+        "expanded_url": "http://townhall.com/tipsheet/cortneyobrien/2016/07/06/gop-rep-your-friends-in-the-military-today-are-less-safe-thanks-to-hillarys-email-abuse-n2188800",
+        "display_url": "townhall.com/tipsheet/cortn…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750706223566250000,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 06 15:01:25 +0000 2016",
+    "text": "The new housing additions at McConnell Air Force Base look fantastic &amp; the great airmen stationed there deserve it! https://t.co/VRBO3kSZWR",
+    "retweets": 4,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/VRBO3kSZWR",
+        "expanded_url": "http://www.kansas.com/news/local/article87603802.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          120,
+          143
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750551937976770600,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 06 04:48:21 +0000 2016",
+    "text": ".@HillaryClinton sent/received 110 classified emails. Her \"extreme carelessness\" precludes her EVER receiving American secrets again. EVER.",
+    "retweets": 41,
+    "favorites": 49,
+    "urls": 0
+  },
+  {
+    "id": 750494594371088400,
+    "account": "RepMikePompeo",
+    "timestamp": "Wed Jul 06 01:00:29 +0000 2016",
+    "text": "James Comey and the FBI are wrong. There is no difference between grossly negligent and extremely careless. https://t.co/bkp1xYGxPM",
+    "retweets": 54,
+    "favorites": 68,
+    "urls": [
+      {
+        "url": "https://t.co/bkp1xYGxPM",
+        "expanded_url": "http://www.politico.com/story/2016/07/fbi-recommends-no-charges-against-clinton-in-email-probe-225102",
+        "display_url": "politico.com/story/2016/07/…",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750471906982301700,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 05 23:30:20 +0000 2016",
+    "text": "Sunday, I appeared on @SundayFutures with @MariaBartiromo to discuss our #BenghaziReport findings.  Check it out: https://t.co/bgfRJFYncr",
+    "retweets": 51,
+    "favorites": 113,
+    "urls": [
+      {
+        "url": "https://t.co/bgfRJFYncr",
+        "expanded_url": "http://video.foxnews.com/v/5019749198001/rep-pompeo-outlines-important-findings-in-benghazi-report-/?playlist_id=3386055101001#sp=show-clips",
+        "display_url": "video.foxnews.com/v/501974919800…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750421908471050200,
+    "account": "RepMikePompeo",
+    "timestamp": "Tue Jul 05 20:11:39 +0000 2016",
+    "text": "Always an honor to meet with a true American hero and Kansas legend! https://t.co/kTH5SFXGKg",
+    "retweets": 7,
+    "favorites": 15,
+    "urls": [
+      {
+        "url": "https://t.co/kTH5SFXGKg",
+        "expanded_url": "https://twitter.com/SenatorDole/status/750384712527544320",
+        "display_url": "twitter.com/SenatorDole/st…",
+        "indices": [
+          69,
+          92
+        ]
+      }
+    ]
+  },
+  {
+    "id": 750093103613247500,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 04 22:25:06 +0000 2016",
+    "text": "This July 4th I'm thankful for the men &amp; women of our military, including those from my congressional office. https://t.co/FlL3TYJlD3",
+    "retweets": 7,
+    "favorites": 20,
+    "urls": [
+      {
+        "url": "https://t.co/FlL3TYJlD3",
+        "expanded_url": "http://americanmilitarynews.com/2016/07/u-s-congressman-mike-pompeo-counts-on-fellow-veterans-for-continued-success/",
+        "display_url": "americanmilitarynews.com/2016/07/u-s-co…",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749966442297233400,
+    "account": "RepMikePompeo",
+    "timestamp": "Mon Jul 04 14:01:48 +0000 2016",
+    "text": "Wishing you all a safe and happy Independence Day. May God continue to bless the United States of America! https://t.co/cCJitZa5R0",
+    "retweets": 17,
+    "favorites": 37,
+    "urls": 0
+  },
+  {
+    "id": 749739659924762600,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 03 23:00:39 +0000 2016",
+    "text": ".@USNavy Commander surrendered b/c of @POTUS's #Irandeal. @WashTimes on Iran's capture of 10 US sailors https://t.co/A7gssfotxQ",
+    "retweets": 11,
+    "favorites": 6,
+    "urls": [
+      {
+        "url": "https://t.co/A7gssfotxQ",
+        "expanded_url": "http://www.washingtontimes.com/news/2016/jun/30/navy-commander-surrendered-to-iran-to-protect-obam/",
+        "display_url": "washingtontimes.com/news/2016/jun/…",
+        "indices": [
+          104,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749671688074367000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 03 18:30:33 +0000 2016",
+    "text": ".@WichitaState grad &amp; lecturer, Nick Taylor, will represent the US at the 2016 Paralympic Games in Rio. Go get em! https://t.co/ZWKX38icY6",
+    "retweets": 2,
+    "favorites": 5,
+    "urls": [
+      {
+        "url": "https://t.co/ZWKX38icY6",
+        "expanded_url": "http://www.wichita.edu/thisis/stories/story.asp?si=3308",
+        "display_url": "wichita.edu/thisis/stories…",
+        "indices": [
+          119,
+          142
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749646456659800000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sun Jul 03 16:50:17 +0000 2016",
+    "text": "Obamacare is a disaster that Kansas can no longer afford! Let’s repeal &amp; replace it w/ true patient-centric reforms. https://t.co/keE3heB3Xy",
+    "retweets": 20,
+    "favorites": 21,
+    "urls": [
+      {
+        "url": "https://t.co/keE3heB3Xy",
+        "expanded_url": "http://www.thefiscaltimes.com/Columns/2016/06/30/Obamacare-Insurers-Are-Looking-Taxpayer-Bailout",
+        "display_url": "thefiscaltimes.com/Columns/2016/0…",
+        "indices": [
+          121,
+          144
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749373389131874300,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 02 22:45:13 +0000 2016",
+    "text": "Read this story about Spencer, the 106 yr old @GoShockersfan. I need to consult him about my March Madness bracket. https://t.co/E9wJbL3szW",
+    "retweets": 3,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/E9wJbL3szW",
+        "expanded_url": "http://www.kansas.com/news/local/article86467322.html",
+        "display_url": "kansas.com/news/local/art…",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749356910344679400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 02 21:39:44 +0000 2016",
+    "text": "The crest of the future USS Wichita (LCS 13) was unveiled at the @WAMinWichita this morning! #Wichita #Kansas https://t.co/QGsOpoG5Z6",
+    "retweets": 16,
+    "favorites": 26,
+    "urls": 0
+  },
+  {
+    "id": 749323027029131300,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 02 19:25:06 +0000 2016",
+    "text": "The Boston Marathon bomber deserves the death penalty and so do members of Al Qaeda, hell-bent on killing Americans. https://t.co/Zg4Sv5ZuPK",
+    "retweets": 14,
+    "favorites": 22,
+    "urls": [
+      {
+        "url": "https://t.co/Zg4Sv5ZuPK",
+        "expanded_url": "http://www.reuters.com/article/us-usa-boston-qaeda-idUSKCN0ZH4TM?utm_source=facebook&utm_medium=Social",
+        "display_url": "reuters.com/article/us-usa…",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749299661471486000,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 02 17:52:15 +0000 2016",
+    "text": "Yeah. Clinton interrogation by criminal investigators was \"voluntary\" -- like paying taxes. Do it or go to jail.  https://t.co/BL2uy8LTJS",
+    "retweets": 62,
+    "favorites": 66,
+    "urls": [
+      {
+        "url": "https://t.co/BL2uy8LTJS",
+        "expanded_url": "http://bloom.bg/29a1ZLi",
+        "display_url": "bloom.bg/29a1ZLi",
+        "indices": [
+          114,
+          137
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749267726305296400,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 02 15:45:21 +0000 2016",
+    "text": "Best of luck to former Shocker, Austin Bahner, as he competes in the U.S. Olympic trials this week! https://t.co/rvoCJIRnDI",
+    "retweets": 0,
+    "favorites": 9,
+    "urls": [
+      {
+        "url": "https://t.co/rvoCJIRnDI",
+        "expanded_url": "http://www.kansas.com/sports/college/wichita-state/article86859577.html",
+        "display_url": "kansas.com/sports/college…",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "id": 749030036980789200,
+    "account": "RepMikePompeo",
+    "timestamp": "Sat Jul 02 00:00:51 +0000 2016",
+    "text": "Thank you for your service, both to your community and country! https://t.co/41av0VKtAG",
+    "retweets": 7,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/41av0VKtAG",
+        "expanded_url": "http://www.thekansan.com/news/20160629/serving-country-and-community",
+        "display_url": "thekansan.com/news/20160629/…",
+        "indices": [
+          64,
+          87
+        ]
+      }
+    ]
+  },
+  {
+    "id": 748909472760885200,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 01 16:01:47 +0000 2016",
+    "text": "It’s county fair season in Kansas! Make sure you stop and say “hi” if you see me at your local fairground.  https://t.co/Qqkwa2KFSh",
+    "retweets": 0,
+    "favorites": 4,
+    "urls": [
+      {
+        "url": "https://t.co/Qqkwa2KFSh",
+        "expanded_url": "http://www.sjnewsonline.com/news/20160628/stafford-county-fair-is-all-about-traditions",
+        "display_url": "sjnewsonline.com/news/20160628/…",
+        "indices": [
+          108,
+          131
+        ]
+      }
+    ]
+  },
+  {
+    "id": 748705253994950700,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 01 02:30:17 +0000 2016",
+    "text": "Yesterday I was on @Varneyco, of @FoxBusiness discussing the recently released #BenghaziReport.  Watch: https://t.co/MAxNyBA3Dg",
+    "retweets": 9,
+    "favorites": 13,
+    "urls": [
+      {
+        "url": "https://t.co/MAxNyBA3Dg",
+        "expanded_url": "http://video.foxbusiness.com/v/5007326067001/rep-pompeo-on-benghazi-report/?#sp=show-clips",
+        "display_url": "video.foxbusiness.com/v/500732606700…",
+        "indices": [
+          104,
+          127
+        ]
+      }
+    ]
+  },
+  {
+    "id": 748682624324034600,
+    "account": "RepMikePompeo",
+    "timestamp": "Fri Jul 01 01:00:22 +0000 2016",
+    "text": "I was honored to speak to a hall full of great Americans at the @WichitaVAMC this evening. #Kansas #veterans https://t.co/yistOTYSTj",
+    "retweets": 3,
+    "favorites": 13,
+    "urls": 0
+  }
+]

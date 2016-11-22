@@ -1,0 +1,381 @@
+[
+  {
+    "id": 800755120526991400,
+    "account": "SenatorSessions",
+    "timestamp": "Mon Nov 21 17:37:52 +0000 2016",
+    "text": "Sessions Comments On Passing Of U.S. Deputy Commander Patrick Carothers: https://t.co/y18zAVpCsO",
+    "retweets": 52,
+    "favorites": 103,
+    "urls": [
+      {
+        "url": "https://t.co/y18zAVpCsO",
+        "expanded_url": "http://bit.ly/2gePDpX",
+        "display_url": "bit.ly/2gePDpX",
+        "indices": [
+          73,
+          96
+        ]
+      }
+    ]
+  },
+  {
+    "id": 795431201632821200,
+    "account": "SenatorSessions",
+    "timestamp": "Mon Nov 07 01:02:31 +0000 2016",
+    "text": "Sessions Response To President Obama’s Comments On Illegal Immigrants Voting In U.S. https://t.co/onhwra8OtV",
+    "retweets": 3799,
+    "favorites": 3651,
+    "urls": [
+      {
+        "url": "https://t.co/onhwra8OtV",
+        "expanded_url": "http://bit.ly/2fvPtsL",
+        "display_url": "bit.ly/2fvPtsL",
+        "indices": [
+          85,
+          108
+        ]
+      }
+    ]
+  },
+  {
+    "id": 788428775667208200,
+    "account": "SenatorSessions",
+    "timestamp": "Tue Oct 18 17:17:23 +0000 2016",
+    "text": "Chairman Sessions: Obama Administration Confirms Surge In Illegal Immigration: https://t.co/uDfPt99mZ0",
+    "retweets": 587,
+    "favorites": 434,
+    "urls": [
+      {
+        "url": "https://t.co/uDfPt99mZ0",
+        "expanded_url": "http://bit.ly/2ehXfGH",
+        "display_url": "bit.ly/2ehXfGH",
+        "indices": [
+          79,
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "id": 787047426678886400,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Oct 14 21:48:23 +0000 2016",
+    "text": "Sessions Comments On Passing Of Lucy Baxley: https://t.co/QjkGTu6eJe",
+    "retweets": 35,
+    "favorites": 91,
+    "urls": [
+      {
+        "url": "https://t.co/QjkGTu6eJe",
+        "expanded_url": "http://bit.ly/2dCLc6e",
+        "display_url": "bit.ly/2dCLc6e",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ]
+  },
+  {
+    "id": 779021582853402600,
+    "account": "SenatorSessions",
+    "timestamp": "Thu Sep 22 18:16:33 +0000 2016",
+    "text": "Sessions Comments On Naming Of USS MOBILE: https://t.co/QCErp0cWfE",
+    "retweets": 43,
+    "favorites": 79,
+    "urls": [
+      {
+        "url": "https://t.co/QCErp0cWfE",
+        "expanded_url": "http://bit.ly/2d3e36H",
+        "display_url": "bit.ly/2d3e36H",
+        "indices": [
+          43,
+          66
+        ]
+      }
+    ]
+  },
+  {
+    "id": 778282516943892500,
+    "account": "SenatorSessions",
+    "timestamp": "Tue Sep 20 17:19:46 +0000 2016",
+    "text": "Sessions: Obama Administration Subordinates Concerns Of The American People To Advance Agenda Of The United Nations: https://t.co/vvxvSnIHGI",
+    "retweets": 552,
+    "favorites": 439,
+    "urls": [
+      {
+        "url": "https://t.co/vvxvSnIHGI",
+        "expanded_url": "http://bit.ly/2cWQ7Sa",
+        "display_url": "bit.ly/2cWQ7Sa",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  {
+    "id": 775801300139274200,
+    "account": "SenatorSessions",
+    "timestamp": "Tue Sep 13 21:00:18 +0000 2016",
+    "text": "Sessions: Obama Admin Endangers Americans With Reckless Plans To Admit 110,000 Refugees in FY 2017: https://t.co/pXEp5N8Sbt",
+    "retweets": 650,
+    "favorites": 492,
+    "urls": [
+      {
+        "url": "https://t.co/pXEp5N8Sbt",
+        "expanded_url": "http://bit.ly/2c8TSV7",
+        "display_url": "bit.ly/2c8TSV7",
+        "indices": [
+          100,
+          123
+        ]
+      }
+    ]
+  },
+  {
+    "id": 773278816919748600,
+    "account": "SenatorSessions",
+    "timestamp": "Tue Sep 06 21:56:51 +0000 2016",
+    "text": "Sessions Comments On Passing Of Phyllis Schlafly: https://t.co/irTNwxxc2U",
+    "retweets": 59,
+    "favorites": 124,
+    "urls": [
+      {
+        "url": "https://t.co/irTNwxxc2U",
+        "expanded_url": "http://bit.ly/2cmllQE",
+        "display_url": "bit.ly/2cmllQE",
+        "indices": [
+          50,
+          73
+        ]
+      }
+    ]
+  },
+  {
+    "id": 767757782162534400,
+    "account": "SenatorSessions",
+    "timestamp": "Mon Aug 22 16:18:14 +0000 2016",
+    "text": "Radical Circuit Court Decision Endangers Americans, Benefits Criminal Aliens: https://t.co/6cPU3VBypR:",
+    "retweets": 283,
+    "favorites": 208,
+    "urls": [
+      {
+        "url": "https://t.co/6cPU3VBypR",
+        "expanded_url": "http://bit.ly/2bZ9VWdSessions",
+        "display_url": "bit.ly/2bZ9VWdSessions",
+        "indices": [
+          78,
+          101
+        ]
+      }
+    ]
+  },
+  {
+    "id": 764245111299567600,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Aug 12 23:40:08 +0000 2016",
+    "text": "Sessions: Trans-Pacific Partnership Is A Failed Agreement, Must Be Rejected: https://t.co/qapatuyCZ5",
+    "retweets": 656,
+    "favorites": 688,
+    "urls": [
+      {
+        "url": "https://t.co/qapatuyCZ5",
+        "expanded_url": "http://bit.ly/2aRkM1E",
+        "display_url": "bit.ly/2aRkM1E",
+        "indices": [
+          77,
+          100
+        ]
+      }
+    ]
+  },
+  {
+    "id": 763467768226259000,
+    "account": "SenatorSessions",
+    "timestamp": "Wed Aug 10 20:11:15 +0000 2016",
+    "text": "Sessions: Refugee Terrorism Increases While Obama Administration Increases Flow: https://t.co/VKzmOelhis",
+    "retweets": 440,
+    "favorites": 353,
+    "urls": [
+      {
+        "url": "https://t.co/VKzmOelhis",
+        "expanded_url": "http://bit.ly/2aBHhZP",
+        "display_url": "bit.ly/2aBHhZP",
+        "indices": [
+          81,
+          104
+        ]
+      }
+    ]
+  },
+  {
+    "id": 761592322845007900,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Aug 05 15:58:54 +0000 2016",
+    "text": "Sessions: Obama’s Unprecedented Commutations of Violent Drug, Gun Felons Will Inflict Long-Term Harm on the Nation: https://t.co/5JyArHU7FJ",
+    "retweets": 531,
+    "favorites": 449,
+    "urls": [
+      {
+        "url": "https://t.co/5JyArHU7FJ",
+        "expanded_url": "http://bit.ly/2aAqasL",
+        "display_url": "bit.ly/2aAqasL",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  {
+    "id": 759143684948521000,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Jul 29 21:48:53 +0000 2016",
+    "text": "Sessions: DOJ Inspector General Finds Sanctuary Jurisdiction Policies Violate Federal Law: https://t.co/hX3vBacLdm",
+    "retweets": 946,
+    "favorites": 794,
+    "urls": [
+      {
+        "url": "https://t.co/hX3vBacLdm",
+        "expanded_url": "http://bit.ly/2aDkFsm",
+        "display_url": "bit.ly/2aDkFsm",
+        "indices": [
+          91,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "id": 758299673086001200,
+    "account": "SenatorSessions",
+    "timestamp": "Wed Jul 27 13:55:05 +0000 2016",
+    "text": "Obama Administration Plans To Expand Already Unlawful Immigration Program: https://t.co/EQvudJ2jCg",
+    "retweets": 888,
+    "favorites": 528,
+    "urls": [
+      {
+        "url": "https://t.co/EQvudJ2jCg",
+        "expanded_url": "http://bit.ly/2aq6CDS",
+        "display_url": "bit.ly/2aq6CDS",
+        "indices": [
+          75,
+          98
+        ]
+      }
+    ]
+  },
+  {
+    "id": 757955171657867300,
+    "account": "SenatorSessions",
+    "timestamp": "Tue Jul 26 15:06:09 +0000 2016",
+    "text": "CHART: Mid-Year Data Shows Homicides, Violent Crime Continue To Rise Across United States: https://t.co/MyyGh0akkR https://t.co/1MSMgcBAor",
+    "retweets": 429,
+    "favorites": 339,
+    "urls": [
+      {
+        "url": "https://t.co/MyyGh0akkR",
+        "expanded_url": "http://bit.ly/2ae2DIj",
+        "display_url": "bit.ly/2ae2DIj",
+        "indices": [
+          91,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "id": 754094555306332200,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Jul 15 23:25:27 +0000 2016",
+    "text": "Sessions Issues Statement On Terrorist Attack In France: https://t.co/ZfGzEVmKbd",
+    "retweets": 166,
+    "favorites": 197,
+    "urls": [
+      {
+        "url": "https://t.co/ZfGzEVmKbd",
+        "expanded_url": "http://bit.ly/29Bt52j",
+        "display_url": "bit.ly/29Bt52j",
+        "indices": [
+          57,
+          80
+        ]
+      }
+    ]
+  },
+  {
+    "id": 753989668585152500,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Jul 15 16:28:40 +0000 2016",
+    "text": "Sessions: Clinton Immigration Policy More Radical Than Obama's, Only Furthers Lawlessness: https://t.co/WRylUjG1r0",
+    "retweets": 745,
+    "favorites": 597,
+    "urls": [
+      {
+        "url": "https://t.co/WRylUjG1r0",
+        "expanded_url": "http://bit.ly/29OAhHy",
+        "display_url": "bit.ly/29OAhHy",
+        "indices": [
+          91,
+          114
+        ]
+      }
+    ]
+  },
+  {
+    "id": 752133446189850600,
+    "account": "SenatorSessions",
+    "timestamp": "Sun Jul 10 13:32:42 +0000 2016",
+    "text": "Sen. Sessions will appear on Fox News Sunday with Shannon Bream on the Fox News Channel this morning at 9:40 am EST/ 8:40 am CST.",
+    "retweets": 77,
+    "favorites": 152,
+    "urls": 0
+  },
+  {
+    "id": 751468288375459800,
+    "account": "SenatorSessions",
+    "timestamp": "Fri Jul 08 17:29:36 +0000 2016",
+    "text": "Sessions Issues Statement On Dallas Shooting: https://t.co/djBWJkRbW2",
+    "retweets": 109,
+    "favorites": 143,
+    "urls": [
+      {
+        "url": "https://t.co/djBWJkRbW2",
+        "expanded_url": "http://bit.ly/29E2oZ4",
+        "display_url": "bit.ly/29E2oZ4",
+        "indices": [
+          46,
+          69
+        ]
+      }
+    ]
+  },
+  {
+    "id": 751190103222001700,
+    "account": "SenatorSessions",
+    "timestamp": "Thu Jul 07 23:04:11 +0000 2016",
+    "text": "Sen. Sessions will appear on Greta Van Susteren’s On the Record on the Fox News Channel tonight at approximately 7:20 pm EST/ 6:20 pm CST.",
+    "retweets": 62,
+    "favorites": 159,
+    "urls": 0
+  },
+  {
+    "id": 750805279537856500,
+    "account": "SenatorSessions",
+    "timestamp": "Wed Jul 06 21:35:02 +0000 2016",
+    "text": "Sessions and Shelby: Halt Obama’s Plans To House Illegal Alien Juveniles In Baldwin County: https://t.co/sV4ztih7Gb",
+    "retweets": 209,
+    "favorites": 256,
+    "urls": [
+      {
+        "url": "https://t.co/sV4ztih7Gb",
+        "expanded_url": "http://bit.ly/29oLZqd",
+        "display_url": "bit.ly/29oLZqd",
+        "indices": [
+          92,
+          115
+        ]
+      }
+    ]
+  }
+]

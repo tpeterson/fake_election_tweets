@@ -1,45 +1,43 @@
 const fs = require('fs');
-const processDomain = require('./my_modules/process_domains');
+const getTopDomain = require('./my_modules/get_topDomain');
 const consolidateDomains = require('./my_modules/consolidate_domains');
 
 module.exports = analyzeTweets;
 
-const account_handle = 'realDonaldTrump';
+const account_handle = 'mike_pence';
 
 function analyzeTweets(tweets) {
   let tweets_w_links = getTweetsWithLinks(tweets);
-  let domains = getMultipleLinkDomains(tweets_w_links);
-  let top_domains = getMultipleTopDomains(domains);
-  let consolidated_domains = getConsolidatedDomains(top_domains);
+  let links = getURLs(tweets_w_links);
+  let domains = getDomains(links);
+  let consolidated_domains = getConsolidatedDomains(domains);
   return consolidated_domains;
 }
 
 function getTweetsWithLinks(tweets) {
   let tweets_w_links = [];
-
   tweets.forEach(function checkForURLs(tweet) {
     if (tweet.urls !== 0) {
       tweets_w_links.push(tweet);
     }
   });
-
   return tweets_w_links;
 }
 
-function getMultipleLinkDomains(tweets) {
-  let domains = [];
-  tweets.forEach(function getSingleLinkDomain(tweet) {
-    domains.push(tweet.urls[0].expanded_url);
+function getURLs(tweets) {
+  let urls = [];
+  tweets.forEach(function getURL(tweet) {
+    urls.push(tweet.urls[0].expanded_url);
   });
-  return domains;
+  return urls;
 }
 
-function getMultipleTopDomains(domains) {
+function getDomains(domains) {
   let top_domains = [];
-  domains.forEach(function getSingleTopDomain(domain) {
-    top_domains.push(processDomain(domain));
+  domains.forEach(function getDomain(domain) {
+    top_domains.push(getTopDomain(domain));
   });
-  return top_domains
+  return top_domains;
 }
 
 function getConsolidatedDomains(domains) {
