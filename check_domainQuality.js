@@ -39,12 +39,12 @@ let options = {
 };
 
 let req = http.request(options, function(response) {
-  response.setEncoding('utf8');
-  let responseData = '';
+  let responseData = new Buffer(0);
   response.on('data', function(chunk) {
     responseData += chunk;
   });
   response.on('end', function() {
+    let mozData = JSON.parse(responseData.toString());
     console.log(responseData);
   });
 });
