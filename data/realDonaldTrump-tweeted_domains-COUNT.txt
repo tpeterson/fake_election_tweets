@@ -1,0 +1,274 @@
+[
+  {
+    "domain": "vote.gop",
+    "count": 9
+  },
+  {
+    "domain": "twitter.com",
+    "count": 149
+  },
+  {
+    "domain": "facebook.com",
+    "count": 57
+  },
+  {
+    "domain": "periscope.tv",
+    "count": 1
+  },
+  {
+    "domain": "lifezette.com",
+    "count": 6
+  },
+  {
+    "domain": "townhall.com",
+    "count": 2
+  },
+  {
+    "domain": "realclearpolitics.com",
+    "count": 1
+  },
+  {
+    "domain": "donaldjtrump.com",
+    "count": 92
+  },
+  {
+    "domain": "breitbart.com",
+    "count": 12
+  },
+  {
+    "domain": "bit.ly",
+    "count": 52
+  },
+  {
+    "domain": "ijr.com",
+    "count": 1
+  },
+  {
+    "domain": "dailycaller.com",
+    "count": 20
+  },
+  {
+    "domain": "wsj.com",
+    "count": 4
+  },
+  {
+    "domain": "wjhg.com",
+    "count": 1
+  },
+  {
+    "domain": "freebeacon.com",
+    "count": 4
+  },
+  {
+    "domain": "bostonherald.com",
+    "count": 2
+  },
+  {
+    "domain": "washingtontimes.com",
+    "count": 7
+  },
+  {
+    "domain": "nypost.com",
+    "count": 9
+  },
+  {
+    "domain": "washingtonexaminer.com",
+    "count": 8
+  },
+  {
+    "domain": "foxnews.com",
+    "count": 5
+  },
+  {
+    "domain": "rsbn.tv",
+    "count": 1
+  },
+  {
+    "domain": "washingtonpost.com",
+    "count": 7
+  },
+  {
+    "domain": "youtube.com",
+    "count": 3
+  },
+  {
+    "domain": "nation.foxnews.com",
+    "count": 1
+  },
+  {
+    "domain": "thehill.com",
+    "count": 3
+  },
+  {
+    "domain": "politico.com",
+    "count": 4
+  },
+  {
+    "domain": "money.cnn.com",
+    "count": 1
+  },
+  {
+    "domain": "mcclatchydc.com",
+    "count": 1
+  },
+  {
+    "domain": "dailymail.co.uk",
+    "count": 4
+  },
+  {
+    "domain": "investors.com",
+    "count": 1
+  },
+  {
+    "domain": "shar.es",
+    "count": 2
+  },
+  {
+    "domain": "fxn.ws",
+    "count": 1
+  },
+  {
+    "domain": "mediaite.com",
+    "count": 1
+  },
+  {
+    "domain": "bloomberg.com",
+    "count": 2
+  },
+  {
+    "domain": "gop.cm",
+    "count": 2
+  },
+  {
+    "domain": "newsninja2012.com",
+    "count": 1
+  },
+  {
+    "domain": "publicintegrity.org",
+    "count": 1
+  },
+  {
+    "domain": "nytimes.com",
+    "count": 1
+  },
+  {
+    "domain": "710wor.iheart.com",
+    "count": 1
+  },
+  {
+    "domain": "nationalreview.com",
+    "count": 1
+  },
+  {
+    "domain": "bigstory.ap.org",
+    "count": 1
+  },
+  {
+    "domain": "weeklystandard.com",
+    "count": 1
+  },
+  {
+    "domain": "abcn.ws",
+    "count": 1
+  },
+  {
+    "domain": "instagram.com",
+    "count": 11
+  },
+  {
+    "domain": "theatln.tc",
+    "count": 1
+  },
+  {
+    "domain": "thegatewaypundit.com",
+    "count": 4
+  },
+  {
+    "domain": "foxbusiness.com",
+    "count": 1
+  },
+  {
+    "domain": "cnbc.com",
+    "count": 3
+  },
+  {
+    "domain": "wpo.st",
+    "count": 1
+  },
+  {
+    "domain": "philadelphia.cbslocal.com",
+    "count": 1
+  },
+  {
+    "domain": "abc7news.com",
+    "count": 1
+  },
+  {
+    "domain": "wapo.st",
+    "count": 1
+  },
+  {
+    "domain": "snappytv.com",
+    "count": 7
+  },
+  {
+    "domain": "youtu.be",
+    "count": 3
+  },
+  {
+    "domain": "theremembranceproject.org",
+    "count": 1
+  },
+  {
+    "domain": "morningconsult.com",
+    "count": 1
+  },
+  {
+    "domain": "amp.twimg.com",
+    "count": 10
+  },
+  {
+    "domain": "nbcnews.com",
+    "count": 1
+  },
+  {
+    "domain": "sessions.senate.gov",
+    "count": 1
+  },
+  {
+    "domain": "link.foreignpolicy.com",
+    "count": 1
+  },
+  {
+    "domain": "adweek.com",
+    "count": 1
+  },
+  {
+    "domain": "bizpacreview.com",
+    "count": 1
+  },
+  {
+    "domain": "radioiowa.com",
+    "count": 1
+  },
+  {
+    "domain": "kvnonews.com",
+    "count": 1
+  },
+  {
+    "domain": "ntknetwork.com",
+    "count": 1
+  },
+  {
+    "domain": "cbsn.ws",
+    "count": 1
+  },
+  {
+    "domain": "worldgolfawards.com",
+    "count": 1
+  },
+  {
+    "domain": "secure.donaldjtrump.com",
+    "count": 1
+  }
+]
